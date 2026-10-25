@@ -1,0 +1,10 @@
+# Local drafts, research archives and review artifacts.
+/archive/
+/reviews/
+/*reference review.md
+/Brazil*.html
+
+# Operating-system clutter.
+Thumbs.db
+Desktop.ini
+.DS_Store
