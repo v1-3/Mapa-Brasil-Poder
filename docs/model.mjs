@@ -1,0 +1,7 @@
+export const WEIGHTS=Object.freeze({president:15,speaker:8,senatePresident:7,governorShare:20,senateShare:14,chamberShare:36});
+export function components(row,offices,inactive=[]){return Object.entries(WEIGHTS).map(([key,weight])=>{const value=inactive.includes(key)?null:key.endsWith('Share')?row[key]:Number(offices[key]===row.id);return{key,weight,value,points:value==null?null:value*weight};});}
+export function score(row,offices,inactive=[]){const parts=components(row,offices,inactive);return{value:parts.reduce((n,p)=>n+(p.points??0),0),partial:parts.some(p=>p.value==null),parts};}
+export function summarize(snapshot){const rows=snapshot.rows.map(row=>({...row,...score(row,snapshot.offices,snapshot.inactiveOffices)})).sort((a,b)=>b.value-a.value||a.id.localeCompare(b.id));const allocated=rows.reduce((n,r)=>n+r.value,0);return{rows,allocated,residual:Math.max(0,100-allocated)};}
+export function parseState(hash,years,parties,savedLanguage){const raw=hash.replace(/^#/,''),p=new URLSearchParams(/^\d{4}$/.test(raw)?`year=${raw}`:raw);const year=Number(p.get('year')),lang=p.get('lang')||savedLanguage;return{year:years.includes(year)?year:years.at(-1),party:parties.some(x=>x.id===p.get('party'))?p.get('party'):'',lang:lang==='en'?'en':'pt'};}
+export function stateHash(state){const p=new URLSearchParams({year:String(state.year),lang:state.lang});if(state.party)p.set('party',state.party);return '#'+p.toString();}
+export function csvCell(value){return '"'+String(value??'').replaceAll('"','""')+'"';}

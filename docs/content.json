@@ -1,0 +1,843 @@
+{
+  "periods": [
+    {
+      "id": "republic-1947",
+      "start": 1947,
+      "end": 1954,
+      "title": {
+        "pt": "A república de Dutra e Vargas",
+        "en": "The republic of Dutra and Vargas"
+      },
+      "subtitle": {
+        "pt": "Competição eleitoral sob a Constituição de 1946, com limites à participação.",
+        "en": "Electoral competition under the 1946 Constitution, with limits on participation."
+      },
+      "power": {
+        "pt": "O PSD reunia a Presidência com Dutra, posições no Congresso e governos estaduais. Vargas, eleito pelo PTB em 1950, tomou posse em 1951: a mudança transfere o componente presidencial, mas não todas as instituições para seu partido.",
+        "en": "PSD combined Dutra’s presidency with congressional offices and state governments. Vargas, elected for PTB in 1950, took office in 1951: the change transfers the presidential component, not every institution, to his party."
+      },
+      "government": {
+        "pt": "Dutra governou até janeiro de 1951. Vargas voltou pelo voto e dependeu de alianças além do PTB. Após sua morte em agosto de 1954, Café Filho assumiu. O recorte de julho de 1954 ainda mostra Vargas; não é um erro de sucessão.",
+        "en": "Dutra governed until January 1951. Vargas returned through an election and relied on allies beyond PTB. Café Filho took office after Vargas’s death in August 1954. The July 1954 profile still shows Vargas; that is consistent with the snapshot date."
+      },
+      "events": [
+        {
+          "year": 1947,
+          "title": {
+            "pt": "Registro do PCB cancelado",
+            "en": "PCB registration cancelled"
+          },
+          "text": {
+            "pt": "O cancelamento do registro ocorreu em maio. A perda dos mandatos parlamentares veio em janeiro de 1948: são acontecimentos distintos.",
+            "en": "Registration was cancelled in May. Parliamentary mandates were terminated in January 1948: these are separate events."
+          },
+          "sourceIds": [
+            "camara-pcb"
+          ]
+        },
+        {
+          "year": 1951,
+          "title": {
+            "pt": "Vargas toma posse",
+            "en": "Vargas takes office"
+          },
+          "text": {
+            "pt": "A eleição de 1950 levou Vargas de volta à Presidência em janeiro de 1951.",
+            "en": "The 1950 election returned Vargas to the presidency in January 1951."
+          },
+          "sourceIds": [
+            "presidents"
+          ]
+        },
+        {
+          "year": 1954,
+          "title": {
+            "pt": "Crise e sucessão",
+            "en": "Crisis and succession"
+          },
+          "text": {
+            "pt": "A morte de Vargas em 24 de agosto levou o vice Café Filho à Presidência.",
+            "en": "Vargas’s death on 24 August brought Vice-President Café Filho to the presidency."
+          },
+          "sourceIds": [
+            "presidents"
+          ]
+        }
+      ],
+      "ideas": {
+        "pt": "Trabalhismo, nacionalismo econômico e anticomunismo disputavam espaço. O direito de voto das mulheres não significava representação igualitária. As correntes sociais não cabem inteiramente nas siglas nem são medidas por este índice.",
+        "en": "Labour politics, economic nationalism and anti-communism competed for influence. Women’s voting rights did not produce equal representation. Social currents cannot be reduced to party labels or measured by this index."
+      },
+      "outside": [
+        {
+          "name": "PCB",
+          "dates": {
+            "pt": "Registro cancelado em 1947",
+            "en": "Registration cancelled in 1947"
+          },
+          "description": {
+            "pt": "A atividade comunista continuou fora da legalidade partidária; ausência legal não equivale a ausência de influência.",
+            "en": "Communist activity continued outside legal party organization; legal exclusion did not mean an absence of influence."
+          }
+        },
+        {
+          "name": "PSB / Esquerda Democrática",
+          "dates": {
+            "pt": "Organização histórica, a partir de 1947",
+            "en": "Historical organization, from 1947"
+          },
+          "description": {
+            "pt": "Não confundir a Esquerda Democrática com o PPS, nome adotado apenas em 1992.",
+            "en": "Do not confuse Esquerda Democrática with PPS, a name adopted only in 1992."
+          }
+        }
+      ],
+      "sourceIds": [
+        "camara-pcb",
+        "tse-history",
+        "presidents"
+      ]
+    },
+    {
+      "id": "development-1955",
+      "start": 1955,
+      "end": 1964,
+      "title": {
+        "pt": "Desenvolvimento e ruptura",
+        "en": "Development and rupture"
+      },
+      "subtitle": {
+        "pt": "Brasília, reformas e a crise que encerrou a ordem de 1946.",
+        "en": "Brasília, reform and the crisis that ended the 1946 order."
+      },
+      "power": {
+        "pt": "A aliança PSD–PTB combinou a Presidência de Juscelino Kubitschek com a vice-presidência de João Goulart. Pela regra constitucional da época, o vice da República presidia o Senado. Câmara e Senado não devem ser confundidos com uma bancada única do governo.",
+        "en": "The PSD–PTB alliance combined Juscelino Kubitschek’s presidency with João Goulart’s vice-presidency. Under the constitutional rule of the time, the vice-president chaired the Senate. Congressional offices should not be mistaken for a unified government caucus."
+      },
+      "government": {
+        "pt": "A crise de novembro de 1955 passou por Café Filho, Carlos Luz e Nereu Ramos antes da posse de JK. Jânio Quadros renunciou em agosto de 1961. Goulart assumiu sob um arranjo parlamentarista, encerrado pelo plebiscito de 1963. O golpe de 1964 rompeu a ordem democrática.",
+        "en": "The November 1955 crisis involved Café Filho, Carlos Luz and Nereu Ramos before JK took office. Jânio Quadros resigned in August 1961. Goulart assumed office under a parliamentary arrangement, ended by the 1963 plebiscite. The 1964 coup broke the democratic order."
+      },
+      "events": [
+        {
+          "year": 1955,
+          "title": {
+            "pt": "Três presidentes em uma crise",
+            "en": "Three presidents in one crisis"
+          },
+          "text": {
+            "pt": "Os impedimentos de Carlos Luz e Café Filho abriram caminho para Nereu Ramos. O episódio ocorreu depois do recorte de julho.",
+            "en": "The removal of Carlos Luz and Café Filho brought Nereu Ramos to office. These events occurred after the July snapshot."
+          },
+          "sourceIds": [
+            "crisis-1955"
+          ]
+        },
+        {
+          "year": 1960,
+          "title": {
+            "pt": "Brasília é inaugurada",
+            "en": "Brasília is inaugurated"
+          },
+          "text": {
+            "pt": "A nova capital foi inaugurada em 21 de abril; tornou-se sede dos poderes federais.",
+            "en": "The new capital was inaugurated on 21 April and became the seat of federal government."
+          },
+          "sourceIds": [
+            "history-1946"
+          ]
+        },
+        {
+          "year": 1964,
+          "title": {
+            "pt": "Golpe militar",
+            "en": "Military coup"
+          },
+          "text": {
+            "pt": "A deposição de Goulart encerrou o período democrático e iniciou um regime autoritário.",
+            "en": "Goulart’s removal ended the democratic period and began an authoritarian regime."
+          },
+          "sourceIds": [
+            "history-1964"
+          ]
+        }
+      ],
+      "ideas": {
+        "pt": "O desenvolvimentismo defendia a transformação econômica; sindicatos e ligas camponesas pressionavam por reformas. A disputa envolvia diferentes projetos de Estado, propriedade e participação, com forte polarização durante a Guerra Fria.",
+        "en": "Developmentalism promoted economic transformation; unions and peasant leagues pressed for reform. Conflicting projects for the state, property and participation intensified Cold War polarization."
+      },
+      "outside": [
+        {
+          "name": "PSP, PDC e PRP",
+          "dates": {
+            "pt": "Organizações anteriores a 1965",
+            "en": "Organizations before 1965"
+          },
+          "description": {
+            "pt": "Partidos menores também ocuparam mandatos e participaram de alianças. As siglas históricas são separadas de organizações posteriores.",
+            "en": "Smaller parties also held seats and joined alliances. Historical acronyms are separated from later organizations."
+          }
+        }
+      ],
+      "sourceIds": [
+        "crisis-1955",
+        "history-1946",
+        "history-1964",
+        "senate-1930"
+      ]
+    },
+    {
+      "id": "dictatorship-1965",
+      "start": 1965,
+      "end": 1979,
+      "title": {
+        "pt": "O poder sob a ditadura",
+        "en": "Power under dictatorship"
+      },
+      "subtitle": {
+        "pt": "Repressão, regras impostas e oposição institucional limitada.",
+        "en": "Repression, imposed rules and constrained institutional opposition."
+      },
+      "power": {
+        "pt": "Arena apoiava o regime e o MDB reunia a oposição permitida. Isso não tornava o Congresso equivalente ao de uma democracia: cassações, fechamento e eleição indireta limitavam sua autonomia. Governadores de oposição, como Chagas Freitas, impedem a afirmação de controle estadual absoluto da Arena.",
+        "en": "ARENA supported the regime while MDB gathered the permitted opposition. Congress was not equivalent to a democratic legislature: removals, closure and indirect elections limited its autonomy. Opposition governors such as Chagas Freitas disprove claims that ARENA controlled every state government."
+      },
+      "government": {
+        "pt": "O AI-2 extinguiu os partidos existentes em outubro de 1965. O sistema Arena–MDB foi organizado em seguida. Chagas governou a Guanabara em 1971–75 e o Rio de Janeiro em 1979–83. A reforma de novembro de 1979 permitiu a reorganização multipartidária.",
+        "en": "AI-2 abolished existing parties in October 1965; the ARENA–MDB system followed. Chagas governed Guanabara in 1971–75 and Rio de Janeiro in 1979–83. The November 1979 reform allowed a new multiparty system."
+      },
+      "events": [
+        {
+          "year": 1965,
+          "title": {
+            "pt": "Partidos extintos",
+            "en": "Parties abolished"
+          },
+          "text": {
+            "pt": "O AI-2 encerrou as organizações partidárias anteriores. O período inclui a transição, não apenas anos com duas siglas.",
+            "en": "AI-2 ended the previous party organizations. This period includes the transition, not only years with two parties."
+          },
+          "sourceIds": [
+            "camara-two-parties"
+          ]
+        },
+        {
+          "year": 1968,
+          "title": {
+            "pt": "AI-5 e fechamento do Congresso",
+            "en": "AI-5 and the closure of Congress"
+          },
+          "text": {
+            "pt": "O AI-5 ampliou a repressão. A presença formal de um cargo não representa funcionamento democrático da instituição.",
+            "en": "AI-5 expanded repression. Formal officeholding does not imply the institution was operating democratically."
+          },
+          "sourceIds": [
+            "history-1964"
+          ]
+        },
+        {
+          "year": 1979,
+          "title": {
+            "pt": "Reforma partidária",
+            "en": "Party reform"
+          },
+          "text": {
+            "pt": "O Partido Popular surgiu somente em dezembro: ele não pode aparecer no recorte de julho de 1979.",
+            "en": "Partido Popular was created only in December: it cannot appear in the July 1979 profile."
+          },
+          "sourceIds": [
+            "fgv-pp"
+          ]
+        }
+      ],
+      "ideas": {
+        "pt": "A doutrina de segurança nacional estruturou a repressão. A oposição incluiu correntes democráticas, socialistas, estudantis e religiosas. O feminismo reorganizado nos anos 1970 enfrentou a ditadura e desigualdades de gênero; essa chamada segunda onda teve condições próprias no Brasil.",
+        "en": "National security doctrine shaped repression. Opposition included democratic, socialist, student and religious currents. Feminist movements that reorganized in the 1970s challenged dictatorship and gender inequality; this “second wave” had a specifically Brazilian context."
+      },
+      "outside": [
+        {
+          "name": "PCB e PCdoB",
+          "dates": {
+            "pt": "Clandestinidade",
+            "en": "Clandestine activity"
+          },
+          "description": {
+            "pt": "Sua exclusão do sistema partidário legal não eliminou a militância. PCdoB e PCB não são a mesma organização.",
+            "en": "Exclusion from the legal party system did not eliminate activism. PCdoB and PCB are different organizations."
+          }
+        }
+      ],
+      "sourceIds": [
+        "camara-two-parties",
+        "camara-chagas",
+        "history-1964",
+        "feminist-waves"
+      ]
+    },
+    {
+      "id": "democracy-1980",
+      "start": 1980,
+      "end": 1989,
+      "title": {
+        "pt": "A construção da democracia",
+        "en": "Building democracy"
+      },
+      "subtitle": {
+        "pt": "Novos partidos, mobilização popular e uma nova Constituição.",
+        "en": "New parties, popular mobilization and a new Constitution."
+      },
+      "power": {
+        "pt": "A transição dividiu o PDS e deu origem ao PFL. O PMDB ocupou a Presidência com Sarney e ampliou sua força estadual: elegeu 22 dos 23 governadores em 1986. A base antiga não separava corretamente PDS e PFL em 1985–86; essas parcelas foram retiradas em vez de inventadas.",
+        "en": "The transition split PDS and produced PFL. PMDB held the presidency under Sarney and strengthened its state presence, winning 22 of 23 governorships in 1986. The old inputs failed to separate PDS and PFL in 1985–86; those shares are withheld rather than invented."
+      },
+      "government": {
+        "pt": "Tancredo foi eleito indiretamente em janeiro de 1985, mas não tomou posse. Sarney assumiu interinamente em 15 de março e permaneceu após a morte de Tancredo em 21 de abril. A eleição presidencial direta voltou em 1989.",
+        "en": "Tancredo was elected indirectly in January 1985 but never took office. Sarney became acting president on 15 March and remained after Tancredo died on 21 April. Direct presidential elections returned in 1989."
+      },
+      "events": [
+        {
+          "year": 1985,
+          "title": {
+            "pt": "PFL e sucessão presidencial",
+            "en": "PFL and presidential succession"
+          },
+          "text": {
+            "pt": "A cisão do PDS alterou a composição da coalizão de transição; o PFL já tinha bancada reconhecida em 1985.",
+            "en": "The PDS split changed the transition coalition; PFL already had a recognized parliamentary group in 1985."
+          },
+          "sourceIds": [
+            "camara-pfl"
+          ]
+        },
+        {
+          "year": 1986,
+          "title": {
+            "pt": "22 de 23 governadores",
+            "en": "22 of 23 governors"
+          },
+          "text": {
+            "pt": "A vitória do PMDB ocorreu no contexto do Plano Cruzado. O número anterior, 21 de 22, estava errado.",
+            "en": "PMDB’s victory occurred in the context of the Cruzado Plan. The previous figure of 21 out of 22 was wrong."
+          },
+          "sourceIds": [
+            "sarney-1986"
+          ]
+        },
+        {
+          "year": 1988,
+          "title": {
+            "pt": "Constituição promulgada",
+            "en": "Constitution promulgated"
+          },
+          "text": {
+            "pt": "Em 5 de outubro, a nova Constituição consolidou direitos e redefiniu as instituições.",
+            "en": "On 5 October, the new Constitution established rights and reshaped institutions."
+          },
+          "sourceIds": [
+            "constitution-1988"
+          ]
+        }
+      ],
+      "ideas": {
+        "pt": "A redemocratização reuniu movimentos sindicais, de mulheres, negros e outras organizações. As 26 deputadas constituintes atuaram em uma articulação suprapartidária por direitos das mulheres. Elas não formavam um bloco ideológico homogêneo nem tinham uma única relação com o feminismo.",
+        "en": "Democratization brought together labour, women’s, Black and other movements. The 26 women elected to the constituent assembly worked across party lines for women’s rights. They were not an ideologically homogeneous group and did not share a single relationship with feminism."
+      },
+      "outside": [
+        {
+          "name": "PCB e PCdoB",
+          "dates": {
+            "pt": "Retorno à legalidade em 1985",
+            "en": "Return to legal activity in 1985"
+          },
+          "description": {
+            "pt": "A abertura permitiu sua reorganização legal. Registro definitivo, fundação e presença parlamentar têm datas distintas.",
+            "en": "Democratization allowed legal reorganization. Definitive registration, foundation and parliamentary presence have different dates."
+          }
+        },
+        {
+          "name": "PV",
+          "dates": {
+            "pt": "Fundado em 1986",
+            "en": "Founded in 1986"
+          },
+          "description": {
+            "pt": "A agenda ambiental passou a ter uma organização partidária própria, ainda com expressão eleitoral pequena.",
+            "en": "Environmental politics gained a dedicated party organization, initially with limited electoral representation."
+          }
+        }
+      ],
+      "sourceIds": [
+        "sarney-1986",
+        "constitution-1988",
+        "women-1988",
+        "tse-history"
+      ]
+    },
+    {
+      "id": "stability-1990",
+      "start": 1990,
+      "end": 2002,
+      "title": {
+        "pt": "Estabilização e novas alianças",
+        "en": "Stabilization and new alliances"
+      },
+      "subtitle": {
+        "pt": "Crises presidenciais, o real e a coalizão PSDB–PFL.",
+        "en": "Presidential crises, the real and the PSDB–PFL coalition."
+      },
+      "power": {
+        "pt": "Ter a Presidência não significava controlar todas as Casas. Sob FHC, o PFL ocupou a Câmara com Luís Eduardo Magalhães e depois o Senado com Antonio Carlos Magalhães. O PMDB também manteve posições importantes. A soma de cargos ajuda a visualizar a negociação entre aliados.",
+        "en": "Holding the presidency did not mean controlling both houses. Under FHC, PFL held the Chamber through Luís Eduardo Magalhães and later the Senate through Antonio Carlos Magalhães. PMDB also retained important positions. Office components help illustrate bargaining among allies."
+      },
+      "government": {
+        "pt": "Collor governou de 1990 a 1992. Itamar assumiu durante a crise e presidiu sem filiação partidária; isso não significa que o cargo estivesse vazio. Fernando Henrique Cardoso governou de 1995 a 2002, em dois mandatos.",
+        "en": "Collor governed from 1990 to 1992. Itamar took over during the crisis and governed without a party affiliation; the office was not vacant. Fernando Henrique Cardoso governed from 1995 to 2002 for two terms."
+      },
+      "events": [
+        {
+          "year": 1992,
+          "title": {
+            "pt": "A sucessão de Collor",
+            "en": "Collor’s succession"
+          },
+          "text": {
+            "pt": "A crise presidencial levou Itamar Franco ao governo. O recorte de julho de 1992 ainda mostra Collor.",
+            "en": "The presidential crisis brought Itamar Franco to office. The July 1992 profile still shows Collor."
+          },
+          "sourceIds": [
+            "presidents"
+          ]
+        },
+        {
+          "year": 1994,
+          "title": {
+            "pt": "O real entra em circulação",
+            "en": "The real enters circulation"
+          },
+          "text": {
+            "pt": "A nova moeda começou a circular em 1º de julho, no processo de estabilização iniciado no governo Itamar.",
+            "en": "The currency began circulating on 1 July, as part of stabilization begun under Itamar."
+          },
+          "sourceIds": [
+            "real"
+          ]
+        },
+        {
+          "year": 1995,
+          "title": {
+            "pt": "PPR e PP ainda separados",
+            "en": "PPR and PP still separate"
+          },
+          "text": {
+            "pt": "A fusão que criou o PPB ocorreu em novembro. Um recorte de julho não pode antecipá-la.",
+            "en": "The merger forming PPB occurred in November. A July profile must not anticipate it."
+          },
+          "sourceIds": [
+            "tse-history"
+          ]
+        }
+      ],
+      "ideas": {
+        "pt": "Reformas de mercado e privatizações ganharam centralidade, com oposição à esquerda e disputas dentro da coalizão. Movimentos feministas ampliaram sua presença em organizações, políticas públicas e redes; as “ondas” não são fronteiras cronológicas universais.",
+        "en": "Market reforms and privatization became central, facing opposition from the left and disagreements within the coalition. Feminist movements expanded through organizations, public policy and networks; “waves” are not universal chronological boundaries."
+      },
+      "outside": [
+        {
+          "name": "PSTU",
+          "dates": {
+            "pt": "Registro definitivo em 1995",
+            "en": "Definitive registration in 1995"
+          },
+          "description": {
+            "pt": "Uma organização pode disputar eleições sem alcançar representação federal expressiva.",
+            "en": "An organization can contest elections without gaining substantial federal representation."
+          }
+        },
+        {
+          "name": "PCO",
+          "dates": {
+            "pt": "Registro em 1997",
+            "en": "Registered in 1997"
+          },
+          "description": {
+            "pt": "Faz parte do pluralismo partidário mesmo quando não aparece nas séries acima do corte da base antiga.",
+            "en": "Part of party pluralism even when absent from the legacy dataset’s above-threshold series."
+          }
+        }
+      ],
+      "sourceIds": [
+        "chamber-presidents",
+        "senate-1985",
+        "real",
+        "presidents",
+        "feminist-waves"
+      ]
+    },
+    {
+      "id": "coalitions-2003",
+      "start": 2003,
+      "end": 2015,
+      "title": {
+        "pt": "O PT e o governo de coalizão",
+        "en": "PT and coalition government"
+      },
+      "subtitle": {
+        "pt": "Presidência à esquerda, alianças amplas e novas disputas.",
+        "en": "A left-led presidency, broad alliances and new conflicts."
+      },
+      "power": {
+        "pt": "Lula e Dilma deram ao PT o componente presidencial. O PMDB ocupou repetidamente o Senado e a Câmara; outros aliados também controlaram cargos. Em julho de 2005, por exemplo, Severino Cavalcanti, do PP, presidia a Câmara. O índice não deve transferir todo o poder da coalizão ao partido do presidente.",
+        "en": "Lula and Dilma gave PT the presidential component. PMDB repeatedly held the Senate and Chamber presidencies, while other allies also held offices. In July 2005, for example, PP’s Severino Cavalcanti chaired the Chamber. The index must not assign an entire coalition’s power to the president’s party."
+      },
+      "government": {
+        "pt": "Lula cumpriu dois mandatos, de 2003 a 2010. Dilma assumiu em 2011 e iniciou o segundo mandato em 2015. As maiorias dependiam de negociação entre partidos com agendas diferentes; ocupar uma cadeira não garante votar com o governo.",
+        "en": "Lula served two terms from 2003 to 2010. Dilma took office in 2011 and began a second term in 2015. Majorities depended on negotiation among parties with different agendas; holding a seat does not guarantee voting with the government."
+      },
+      "events": [
+        {
+          "year": 2003,
+          "title": {
+            "pt": "Novo governo",
+            "en": "A new government"
+          },
+          "text": {
+            "pt": "O PT passou a ocupar a Presidência. O Senado era presidido por José Sarney, do PMDB.",
+            "en": "PT took the presidency. José Sarney of PMDB chaired the Senate."
+          },
+          "sourceIds": [
+            "senate-1985",
+            "presidents"
+          ]
+        },
+        {
+          "year": 2006,
+          "title": {
+            "pt": "Lei Maria da Penha",
+            "en": "Maria da Penha Law"
+          },
+          "text": {
+            "pt": "A Lei 11.340 criou mecanismos de prevenção e enfrentamento da violência doméstica e familiar contra mulheres.",
+            "en": "Law 11,340 established mechanisms to prevent and address domestic and family violence against women."
+          },
+          "sourceIds": [
+            "maria-penha"
+          ]
+        },
+        {
+          "year": 2015,
+          "title": {
+            "pt": "Segundo mandato de Dilma",
+            "en": "Dilma’s second term"
+          },
+          "text": {
+            "pt": "O início do segundo mandato manteve o PT na Presidência; Eduardo Cunha, do PMDB, passou a comandar a Câmara.",
+            "en": "PT retained the presidency at the start of Dilma’s second term; PMDB’s Eduardo Cunha became Chamber speaker."
+          },
+          "sourceIds": [
+            "chamber-presidents",
+            "presidents"
+          ]
+        }
+      ],
+      "ideas": {
+        "pt": "A “maré rosa” descreve a chegada de diferentes esquerdas ao governo na América Latina; não implica um programa único. No Brasil, políticas sociais coexistiram com alianças de centro. Os feminismos combinaram atuação institucional, mobilização de rua e redes digitais, com debates sobre raça, classe e sexualidade.",
+        "en": "The “pink tide” describes different left-wing movements entering government across Latin America, not a single programme. In Brazil, social policies coexisted with centrist alliances. Feminisms combined institutional action, street mobilization and digital networks, with debates about race, class and sexuality."
+      },
+      "outside": [
+        {
+          "name": "PSOL",
+          "dates": {
+            "pt": "Fundado em 2004; registro em 2005",
+            "en": "Founded in 2004; registered in 2005"
+          },
+          "description": {
+            "pt": "Sua origem está em uma ruptura com o PT. A data de registro eleitoral não deve substituir a de fundação.",
+            "en": "It emerged from a split with PT. Electoral registration should not be confused with foundation."
+          }
+        },
+        {
+          "name": "PSTU, PCO e PCB",
+          "dates": {
+            "pt": "Organizações distintas",
+            "en": "Distinct organizations"
+          },
+          "description": {
+            "pt": "Estar fora das maiores bancadas não implica ausência de militância ou de participação no debate público.",
+            "en": "Absence from the largest caucuses does not mean an absence of activism or public debate."
+          }
+        }
+      ],
+      "sourceIds": [
+        "presidents",
+        "chamber-presidents",
+        "senate-1985",
+        "maria-penha",
+        "feminisms",
+        "tse-register"
+      ]
+    },
+    {
+      "id": "fragmentation-2016",
+      "start": 2016,
+      "end": 2022,
+      "title": {
+        "pt": "Impeachment e fragmentação",
+        "en": "Impeachment and fragmentation"
+      },
+      "subtitle": {
+        "pt": "Mudanças de governo e de partido alteram o mapa institucional.",
+        "en": "Changes of government and affiliation reshape the institutional map."
+      },
+      "power": {
+        "pt": "Em julho de 2016, Temer exercia a Presidência e Waldir Maranhão exercia a presidência da Câmara. Cunha estava suspenso. Depois, a passagem de Bolsonaro por PSL, ausência de filiação e PL precisa ser distinguida da presença de aliados no Congresso.",
+        "en": "In July 2016, Temer was acting president and Waldir Maranhão was acting Chamber speaker. Cunha was suspended. Later, Bolsonaro’s progression through PSL, no affiliation and PL must be distinguished from allied parties’ congressional positions."
+      },
+      "government": {
+        "pt": "Dilma foi afastada temporariamente em maio e perdeu o mandato em agosto de 2016. Temer permaneceu até 2018. Bolsonaro assumiu em 2019. DEM e PSL se fundiram na União Brasil em fevereiro de 2022; não podem continuar como partidos separados em julho.",
+        "en": "Dilma was temporarily suspended in May and removed from office in August 2016. Temer remained until 2018. Bolsonaro took office in 2019. DEM and PSL merged into União Brasil in February 2022; they cannot remain separate parties in July."
+      },
+      "events": [
+        {
+          "year": 2016,
+          "title": {
+            "pt": "Afastamento e impeachment",
+            "en": "Suspension and impeachment"
+          },
+          "text": {
+            "pt": "A interinidade de maio e a decisão final de agosto são etapas distintas. O painel segue a situação de julho.",
+            "en": "The acting presidency from May and the final August decision are separate stages. The panel follows the July position."
+          },
+          "sourceIds": [
+            "impeachment"
+          ]
+        },
+        {
+          "year": 2021,
+          "title": {
+            "pt": "Condenações de Lula anuladas",
+            "en": "Lula’s convictions annulled"
+          },
+          "text": {
+            "pt": "O STF anulou decisões da 13ª Vara de Curitiba por incompetência daquele juízo. Isso deve acompanhar a menção às condenações anteriores.",
+            "en": "The STF annulled decisions of Curitiba’s 13th Federal Court for lack of jurisdiction. This belongs alongside references to the earlier convictions."
+          },
+          "sourceIds": [
+            "stf-lula"
+          ]
+        },
+        {
+          "year": 2022,
+          "title": {
+            "pt": "União Brasil",
+            "en": "União Brasil"
+          },
+          "text": {
+            "pt": "O TSE aprovou a fusão de DEM e PSL em 8 de fevereiro. O cadastro desta versão retira as siglas extintas do recorte de julho.",
+            "en": "TSE approved the DEM–PSL merger on 8 February. This version removes the abolished parties from the July profile."
+          },
+          "sourceIds": [
+            "tse-uniao"
+          ]
+        }
+      ],
+      "ideas": {
+        "pt": "A mobilização conservadora e a polarização conviveram com feminismos e movimentos negros diversos. O centrão é uma articulação parlamentar variável, não um partido. Não se pode atribuir a todos os seus integrantes uma posição fixa em cada votação.",
+        "en": "Conservative mobilization and polarization coexisted with diverse feminist and Black movements. The centrão is a changing parliamentary grouping, not a party. Its members cannot be assigned a fixed position in every vote."
+      },
+      "outside": [
+        {
+          "name": "UP",
+          "dates": {
+            "pt": "Registro em dezembro de 2019",
+            "en": "Registered in December 2019"
+          },
+          "description": {
+            "pt": "A Unidade Popular é uma organização própria, distinta de PCB, PCdoB e PSTU.",
+            "en": "Unidade Popular is a separate organization, distinct from PCB, PCdoB and PSTU."
+          }
+        },
+        {
+          "name": "PSTU e PCO",
+          "dates": {
+            "pt": "Fora das maiores bancadas",
+            "en": "Outside the largest caucuses"
+          },
+          "description": {
+            "pt": "Não são apagados do contexto por ficarem abaixo do corte numérico do protótipo.",
+            "en": "They remain part of the context even when below the prototype’s numerical threshold."
+          }
+        }
+      ],
+      "sourceIds": [
+        "impeachment",
+        "camara-waldir",
+        "camara-cunha",
+        "tse-uniao",
+        "feminisms",
+        "tse-register"
+      ]
+    },
+    {
+      "id": "shared-2023",
+      "start": 2023,
+      "end": 2026,
+      "title": {
+        "pt": "Uma Presidência, muitos centros de decisão",
+        "en": "One presidency, many centres of decision"
+      },
+      "subtitle": {
+        "pt": "A volta de Lula e a distribuição dos comandos institucionais.",
+        "en": "Lula’s return and the distribution of institutional leadership."
+      },
+      "power": {
+        "pt": "O PT voltou à Presidência em 2023. Arthur Lira, do PP, e Rodrigo Pacheco, do PSD, presidiam as Casas. Em 2025, Hugo Motta, do Republicanos, e Davi Alcolumbre, da União Brasil, assumiram esses comandos. São cargos de partidos diferentes, não uma bancada única.",
+        "en": "PT returned to the presidency in 2023. PP’s Arthur Lira and PSD’s Rodrigo Pacheco chaired the houses. In 2025, Republicanos’s Hugo Motta and União Brasil’s Davi Alcolumbre took over. These are offices held by different parties, not one unified caucus."
+      },
+      "government": {
+        "pt": "Lula tomou posse em 1º de janeiro de 2023. A formação de maiorias continua dependendo de negociação entre partidos e federações. O recorte de 2026 não é resultado eleitoral nem atualização em tempo real: o ano de referência e as lacunas são explicitados no painel.",
+        "en": "Lula took office on 1 January 2023. Building majorities continues to require negotiation among parties and federations. The 2026 profile is neither an election result nor a live update: the reference year and gaps are explicit in the panel."
+      },
+      "events": [
+        {
+          "year": 2023,
+          "title": {
+            "pt": "Início do terceiro mandato",
+            "en": "Third term begins"
+          },
+          "text": {
+            "pt": "Lula voltou à Presidência em 1º de janeiro, enquanto os comandos do Legislativo permaneceram com outros partidos.",
+            "en": "Lula returned to the presidency on 1 January while legislative leadership remained with other parties."
+          },
+          "sourceIds": [
+            "presidents",
+            "senate-1985"
+          ]
+        },
+        {
+          "year": 2025,
+          "title": {
+            "pt": "Hugo Motta na Câmara",
+            "en": "Hugo Motta at the Chamber"
+          },
+          "text": {
+            "pt": "Eleito em 1º de fevereiro, Motta sucedeu Arthur Lira e levou o componente da Câmara ao Republicanos.",
+            "en": "Elected on 1 February, Motta succeeded Arthur Lira and transferred the Chamber-office component to Republicanos."
+          },
+          "sourceIds": [
+            "motta-2025"
+          ]
+        },
+        {
+          "year": 2025,
+          "title": {
+            "pt": "Alcolumbre no Senado",
+            "en": "Alcolumbre at the Senate"
+          },
+          "text": {
+            "pt": "Alcolumbre sucedeu Pacheco em 1º de fevereiro, para mandato até fevereiro de 2027.",
+            "en": "Alcolumbre succeeded Pacheco on 1 February for a term ending in February 2027."
+          },
+          "sourceIds": [
+            "alcolumbre-2025"
+          ]
+        }
+      ],
+      "ideas": {
+        "pt": "A competição inclui projetos econômicos, direitos sociais, religião, ambiente e conflitos sobre a democracia. Identidades partidárias não esgotam esses debates. Comparações entre “esquerda” e “direita” exigem critérios datados; por isso, as cores deste gráfico identificam partidos, não uma ideologia eterna.",
+        "en": "Competition includes economic projects, social rights, religion, the environment and disputes over democracy. Party identities do not exhaust these debates. Comparing “left” and “right” requires dated criteria; chart colours therefore identify parties, not timeless ideologies."
+      },
+      "outside": [
+        {
+          "name": "PSTU · PCO · PCB · UP",
+          "dates": {
+            "pt": "Partidos registrados",
+            "en": "Registered parties"
+          },
+          "description": {
+            "pt": "Incluídos no contexto mesmo sem uma linha na base numérica. O PCB atual é distinto do PCdoB e não deve ser substituído por PPS/Cidadania.",
+            "en": "Included in the context despite having no series in these numerical inputs. Today’s PCB is distinct from PCdoB and must not be replaced by PPS/Cidadania."
+          }
+        },
+        {
+          "name": "PV · Avante · Cidadania · PRD",
+          "dates": {
+            "pt": "Ausência na série não significa zero cadeiras",
+            "en": "Absence from this series does not mean zero seats"
+          },
+          "description": {
+            "pt": "O corte e as lacunas da base não são um cadastro completo dos partidos representados. Consulte o TSE e as Casas para a composição datada.",
+            "en": "The dataset’s threshold and gaps are not a full register of represented parties. Consult TSE and the houses for dated composition."
+          }
+        }
+      ],
+      "sourceIds": [
+        "motta-2025",
+        "alcolumbre-2025",
+        "tse-register",
+        "tse-representation"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "crisis-1955",
+      "title": "Senado — crise presidencial de 1955",
+      "url": "https://www12.senado.leg.br/noticias/materias/2015/11/06/ha-60-anos-crise-fez-brasil-ter-3-presidentes-numa-unica-semana"
+    },
+    {
+      "id": "history-1946",
+      "title": "Câmara — história da República",
+      "url": "https://www2.camara.leg.br/a-camara/conheca/historia/historia/a4republica.html"
+    },
+    {
+      "id": "history-1964",
+      "title": "Câmara — história do regime militar",
+      "url": "https://www2.camara.leg.br/a-camara/conheca/historia/historia/a5republica.html"
+    },
+    {
+      "id": "sarney-1986",
+      "title": "Câmara — redemocratização, Sarney e eleições de 1986",
+      "url": "https://www.camara.leg.br/noticias/1140361-40-anos-da-redemocratizacao-crise-economica-e-nova-constituicao-marcam-anos-do-governo-sarney/"
+    },
+    {
+      "id": "constitution-1988",
+      "title": "Senado — documentos da Constituinte de 1988",
+      "url": "https://www25.senado.leg.br/web/atividade/anais/constituintes"
+    },
+    {
+      "id": "women-1988",
+      "title": "Senado — mulheres na Constituinte",
+      "url": "https://www12.senado.leg.br/noticias/materias/2018/03/06/lobby-do-batom-marco-historico-no-combate-a-discriminacoes"
+    },
+    {
+      "id": "feminist-waves",
+      "title": "Revista Estudos Feministas — A quarta onda feminista no Brasil",
+      "url": "https://www.scielo.br/j/ref/a/3D7wfT8QmwRfJMv38PrG4tN/?lang=pt"
+    },
+    {
+      "id": "feminisms",
+      "title": "História — Desafios dos feminismos na História do Brasil Contemporâneo",
+      "url": "https://www.scielo.br/j/his/a/MSpKpKS43mMjsSDRNxgVyrm/?format=html&lang=pt"
+    },
+    {
+      "id": "real",
+      "title": "Banco Central — Plano Real",
+      "url": "https://www.bcb.gov.br/controleinflacao/planoreal"
+    },
+    {
+      "id": "maria-penha",
+      "title": "Lei 11.340/2006 — Maria da Penha",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm"
+    },
+    {
+      "id": "impeachment",
+      "title": "Senado — decisão de 31/8/2016",
+      "url": "https://www12.senado.leg.br/noticias/materias/2016/08/31/dilma-rousseff-perde-o-mandato-de-presidente-da-republica-mas-mantem-direitos-politicos"
+    },
+    {
+      "id": "stf-lula",
+      "title": "STF — anulação das condenações, 8/3/2021",
+      "url": "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=461870&tip=UN"
+    }
+  ]
+}

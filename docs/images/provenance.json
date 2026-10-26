@@ -1,0 +1,861 @@
+{
+  "batchcomplete": "",
+  "query": {
+    "pages": {
+      "3652872": {
+        "pageid": 3652872,
+        "ns": 6,
+        "title": "File:Carter e Geisel.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 5005748,
+            "width": 2951,
+            "height": 1968,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Carter_e_Geisel.jpg/1280px-Carter_e_Geisel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1200,
+            "thumbheight": 800,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/7/75/Carter_e_Geisel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Carter_e_Geisel.jpg/1280px-Carter_e_Geisel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1200,
+              "height": 800,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/7/75/Carter_e_Geisel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/7/75/Carter_e_Geisel.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Carter_e_Geisel.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=3652872",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-11-20 02:20:21",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Carter e Geisel",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "1978 in Brazil|Images from the National Archives and Records Administration|Government of Ernesto Geisel|State dinners|Executive Office of the President files|Relations of Brazil and the United States|Files by User:Dantadd|Images with extracted images|Rosalynn and Jimmy Carter|Photographs taken on 1978-03-29|Jimmy Carter in Brazil|Rosalynn Carter in 1978|Ernesto Geisel in 1978|Presidents of Brazil with national leaders|Jimmy Carter in March 1978",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Brazilian President Ernesto Geisel hosts a State Dinner for Jimmy Carter and Rosalynn Carter, March 29, 1978.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "Taken on 29 March 1978",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "This tag does not indicate the copyright status of the attached work. <span style=\"white-space:nowrap\">A normal <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Copyright_tags\" title=\"Special:MyLanguage/Commons:Copyright tags\">copyright tag</a> is still required.</span> <span style=\"white-space:nowrap\">See <a href=\"//commons.wikimedia.org/wiki/Special:MyLanguage/Commons:Licensing\" title=\"Special:MyLanguage/Commons:Licensing\">Commons:Licensing</a>.</span>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Fitz-Patrick, Bill",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "4902368": {
+        "pageid": 4902368,
+        "ns": 6,
+        "title": "File:Promulgação-Constituição-1988.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 893472,
+            "width": 2458,
+            "height": 1772,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Promulga%C3%A7%C3%A3o-Constitui%C3%A7%C3%A3o-1988.jpg/1280px-Promulga%C3%A7%C3%A3o-Constitui%C3%A7%C3%A3o-1988.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1200,
+            "thumbheight": 865,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/4/47/Promulga%C3%A7%C3%A3o-Constitui%C3%A7%C3%A3o-1988.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Promulga%C3%A7%C3%A3o-Constitui%C3%A7%C3%A3o-1988.jpg/1280px-Promulga%C3%A7%C3%A3o-Constitui%C3%A7%C3%A3o-1988.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1200,
+              "height": 865,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/4/47/Promulga%C3%A7%C3%A3o-Constitui%C3%A7%C3%A3o-1988.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Promulga%C3%A7%C3%A3o-Constitui%C3%A7%C3%A3o-1988.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Promulga%C3%A7%C3%A3o-Constitui%C3%A7%C3%A3o-1988.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=4902368",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2008-10-01 15:08:06",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Promulgação-Constituição-1988",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Photographs by Agencia Brasil|National Congress of Brazil in 1988|Promulgation of the Brazilian Constitution of 1988",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "valued",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Parliamentarians in the <a href=\"https://en.wikipedia.org/wiki/Chamber_of_Deputies_(Brazil)\" class=\"extiw\" title=\"w:Chamber of Deputies (Brazil)\">Chamber of Deputies</a> of the <a href=\"https://en.wikipedia.org/wiki/National_Congress_of_Brazil\" class=\"extiw\" title=\"w:National Congress of Brazil\">National Congress</a>, in <a href=\"https://en.wikipedia.org/wiki/Bras%C3%ADlia\" class=\"extiw\" title=\"w:Brasília\">Brasília</a>, commemorating the promulgation of the <a href=\"https://en.wikipedia.org/wiki/Constitution_of_Brazil\" class=\"extiw\" title=\"w:Constitution of Brazil\">Constitution of Brazil</a>, in 1988.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1988-10-02",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://memoria.ebc.com.br/agenciabrasil/galeria/2013-10-04/constituicao-de-1988-completa-25-anos#\">http://memoria.ebc.com.br/agenciabrasil/galeria/2013-10-04/constituicao-de-1988-completa-25-anos#</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Agência Brasil",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0 br",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0 br",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0/br/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0-br",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "48745779": {
+        "pageid": 48745779,
+        "ns": 6,
+        "title": "File:Posse de Michel Temer (2).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 510062,
+            "width": 3785,
+            "height": 2606,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Posse_de_Michel_Temer_%282%29.jpg/1280px-Posse_de_Michel_Temer_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1200,
+            "thumbheight": 826,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/9/90/Posse_de_Michel_Temer_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Posse_de_Michel_Temer_%282%29.jpg/1280px-Posse_de_Michel_Temer_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1200,
+              "height": 826,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/9/90/Posse_de_Michel_Temer_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Posse_de_Michel_Temer_%282%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Posse_de_Michel_Temer_(2).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=48745779",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2016-05-12 23:32:16",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Posse de Michel Temer (2)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Photographs by Agencia Brasil|Images with extracted images|Michel Temer in 2016|Photographs by Valter Campanato",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Posse de Michel Temer.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2016-05-12 17:28:49",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"http://centraldeconteudo.ebc.com.br/permalink/agenciabrasil/1019537\">EBC</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Valter Campanato",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 3.0 br",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 3.0 br",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/3.0/br/deed.en",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-3.0-br",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "91179929": {
+        "pageid": 91179929,
+        "ns": 6,
+        "title": "File:JK na inauguração de Brasília - BR RJANRIO PH 0 FOT 00749 0076, Acervo do Arquivo Nacional.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 175424,
+            "width": 1813,
+            "height": 1443,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/JK_na_inaugura%C3%A7%C3%A3o_de_Bras%C3%ADlia_-_BR_RJANRIO_PH_0_FOT_00749_0076%2C_Acervo_do_Arquivo_Nacional.jpg/1280px-JK_na_inaugura%C3%A7%C3%A3o_de_Bras%C3%ADlia_-_BR_RJANRIO_PH_0_FOT_00749_0076%2C_Acervo_do_Arquivo_Nacional.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1200,
+            "thumbheight": 955,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/8/89/JK_na_inaugura%C3%A7%C3%A3o_de_Bras%C3%ADlia_-_BR_RJANRIO_PH_0_FOT_00749_0076%2C_Acervo_do_Arquivo_Nacional.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/JK_na_inaugura%C3%A7%C3%A3o_de_Bras%C3%ADlia_-_BR_RJANRIO_PH_0_FOT_00749_0076%2C_Acervo_do_Arquivo_Nacional.jpg/1280px-JK_na_inaugura%C3%A7%C3%A3o_de_Bras%C3%ADlia_-_BR_RJANRIO_PH_0_FOT_00749_0076%2C_Acervo_do_Arquivo_Nacional.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1200,
+              "height": 955,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/8/89/JK_na_inaugura%C3%A7%C3%A3o_de_Bras%C3%ADlia_-_BR_RJANRIO_PH_0_FOT_00749_0076%2C_Acervo_do_Arquivo_Nacional.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/JK_na_inaugura%C3%A7%C3%A3o_de_Bras%C3%ADlia_-_BR_RJANRIO_PH_0_FOT_00749_0076%2C_Acervo_do_Arquivo_Nacional.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:JK_na_inaugura%C3%A7%C3%A3o_de_Bras%C3%ADlia_-_BR_RJANRIO_PH_0_FOT_00749_0076,_Acervo_do_Arquivo_Nacional.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=91179929",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2020-06-13 18:35:32",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "<div class=\"fn\">\nJK na inauguração de Brasília</div>",
+                "source": "commons-desc-page"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Wikimedia in Brazil GLAM initiative with Arquivo Nacional|PD Brazil Government|Government of Juscelino Kubitschek|Correio da Manhã Fund|Uploaded with pattypan|Black and white photographs of Brazil in the 1960s|PD-Arquivo Nacional|April 1960 in Brazil|Photographs on Brasília in Arquivo Nacional (Brazil)|Template Unknown (unspecified)|Opening of Brasília|Juscelino Kubitschek in Planalto Palace Parlor, 1960",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Artist": {
+                "value": "<div class=\"fn value\">\nUnknown<span style=\"display: none;\">Unknown </span></div>",
+                "source": "commons-desc-page"
+              },
+              "ImageDescription": {
+                "value": "Fotografia do Fundo Correio da Manhã, sob a guarda do Arquivo Nacional.",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "21 April 1960<div style=\"display: none;\">date QS:P571,+1960-04-21T00:00:00Z/11</div>",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Correio da Manhã Fund, <a href=\"https://en.wikipedia.org/wiki/pt:Arquivo_Nacional_(Brasil)\" class=\"extiw\" title=\"w:pt:Arquivo Nacional (Brasil)\">Arquivo Nacional</a>",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "Public domain",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Public domain",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "false",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Copyrighted": {
+                "value": "False",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "pd",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "125054612": {
+        "pageid": 125054612,
+        "ns": 6,
+        "title": "File:Getúlio Vargas.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 407897,
+            "width": 772,
+            "height": 1084,
+            "thumburl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Get%C3%BAlio_Vargas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+            "thumbwidth": 1200,
+            "thumbheight": 1685,
+            "thumbattribs": {
+              "src": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Get%C3%BAlio_Vargas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1200,
+              "height": 1685
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Get%C3%BAlio_Vargas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Get%C3%BAlio_Vargas.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=125054612",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2022-11-05 10:45:27",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Getúlio Vargas",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Government of Getúlio Vargas (2nd)|Extracted images",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "Getúlio Dorneles Vargas 1951 (derivative)",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1951-01-31",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "Agência Brasil",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Presidência da República",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "128138381": {
+        "pageid": 128138381,
+        "ns": 6,
+        "title": "File:01.01.2023 - Presidente da República, Luiz Inácio Lula da Silva toma posse como 39º presidente do Brasil (52622064475).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 9793934,
+            "width": 5266,
+            "height": 3146,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/01.01.2023_-_Presidente_da_Rep%C3%BAblica%2C_Luiz_In%C3%A1cio_Lula_da_Silva_toma_posse_como_39%C2%BA_presidente_do_Brasil_%2852622064475%29.jpg/1280px-01.01.2023_-_Presidente_da_Rep%C3%BAblica%2C_Luiz_In%C3%A1cio_Lula_da_Silva_toma_posse_como_39%C2%BA_presidente_do_Brasil_%2852622064475%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1200,
+            "thumbheight": 717,
+            "responsiveUrls": {
+              "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/01.01.2023_-_Presidente_da_Rep%C3%BAblica%2C_Luiz_In%C3%A1cio_Lula_da_Silva_toma_posse_como_39%C2%BA_presidente_do_Brasil_%2852622064475%29.jpg/3840px-01.01.2023_-_Presidente_da_Rep%C3%BAblica%2C_Luiz_In%C3%A1cio_Lula_da_Silva_toma_posse_como_39%C2%BA_presidente_do_Brasil_%2852622064475%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/01.01.2023_-_Presidente_da_Rep%C3%BAblica%2C_Luiz_In%C3%A1cio_Lula_da_Silva_toma_posse_como_39%C2%BA_presidente_do_Brasil_%2852622064475%29.jpg/1280px-01.01.2023_-_Presidente_da_Rep%C3%BAblica%2C_Luiz_In%C3%A1cio_Lula_da_Silva_toma_posse_como_39%C2%BA_presidente_do_Brasil_%2852622064475%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1200,
+              "height": 717,
+              "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/01.01.2023_-_Presidente_da_Rep%C3%BAblica%2C_Luiz_In%C3%A1cio_Lula_da_Silva_toma_posse_como_39%C2%BA_presidente_do_Brasil_%2852622064475%29.jpg/3840px-01.01.2023_-_Presidente_da_Rep%C3%BAblica%2C_Luiz_In%C3%A1cio_Lula_da_Silva_toma_posse_como_39%C2%BA_presidente_do_Brasil_%2852622064475%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/01.01.2023_-_Presidente_da_Rep%C3%BAblica%2C_Luiz_In%C3%A1cio_Lula_da_Silva_toma_posse_como_39%C2%BA_presidente_do_Brasil_%2852622064475%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:01.01.2023_-_Presidente_da_Rep%C3%BAblica,_Luiz_In%C3%A1cio_Lula_da_Silva_toma_posse_como_39%C2%BA_presidente_do_Brasil_(52622064475).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=128138381",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2023-01-27 03:10:57",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "01.01.2023 - Presidente da República, Luiz Inácio Lula da Silva toma posse como 39º presidente do Brasil (52622064475)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Flickr images missing SDC inception|Flickr images reviewed by FlickreviewR 2|Files from Palácio do Planalto Flickr stream|Photographs by Ricardo Stuckert taken in 2023|Speech at the Parlatorium of the Planalto Palace of Brazil on 1 Jan 2023",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "01.01.2023 - Presidente da República, Luiz Inácio Lula da Silva e Janja. Foto: Ricardo Stuckert/PR",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2022-10-10 18:02",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/palaciodoplanalto/52622064475/\">01.01.2023 - Presidente da República, Luiz Inácio Lula da Silva toma posse como 39º presidente do Brasil</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/51178866@N04\">Palácio do Planalto</a> from Brasilia, Brasil",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution 2.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-2.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "198294357": {
+        "pageid": 198294357,
+        "ns": 6,
+        "title": "File:Posse Presidencial 2003 - Luiz Inácio Lula da Silva - 55489865303.jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 1523756,
+            "width": 2000,
+            "height": 1312,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Posse_Presidencial_2003_-_Luiz_In%C3%A1cio_Lula_da_Silva_-_55489865303.jpg/1280px-Posse_Presidencial_2003_-_Luiz_In%C3%A1cio_Lula_da_Silva_-_55489865303.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1200,
+            "thumbheight": 787,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Posse_Presidencial_2003_-_Luiz_In%C3%A1cio_Lula_da_Silva_-_55489865303.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Posse_Presidencial_2003_-_Luiz_In%C3%A1cio_Lula_da_Silva_-_55489865303.jpg/1280px-Posse_Presidencial_2003_-_Luiz_In%C3%A1cio_Lula_da_Silva_-_55489865303.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1200,
+              "height": 787,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Posse_Presidencial_2003_-_Luiz_In%C3%A1cio_Lula_da_Silva_-_55489865303.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Posse_Presidencial_2003_-_Luiz_In%C3%A1cio_Lula_da_Silva_-_55489865303.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Posse_Presidencial_2003_-_Luiz_In%C3%A1cio_Lula_da_Silva_-_55489865303.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=198294357",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-08-27 18:03:28",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Posse Presidencial 2003 - Luiz Inácio Lula da Silva - 55489865303",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Jaques Wagner|Antonio Palocci|Celso Amorim|Ciro Gomes|José Dirceu|Ricardo Berzoini|Guido Mantega|Henrique Meirelles|Humberto Costa|Márcio Thomaz Bastos|Benedita da Silva|Olívio Dutra|Miro Teixeira|Agnelo Queiroz|Walfrido dos Mares Guia|Luiz Dulci|Luiz Fernando Furlan|Anderson Adauto|Dilma Rousseff in 2003|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Gilberto Gil in 2003|Marisa Letícia in 2003|Cristovam Buarque in 2003|Roberto Rodrigues (politician)|First inauguration of Luiz Inácio Lula da Silva",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "-15.799003",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-47.864009",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "O presidente do Brasil, Luiz Inácio Lula da Silva, posa para fotografia ao  lado de sua equipe ministerial no Palácio do Planalto, durante a sua posse, em 2003.<br> Ao centro: <br>Presidente da República, Luiz Inácio Lula da Silva;<br>Primeira-dama do Brasil, Marisa Letícia Lula da Silva.<br>Equipe ministerial:<br>Casa Civil: José Dirceu;<br>Fazenda: Antonio Palocci;<br>Relações Exteriores: Celso Amorim;<br>Minas e Energia: Dilma Rousseff;<br>Planejamento, Orçamento e Gestão: Guido Mantega;<br>Desenvolvimento, Indústria e Comércio Exterior: Luiz Fernando Furlan;<br>Agricultura, Pecuária e Abastecimento: Roberto Rodrigues;<br>Educação: Cristovam Buarque;<br>Saúde: Humberto Costa;<br>Trabalho e Emprego: Jaques Wagner;<br>Transportes: Anderson Adauto;<br>Justiça: Márcio Thomaz Bastos;<br>Banco Central: Henrique Meirelles;<br>Gabinete de Segurança Institucional: Jorge Armando Félix;<br>Cultura: Gilberto Gil;<br>Turismo: Walfrido dos Mares Guia;<br>Integração Nacional: Ciro Gomes;<br>Meio Ambiente: Marina Silva;<br>Comunicações: Miro Teixeira;<br>Previdência Social: Ricardo Berzoini;<br>Desenvolvimento Social e Combate à Fome: Benedita da Silva;<br>Cidades: Olívio Dutra;<br>Secretaria-Geral da Presidência: Luiz Dulci;<br>Esporte: Agnelo Queiroz.<br>Foto: Jane de Araújo/Agência Senado",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "2003-01-01",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/49143546@N06/55489865303/\">https://www.flickr.com/photos/49143546@N06/55489865303/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Jane de Araújo/Agência Senado",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      },
+      "198299502": {
+        "pageid": 198299502,
+        "ns": 6,
+        "title": "File:Posse Presidencial 1995 - Fernando Henrique Cardoso (3).jpg",
+        "imagerepository": "local",
+        "imageinfo": [
+          {
+            "size": 7417042,
+            "width": 3592,
+            "height": 2409,
+            "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Posse_Presidencial_1995_-_Fernando_Henrique_Cardoso_%283%29.jpg/1280px-Posse_Presidencial_1995_-_Fernando_Henrique_Cardoso_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+            "thumbwidth": 1200,
+            "thumbheight": 805,
+            "responsiveUrls": {
+              "2": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Posse_Presidencial_1995_-_Fernando_Henrique_Cardoso_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+            },
+            "thumbattribs": {
+              "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Posse_Presidencial_1995_-_Fernando_Henrique_Cardoso_%283%29.jpg/1280px-Posse_Presidencial_1995_-_Fernando_Henrique_Cardoso_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+              "decoding": "async",
+              "loading": "lazy",
+              "width": 1200,
+              "height": 805,
+              "srcset": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Posse_Presidencial_1995_-_Fernando_Henrique_Cardoso_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+            },
+            "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Posse_Presidencial_1995_-_Fernando_Henrique_Cardoso_%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Posse_Presidencial_1995_-_Fernando_Henrique_Cardoso_(3).jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=198299502",
+            "extmetadata": {
+              "DateTime": {
+                "value": "2026-08-27 19:20:21",
+                "source": "mediawiki-metadata",
+                "hidden": ""
+              },
+              "ObjectName": {
+                "value": "Posse Presidencial 1995 - Fernando Henrique Cardoso (3)",
+                "source": "mediawiki-metadata"
+              },
+              "CommonsMetadataExtension": {
+                "value": 1.2,
+                "source": "extension",
+                "hidden": ""
+              },
+              "Categories": {
+                "value": "Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Photographs by Agência Senado|First inauguration of Fernando Henrique Cardoso",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "Assessments": {
+                "value": "",
+                "source": "commons-categories",
+                "hidden": ""
+              },
+              "GPSLatitude": {
+                "value": "-15.799003",
+                "source": "commons-desc-page"
+              },
+              "GPSLongitude": {
+                "value": "-47.864009",
+                "source": "commons-desc-page"
+              },
+              "GPSMapDatum": {
+                "value": "WGS-84",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "ImageDescription": {
+                "value": "O presidente da República, Fernando Henrique Cardoso, passa em revista à tropa.  Foto: Arquivo Senado Federal",
+                "source": "commons-desc-page"
+              },
+              "DateTimeOriginal": {
+                "value": "1995-01-01",
+                "source": "commons-desc-page"
+              },
+              "Credit": {
+                "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/49143546@N06/55489665698/\">https://www.flickr.com/photos/49143546@N06/55489665698/</a>",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Senado Federal",
+                "source": "commons-desc-page"
+              },
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "UsageTerms": {
+                "value": "Creative Commons Attribution-Share Alike 4.0",
+                "source": "commons-desc-page"
+              },
+              "AttributionRequired": {
+                "value": "true",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Copyrighted": {
+                "value": "True",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "Restrictions": {
+                "value": "",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "License": {
+                "value": "cc-by-sa-4.0",
+                "source": "commons-templates",
+                "hidden": ""
+              }
+            }
+          }
+        ]
+      }
+    }
+  }
+}

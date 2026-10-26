@@ -1,0 +1,7371 @@
+{
+  "source": {
+    "file": "Brazil’s party power index, 1947–2026.html",
+    "sha256": "854b73a40117dc32a24725e0c3e9005256d7fbbf5eb8be6244f5379443346747",
+    "description": "Imported legacy model inputs. Not independently verified historical rosters. Monte Carlo outputs deliberately excluded."
+  },
+  "years": [
+    1947,
+    1948,
+    1949,
+    1950,
+    1951,
+    1952,
+    1953,
+    1954,
+    1955,
+    1956,
+    1957,
+    1958,
+    1959,
+    1960,
+    1961,
+    1962,
+    1963,
+    1964,
+    1965,
+    1966,
+    1967,
+    1968,
+    1969,
+    1970,
+    1971,
+    1972,
+    1973,
+    1974,
+    1975,
+    1976,
+    1977,
+    1978,
+    1979,
+    1980,
+    1981,
+    1982,
+    1983,
+    1984,
+    1985,
+    1986,
+    1987,
+    1988,
+    1989,
+    1990,
+    1991,
+    1992,
+    1993,
+    1994,
+    1995,
+    1996,
+    1997,
+    1998,
+    1999,
+    2000,
+    2001,
+    2002,
+    2003,
+    2004,
+    2005,
+    2006,
+    2007,
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+  ],
+  "snapshots": {
+    "1947": {
+      "offices": [
+        "PSD (1945)",
+        "PSD (1945)",
+        "PSD (1945)"
+      ],
+      "quality": "G",
+      "rows": [
+        {
+          "id": "PCB",
+          "name": "PCB",
+          "lineage": "PCB",
+          "chamberEquivalent": 23.9,
+          "governorEquivalent": 0,
+          "senateEquivalent": 3.77
+        },
+        {
+          "id": "PDC",
+          "name": "PDC",
+          "lineage": "PDC",
+          "chamberEquivalent": 2.8,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.44
+        },
+        {
+          "id": "PR (1945)",
+          "name": "PR (1945)",
+          "lineage": "PR (1945)",
+          "chamberEquivalent": 23.9,
+          "governorEquivalent": 1.29,
+          "senateEquivalent": 3.77
+        },
+        {
+          "id": "PSD (1945)",
+          "name": "PSD (1945)",
+          "lineage": "PSD (1945)",
+          "chamberEquivalent": 271.3,
+          "governorEquivalent": 15.43,
+          "senateEquivalent": 42.83
+        },
+        {
+          "id": "PSP",
+          "name": "PSP",
+          "lineage": "PSP",
+          "chamberEquivalent": 12.6,
+          "governorEquivalent": 1.29,
+          "senateEquivalent": 2
+        },
+        {
+          "id": "PST",
+          "name": "PST",
+          "lineage": "PST",
+          "chamberEquivalent": 4.2,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.67
+        },
+        {
+          "id": "PTB (1945)",
+          "name": "PTB (1945)",
+          "lineage": "PTB (1945)",
+          "chamberEquivalent": 36.5,
+          "governorEquivalent": 0,
+          "senateEquivalent": 5.77
+        },
+        {
+          "id": "UDN",
+          "name": "UDN",
+          "lineage": "UDN",
+          "chamberEquivalent": 130.7,
+          "governorEquivalent": 9,
+          "senateEquivalent": 20.64
+        }
+      ]
+    },
+    "1948": {
+      "offices": [
+        "PSD (1945)",
+        "PSD (1945)",
+        "PSD (1945)"
+      ],
+      "quality": "G",
+      "rows": [
+        {
+          "id": "PDC",
+          "name": "PDC",
+          "lineage": "PDC",
+          "chamberEquivalent": 2.9,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.47
+        },
+        {
+          "id": "PR (1945)",
+          "name": "PR (1945)",
+          "lineage": "PR (1945)",
+          "chamberEquivalent": 25.1,
+          "governorEquivalent": 1.29,
+          "senateEquivalent": 3.96
+        },
+        {
+          "id": "PSD (1945)",
+          "name": "PSD (1945)",
+          "lineage": "PSD (1945)",
+          "chamberEquivalent": 284.5,
+          "governorEquivalent": 15.43,
+          "senateEquivalent": 44.92
+        },
+        {
+          "id": "PSP",
+          "name": "PSP",
+          "lineage": "PSP",
+          "chamberEquivalent": 13.3,
+          "governorEquivalent": 1.29,
+          "senateEquivalent": 2.09
+        },
+        {
+          "id": "PST",
+          "name": "PST",
+          "lineage": "PST",
+          "chamberEquivalent": 4.4,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.7
+        },
+        {
+          "id": "PTB (1945)",
+          "name": "PTB (1945)",
+          "lineage": "PTB (1945)",
+          "chamberEquivalent": 38.3,
+          "governorEquivalent": 0,
+          "senateEquivalent": 6.05
+        },
+        {
+          "id": "UDN",
+          "name": "UDN",
+          "lineage": "UDN",
+          "chamberEquivalent": 137.1,
+          "governorEquivalent": 9,
+          "senateEquivalent": 21.65
+        }
+      ]
+    },
+    "1949": {
+      "offices": [
+        "PSD (1945)",
+        "PSD (1945)",
+        "PSD (1945)"
+      ],
+      "quality": "G",
+      "rows": [
+        {
+          "id": "PDC",
+          "name": "PDC",
+          "lineage": "PDC",
+          "chamberEquivalent": 2.9,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.47
+        },
+        {
+          "id": "PR (1945)",
+          "name": "PR (1945)",
+          "lineage": "PR (1945)",
+          "chamberEquivalent": 25.1,
+          "governorEquivalent": 1.29,
+          "senateEquivalent": 3.96
+        },
+        {
+          "id": "PSD (1945)",
+          "name": "PSD (1945)",
+          "lineage": "PSD (1945)",
+          "chamberEquivalent": 284.5,
+          "governorEquivalent": 15.43,
+          "senateEquivalent": 44.92
+        },
+        {
+          "id": "PSP",
+          "name": "PSP",
+          "lineage": "PSP",
+          "chamberEquivalent": 13.3,
+          "governorEquivalent": 1.29,
+          "senateEquivalent": 2.09
+        },
+        {
+          "id": "PST",
+          "name": "PST",
+          "lineage": "PST",
+          "chamberEquivalent": 4.4,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.7
+        },
+        {
+          "id": "PTB (1945)",
+          "name": "PTB (1945)",
+          "lineage": "PTB (1945)",
+          "chamberEquivalent": 38.3,
+          "governorEquivalent": 0,
+          "senateEquivalent": 6.05
+        },
+        {
+          "id": "UDN",
+          "name": "UDN",
+          "lineage": "UDN",
+          "chamberEquivalent": 137.1,
+          "governorEquivalent": 9,
+          "senateEquivalent": 21.65
+        }
+      ]
+    },
+    "1950": {
+      "offices": [
+        "PSD (1945)",
+        "PSD (1945)",
+        "PSD (1945)"
+      ],
+      "quality": "G",
+      "rows": [
+        {
+          "id": "PDC",
+          "name": "PDC",
+          "lineage": "PDC",
+          "chamberEquivalent": 2.9,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.47
+        },
+        {
+          "id": "PR (1945)",
+          "name": "PR (1945)",
+          "lineage": "PR (1945)",
+          "chamberEquivalent": 25.1,
+          "governorEquivalent": 1.29,
+          "senateEquivalent": 3.96
+        },
+        {
+          "id": "PSD (1945)",
+          "name": "PSD (1945)",
+          "lineage": "PSD (1945)",
+          "chamberEquivalent": 284.5,
+          "governorEquivalent": 15.43,
+          "senateEquivalent": 44.92
+        },
+        {
+          "id": "PSP",
+          "name": "PSP",
+          "lineage": "PSP",
+          "chamberEquivalent": 13.3,
+          "governorEquivalent": 1.29,
+          "senateEquivalent": 2.09
+        },
+        {
+          "id": "PST",
+          "name": "PST",
+          "lineage": "PST",
+          "chamberEquivalent": 4.4,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.7
+        },
+        {
+          "id": "PTB (1945)",
+          "name": "PTB (1945)",
+          "lineage": "PTB (1945)",
+          "chamberEquivalent": 38.3,
+          "governorEquivalent": 0,
+          "senateEquivalent": 6.05
+        },
+        {
+          "id": "UDN",
+          "name": "UDN",
+          "lineage": "UDN",
+          "chamberEquivalent": 137.1,
+          "governorEquivalent": 9,
+          "senateEquivalent": 21.65
+        }
+      ]
+    },
+    "1951": {
+      "offices": [
+        "PTB (1945)",
+        "PSD (1945)",
+        "PSP"
+      ],
+      "quality": "G",
+      "rows": [
+        {
+          "id": "PDC",
+          "name": "PDC",
+          "lineage": "PDC",
+          "chamberEquivalent": 2.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.42
+        },
+        {
+          "id": "PL (Libertador)",
+          "name": "PL (Libertador)",
+          "lineage": "PL (Libertador)",
+          "chamberEquivalent": 6.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1.06
+        },
+        {
+          "id": "PODE",
+          "name": "PTN",
+          "lineage": "PTN/Podemos line",
+          "chamberEquivalent": 8.1,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1.27
+        },
+        {
+          "id": "PR (1945)",
+          "name": "PR (1945)",
+          "lineage": "PR (1945)",
+          "chamberEquivalent": 20.1,
+          "governorEquivalent": 1.29,
+          "senateEquivalent": 3.18
+        },
+        {
+          "id": "PRP",
+          "name": "PRP",
+          "lineage": "PRP",
+          "chamberEquivalent": 5.4,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.85
+        },
+        {
+          "id": "PRT",
+          "name": "PRT",
+          "lineage": "PRT",
+          "chamberEquivalent": 2.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.42
+        },
+        {
+          "id": "PSD (1945)",
+          "name": "PSD (1945)",
+          "lineage": "PSD (1945)",
+          "chamberEquivalent": 192,
+          "governorEquivalent": 16.71,
+          "senateEquivalent": 30.32
+        },
+        {
+          "id": "PSP",
+          "name": "PSP",
+          "lineage": "PSP",
+          "chamberEquivalent": 37.6,
+          "governorEquivalent": 1.29,
+          "senateEquivalent": 5.94
+        },
+        {
+          "id": "PST",
+          "name": "PST",
+          "lineage": "PST",
+          "chamberEquivalent": 16.1,
+          "governorEquivalent": 1.29,
+          "senateEquivalent": 2.54
+        },
+        {
+          "id": "PTB (1945)",
+          "name": "PTB (1945)",
+          "lineage": "PTB (1945)",
+          "chamberEquivalent": 90,
+          "governorEquivalent": 1.29,
+          "senateEquivalent": 14.21
+        },
+        {
+          "id": "UDN",
+          "name": "UDN",
+          "lineage": "UDN",
+          "chamberEquivalent": 130.3,
+          "governorEquivalent": 5.14,
+          "senateEquivalent": 20.57
+        }
+      ]
+    },
+    "1952": {
+      "offices": [
+        "PTB (1945)",
+        "PSD (1945)",
+        "PSP"
+      ],
+      "quality": "G",
+      "rows": [
+        {
+          "id": "PDC",
+          "name": "PDC",
+          "lineage": "PDC",
+          "chamberEquivalent": 2.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.42
+        },
+        {
+          "id": "PL (Libertador)",
+          "name": "PL (Libertador)",
+          "lineage": "PL (Libertador)",
+          "chamberEquivalent": 6.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1.06
+        },
+        {
+          "id": "PODE",
+          "name": "PTN",
+          "lineage": "PTN/Podemos line",
+          "chamberEquivalent": 8.1,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1.27
+        },
+        {
+          "id": "PR (1945)",
+          "name": "PR (1945)",
+          "lineage": "PR (1945)",
+          "chamberEquivalent": 20.1,
+          "governorEquivalent": 1.29,
+          "senateEquivalent": 3.18
+        },
+        {
+          "id": "PRP",
+          "name": "PRP",
+          "lineage": "PRP",
+          "chamberEquivalent": 5.4,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.85
+        },
+        {
+          "id": "PRT",
+          "name": "PRT",
+          "lineage": "PRT",
+          "chamberEquivalent": 2.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.42
+        },
+        {
+          "id": "PSD (1945)",
+          "name": "PSD (1945)",
+          "lineage": "PSD (1945)",
+          "chamberEquivalent": 192,
+          "governorEquivalent": 16.71,
+          "senateEquivalent": 30.32
+        },
+        {
+          "id": "PSP",
+          "name": "PSP",
+          "lineage": "PSP",
+          "chamberEquivalent": 37.6,
+          "governorEquivalent": 1.29,
+          "senateEquivalent": 5.94
+        },
+        {
+          "id": "PST",
+          "name": "PST",
+          "lineage": "PST",
+          "chamberEquivalent": 16.1,
+          "governorEquivalent": 1.29,
+          "senateEquivalent": 2.54
+        },
+        {
+          "id": "PTB (1945)",
+          "name": "PTB (1945)",
+          "lineage": "PTB (1945)",
+          "chamberEquivalent": 90,
+          "governorEquivalent": 1.29,
+          "senateEquivalent": 14.21
+        },
+        {
+          "id": "UDN",
+          "name": "UDN",
+          "lineage": "UDN",
+          "chamberEquivalent": 130.3,
+          "governorEquivalent": 5.14,
+          "senateEquivalent": 20.57
+        }
+      ]
+    },
+    "1953": {
+      "offices": [
+        "PTB (1945)",
+        "PSD (1945)",
+        "PSP"
+      ],
+      "quality": "G",
+      "rows": [
+        {
+          "id": "PL (Libertador)",
+          "name": "PL (Libertador)",
+          "lineage": "PL (Libertador)",
+          "chamberEquivalent": 6.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1.06
+        },
+        {
+          "id": "PODE",
+          "name": "PTN",
+          "lineage": "PTN/Podemos line",
+          "chamberEquivalent": 8.1,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1.27
+        },
+        {
+          "id": "PR (1945)",
+          "name": "PR (1945)",
+          "lineage": "PR (1945)",
+          "chamberEquivalent": 20.1,
+          "governorEquivalent": 1.29,
+          "senateEquivalent": 3.18
+        },
+        {
+          "id": "PRP",
+          "name": "PRP",
+          "lineage": "PRP",
+          "chamberEquivalent": 5.4,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.85
+        },
+        {
+          "id": "PRT",
+          "name": "PRT",
+          "lineage": "PRT",
+          "chamberEquivalent": 2.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.42
+        },
+        {
+          "id": "PSD (1945)",
+          "name": "PSD (1945)",
+          "lineage": "PSD (1945)",
+          "chamberEquivalent": 192,
+          "governorEquivalent": 16.71,
+          "senateEquivalent": 30.32
+        },
+        {
+          "id": "PSP",
+          "name": "PSP",
+          "lineage": "PSP",
+          "chamberEquivalent": 37.6,
+          "governorEquivalent": 1.29,
+          "senateEquivalent": 5.94
+        },
+        {
+          "id": "PST",
+          "name": "PST",
+          "lineage": "PST",
+          "chamberEquivalent": 16.1,
+          "governorEquivalent": 1.29,
+          "senateEquivalent": 2.54
+        },
+        {
+          "id": "PTB (1945)",
+          "name": "PTB (1945)",
+          "lineage": "PTB (1945)",
+          "chamberEquivalent": 90,
+          "governorEquivalent": 1.29,
+          "senateEquivalent": 14.21
+        },
+        {
+          "id": "UDN",
+          "name": "UDN",
+          "lineage": "UDN",
+          "chamberEquivalent": 130.3,
+          "governorEquivalent": 5.14,
+          "senateEquivalent": 20.57
+        }
+      ]
+    },
+    "1954": {
+      "offices": [
+        "PTB (1945)",
+        "PSD (1945)",
+        "PSP"
+      ],
+      "quality": "G",
+      "rows": [
+        {
+          "id": "PDC",
+          "name": "PDC",
+          "lineage": "PDC",
+          "chamberEquivalent": 2.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.42
+        },
+        {
+          "id": "PL (Libertador)",
+          "name": "PL (Libertador)",
+          "lineage": "PL (Libertador)",
+          "chamberEquivalent": 6.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1.06
+        },
+        {
+          "id": "PODE",
+          "name": "PTN",
+          "lineage": "PTN/Podemos line",
+          "chamberEquivalent": 8.1,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1.27
+        },
+        {
+          "id": "PR (1945)",
+          "name": "PR (1945)",
+          "lineage": "PR (1945)",
+          "chamberEquivalent": 20.1,
+          "governorEquivalent": 1.29,
+          "senateEquivalent": 3.18
+        },
+        {
+          "id": "PRP",
+          "name": "PRP",
+          "lineage": "PRP",
+          "chamberEquivalent": 5.4,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.85
+        },
+        {
+          "id": "PRT",
+          "name": "PRT",
+          "lineage": "PRT",
+          "chamberEquivalent": 2.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.42
+        },
+        {
+          "id": "PSD (1945)",
+          "name": "PSD (1945)",
+          "lineage": "PSD (1945)",
+          "chamberEquivalent": 192,
+          "governorEquivalent": 16.71,
+          "senateEquivalent": 30.32
+        },
+        {
+          "id": "PSP",
+          "name": "PSP",
+          "lineage": "PSP",
+          "chamberEquivalent": 37.6,
+          "governorEquivalent": 1.29,
+          "senateEquivalent": 5.94
+        },
+        {
+          "id": "PST",
+          "name": "PST",
+          "lineage": "PST",
+          "chamberEquivalent": 16.1,
+          "governorEquivalent": 1.29,
+          "senateEquivalent": 2.54
+        },
+        {
+          "id": "PTB (1945)",
+          "name": "PTB (1945)",
+          "lineage": "PTB (1945)",
+          "chamberEquivalent": 90,
+          "governorEquivalent": 1.29,
+          "senateEquivalent": 14.21
+        },
+        {
+          "id": "UDN",
+          "name": "UDN",
+          "lineage": "UDN",
+          "chamberEquivalent": 130.3,
+          "governorEquivalent": 5.14,
+          "senateEquivalent": 20.57
+        }
+      ]
+    },
+    "1955": {
+      "offices": [
+        "PSP",
+        "PSD (1945)",
+        "PSD (1945)"
+      ],
+      "quality": "G",
+      "rows": [
+        {
+          "id": "PDC",
+          "name": "PDC",
+          "lineage": "PDC",
+          "chamberEquivalent": 4.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.41
+        },
+        {
+          "id": "PL (Libertador)",
+          "name": "PL (Libertador)",
+          "lineage": "PL (Libertador)",
+          "chamberEquivalent": 14.1,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1.21
+        },
+        {
+          "id": "PODE",
+          "name": "PTN",
+          "lineage": "PTN/Podemos line",
+          "chamberEquivalent": 10.6,
+          "governorEquivalent": 1.29,
+          "senateEquivalent": 0.91
+        },
+        {
+          "id": "PR (1945)",
+          "name": "PR (1945)",
+          "lineage": "PR (1945)",
+          "chamberEquivalent": 23.5,
+          "governorEquivalent": 0,
+          "senateEquivalent": 2.02
+        },
+        {
+          "id": "PRP",
+          "name": "PRP",
+          "lineage": "PRP",
+          "chamberEquivalent": 8.2,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.71
+        },
+        {
+          "id": "PSB",
+          "name": "PSB",
+          "lineage": "PSB",
+          "chamberEquivalent": 4.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.41
+        },
+        {
+          "id": "PSD (1945)",
+          "name": "PSD (1945)",
+          "lineage": "PSD (1945)",
+          "chamberEquivalent": 170.6,
+          "governorEquivalent": 11.57,
+          "senateEquivalent": 31.64
+        },
+        {
+          "id": "PSP",
+          "name": "PSP",
+          "lineage": "PSP",
+          "chamberEquivalent": 48.2,
+          "governorEquivalent": 1.29,
+          "senateEquivalent": 4.15
+        },
+        {
+          "id": "PTB (1945)",
+          "name": "PTB (1945)",
+          "lineage": "PTB (1945)",
+          "chamberEquivalent": 102.4,
+          "governorEquivalent": 5.14,
+          "senateEquivalent": 18.98
+        },
+        {
+          "id": "UDN",
+          "name": "UDN",
+          "lineage": "UDN",
+          "chamberEquivalent": 122.4,
+          "governorEquivalent": 7.71,
+          "senateEquivalent": 20.25
+        }
+      ]
+    },
+    "1956": {
+      "offices": [
+        "PSD (1945)",
+        "PSD (1945)",
+        "PTB (1945)"
+      ],
+      "quality": "G",
+      "rows": [
+        {
+          "id": "PDC",
+          "name": "PDC",
+          "lineage": "PDC",
+          "chamberEquivalent": 4.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.41
+        },
+        {
+          "id": "PL (Libertador)",
+          "name": "PL (Libertador)",
+          "lineage": "PL (Libertador)",
+          "chamberEquivalent": 14.1,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1.21
+        },
+        {
+          "id": "PODE",
+          "name": "PTN",
+          "lineage": "PTN/Podemos line",
+          "chamberEquivalent": 10.6,
+          "governorEquivalent": 1.29,
+          "senateEquivalent": 0.91
+        },
+        {
+          "id": "PR (1945)",
+          "name": "PR (1945)",
+          "lineage": "PR (1945)",
+          "chamberEquivalent": 23.5,
+          "governorEquivalent": 0,
+          "senateEquivalent": 2.02
+        },
+        {
+          "id": "PRP",
+          "name": "PRP",
+          "lineage": "PRP",
+          "chamberEquivalent": 8.2,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.71
+        },
+        {
+          "id": "PSB",
+          "name": "PSB",
+          "lineage": "PSB",
+          "chamberEquivalent": 4.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.41
+        },
+        {
+          "id": "PSD (1945)",
+          "name": "PSD (1945)",
+          "lineage": "PSD (1945)",
+          "chamberEquivalent": 170.6,
+          "governorEquivalent": 11.57,
+          "senateEquivalent": 31.64
+        },
+        {
+          "id": "PSP",
+          "name": "PSP",
+          "lineage": "PSP",
+          "chamberEquivalent": 48.2,
+          "governorEquivalent": 1.29,
+          "senateEquivalent": 4.15
+        },
+        {
+          "id": "PTB (1945)",
+          "name": "PTB (1945)",
+          "lineage": "PTB (1945)",
+          "chamberEquivalent": 102.4,
+          "governorEquivalent": 5.14,
+          "senateEquivalent": 18.98
+        },
+        {
+          "id": "UDN",
+          "name": "UDN",
+          "lineage": "UDN",
+          "chamberEquivalent": 122.4,
+          "governorEquivalent": 7.71,
+          "senateEquivalent": 20.25
+        }
+      ]
+    },
+    "1957": {
+      "offices": [
+        "PSD (1945)",
+        "PSD (1945)",
+        "PTB (1945)"
+      ],
+      "quality": "G",
+      "rows": [
+        {
+          "id": "PDC",
+          "name": "PDC",
+          "lineage": "PDC",
+          "chamberEquivalent": 4.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.41
+        },
+        {
+          "id": "PL (Libertador)",
+          "name": "PL (Libertador)",
+          "lineage": "PL (Libertador)",
+          "chamberEquivalent": 14.1,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1.21
+        },
+        {
+          "id": "PODE",
+          "name": "PTN",
+          "lineage": "PTN/Podemos line",
+          "chamberEquivalent": 10.6,
+          "governorEquivalent": 1.29,
+          "senateEquivalent": 0.91
+        },
+        {
+          "id": "PR (1945)",
+          "name": "PR (1945)",
+          "lineage": "PR (1945)",
+          "chamberEquivalent": 23.5,
+          "governorEquivalent": 0,
+          "senateEquivalent": 2.02
+        },
+        {
+          "id": "PRP",
+          "name": "PRP",
+          "lineage": "PRP",
+          "chamberEquivalent": 8.2,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.71
+        },
+        {
+          "id": "PSB",
+          "name": "PSB",
+          "lineage": "PSB",
+          "chamberEquivalent": 4.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.41
+        },
+        {
+          "id": "PSD (1945)",
+          "name": "PSD (1945)",
+          "lineage": "PSD (1945)",
+          "chamberEquivalent": 170.6,
+          "governorEquivalent": 11.57,
+          "senateEquivalent": 31.64
+        },
+        {
+          "id": "PSP",
+          "name": "PSP",
+          "lineage": "PSP",
+          "chamberEquivalent": 48.2,
+          "governorEquivalent": 1.29,
+          "senateEquivalent": 4.15
+        },
+        {
+          "id": "PTB (1945)",
+          "name": "PTB (1945)",
+          "lineage": "PTB (1945)",
+          "chamberEquivalent": 102.4,
+          "governorEquivalent": 5.14,
+          "senateEquivalent": 18.98
+        },
+        {
+          "id": "UDN",
+          "name": "UDN",
+          "lineage": "UDN",
+          "chamberEquivalent": 122.4,
+          "governorEquivalent": 7.71,
+          "senateEquivalent": 20.25
+        }
+      ]
+    },
+    "1958": {
+      "offices": [
+        "PSD (1945)",
+        "PSD (1945)",
+        "PTB (1945)"
+      ],
+      "quality": "G",
+      "rows": [
+        {
+          "id": "PDC",
+          "name": "PDC",
+          "lineage": "PDC",
+          "chamberEquivalent": 4.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.41
+        },
+        {
+          "id": "PL (Libertador)",
+          "name": "PL (Libertador)",
+          "lineage": "PL (Libertador)",
+          "chamberEquivalent": 14.1,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1.21
+        },
+        {
+          "id": "PODE",
+          "name": "PTN",
+          "lineage": "PTN/Podemos line",
+          "chamberEquivalent": 10.6,
+          "governorEquivalent": 1.29,
+          "senateEquivalent": 0.91
+        },
+        {
+          "id": "PR (1945)",
+          "name": "PR (1945)",
+          "lineage": "PR (1945)",
+          "chamberEquivalent": 23.5,
+          "governorEquivalent": 0,
+          "senateEquivalent": 2.02
+        },
+        {
+          "id": "PRP",
+          "name": "PRP",
+          "lineage": "PRP",
+          "chamberEquivalent": 8.2,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.71
+        },
+        {
+          "id": "PSB",
+          "name": "PSB",
+          "lineage": "PSB",
+          "chamberEquivalent": 4.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.41
+        },
+        {
+          "id": "PSD (1945)",
+          "name": "PSD (1945)",
+          "lineage": "PSD (1945)",
+          "chamberEquivalent": 170.6,
+          "governorEquivalent": 11.57,
+          "senateEquivalent": 31.64
+        },
+        {
+          "id": "PSP",
+          "name": "PSP",
+          "lineage": "PSP",
+          "chamberEquivalent": 48.2,
+          "governorEquivalent": 1.29,
+          "senateEquivalent": 4.15
+        },
+        {
+          "id": "PTB (1945)",
+          "name": "PTB (1945)",
+          "lineage": "PTB (1945)",
+          "chamberEquivalent": 102.4,
+          "governorEquivalent": 5.14,
+          "senateEquivalent": 18.98
+        },
+        {
+          "id": "UDN",
+          "name": "UDN",
+          "lineage": "UDN",
+          "chamberEquivalent": 122.4,
+          "governorEquivalent": 7.71,
+          "senateEquivalent": 20.25
+        }
+      ]
+    },
+    "1959": {
+      "offices": [
+        "PSD (1945)",
+        "PSD (1945)",
+        "PTB (1945)"
+      ],
+      "quality": "G",
+      "rows": [
+        {
+          "id": "PDC",
+          "name": "PDC",
+          "lineage": "PDC",
+          "chamberEquivalent": 11.5,
+          "governorEquivalent": 2.45,
+          "senateEquivalent": 1.82
+        },
+        {
+          "id": "PL (Libertador)",
+          "name": "PL (Libertador)",
+          "lineage": "PL (Libertador)",
+          "chamberEquivalent": 8.1,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1.27
+        },
+        {
+          "id": "PODE",
+          "name": "PTN",
+          "lineage": "PTN/Podemos line",
+          "chamberEquivalent": 9.2,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1.45
+        },
+        {
+          "id": "PR (1945)",
+          "name": "PR (1945)",
+          "lineage": "PR (1945)",
+          "chamberEquivalent": 27.6,
+          "governorEquivalent": 0,
+          "senateEquivalent": 4.36
+        },
+        {
+          "id": "PRP",
+          "name": "PRP",
+          "lineage": "PRP",
+          "chamberEquivalent": 8.1,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1.27
+        },
+        {
+          "id": "PSB",
+          "name": "PSB",
+          "lineage": "PSB",
+          "chamberEquivalent": 12.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 2
+        },
+        {
+          "id": "PSD (1945)",
+          "name": "PSD (1945)",
+          "lineage": "PSD (1945)",
+          "chamberEquivalent": 176,
+          "governorEquivalent": 7.36,
+          "senateEquivalent": 27.79
+        },
+        {
+          "id": "PSP",
+          "name": "PSP",
+          "lineage": "PSP",
+          "chamberEquivalent": 40.3,
+          "governorEquivalent": 0,
+          "senateEquivalent": 6.36
+        },
+        {
+          "id": "PTB (1945)",
+          "name": "PTB (1945)",
+          "lineage": "PTB (1945)",
+          "chamberEquivalent": 100.1,
+          "governorEquivalent": 6.14,
+          "senateEquivalent": 15.8
+        },
+        {
+          "id": "UDN",
+          "name": "UDN",
+          "lineage": "UDN",
+          "chamberEquivalent": 116.2,
+          "governorEquivalent": 11.05,
+          "senateEquivalent": 18.34
+        }
+      ]
+    },
+    "1960": {
+      "offices": [
+        "PSD (1945)",
+        "PSD (1945)",
+        "PTB (1945)"
+      ],
+      "quality": "G",
+      "rows": [
+        {
+          "id": "PDC",
+          "name": "PDC",
+          "lineage": "PDC",
+          "chamberEquivalent": 11.5,
+          "governorEquivalent": 2.45,
+          "senateEquivalent": 1.82
+        },
+        {
+          "id": "PL (Libertador)",
+          "name": "PL (Libertador)",
+          "lineage": "PL (Libertador)",
+          "chamberEquivalent": 8.1,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1.27
+        },
+        {
+          "id": "PODE",
+          "name": "PTN",
+          "lineage": "PTN/Podemos line",
+          "chamberEquivalent": 9.2,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1.45
+        },
+        {
+          "id": "PR (1945)",
+          "name": "PR (1945)",
+          "lineage": "PR (1945)",
+          "chamberEquivalent": 27.6,
+          "governorEquivalent": 0,
+          "senateEquivalent": 4.36
+        },
+        {
+          "id": "PRP",
+          "name": "PRP",
+          "lineage": "PRP",
+          "chamberEquivalent": 8.1,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1.27
+        },
+        {
+          "id": "PRT",
+          "name": "PRT",
+          "lineage": "PRT",
+          "chamberEquivalent": 2.3,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.36
+        },
+        {
+          "id": "PSB",
+          "name": "PSB",
+          "lineage": "PSB",
+          "chamberEquivalent": 12.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 2
+        },
+        {
+          "id": "PSD (1945)",
+          "name": "PSD (1945)",
+          "lineage": "PSD (1945)",
+          "chamberEquivalent": 176,
+          "governorEquivalent": 7.36,
+          "senateEquivalent": 27.79
+        },
+        {
+          "id": "PSP",
+          "name": "PSP",
+          "lineage": "PSP",
+          "chamberEquivalent": 40.3,
+          "governorEquivalent": 0,
+          "senateEquivalent": 6.36
+        },
+        {
+          "id": "PTB (1945)",
+          "name": "PTB (1945)",
+          "lineage": "PTB (1945)",
+          "chamberEquivalent": 100.1,
+          "governorEquivalent": 6.14,
+          "senateEquivalent": 15.8
+        },
+        {
+          "id": "UDN",
+          "name": "UDN",
+          "lineage": "UDN",
+          "chamberEquivalent": 116.2,
+          "governorEquivalent": 11.05,
+          "senateEquivalent": 18.34
+        }
+      ]
+    },
+    "1961": {
+      "offices": [
+        "PTN",
+        "PSD (1945)",
+        "PTB (1945)"
+      ],
+      "quality": "G",
+      "rows": [
+        {
+          "id": "PDC",
+          "name": "PDC",
+          "lineage": "PDC",
+          "chamberEquivalent": 11.5,
+          "governorEquivalent": 2.45,
+          "senateEquivalent": 1.82
+        },
+        {
+          "id": "PL (Libertador)",
+          "name": "PL (Libertador)",
+          "lineage": "PL (Libertador)",
+          "chamberEquivalent": 8.1,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1.27
+        },
+        {
+          "id": "PODE",
+          "name": "PTN",
+          "lineage": "PTN/Podemos line",
+          "chamberEquivalent": 9.2,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1.45
+        },
+        {
+          "id": "PR (1945)",
+          "name": "PR (1945)",
+          "lineage": "PR (1945)",
+          "chamberEquivalent": 27.6,
+          "governorEquivalent": 0,
+          "senateEquivalent": 4.36
+        },
+        {
+          "id": "PRP",
+          "name": "PRP",
+          "lineage": "PRP",
+          "chamberEquivalent": 8.1,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1.27
+        },
+        {
+          "id": "PSB",
+          "name": "PSB",
+          "lineage": "PSB",
+          "chamberEquivalent": 12.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 2
+        },
+        {
+          "id": "PSD (1945)",
+          "name": "PSD (1945)",
+          "lineage": "PSD (1945)",
+          "chamberEquivalent": 176,
+          "governorEquivalent": 7.36,
+          "senateEquivalent": 27.79
+        },
+        {
+          "id": "PSP",
+          "name": "PSP",
+          "lineage": "PSP",
+          "chamberEquivalent": 40.3,
+          "governorEquivalent": 0,
+          "senateEquivalent": 6.36
+        },
+        {
+          "id": "PTB (1945)",
+          "name": "PTB (1945)",
+          "lineage": "PTB (1945)",
+          "chamberEquivalent": 100.1,
+          "governorEquivalent": 6.14,
+          "senateEquivalent": 15.8
+        },
+        {
+          "id": "UDN",
+          "name": "UDN",
+          "lineage": "UDN",
+          "chamberEquivalent": 116.2,
+          "governorEquivalent": 11.05,
+          "senateEquivalent": 18.34
+        }
+      ]
+    },
+    "1962": {
+      "offices": [
+        "PTB (1945)",
+        "PSD (1945)",
+        "PSD (1945)"
+      ],
+      "quality": "G",
+      "rows": [
+        {
+          "id": "PDC",
+          "name": "PDC",
+          "lineage": "PDC",
+          "chamberEquivalent": 11.5,
+          "governorEquivalent": 2.45,
+          "senateEquivalent": 1.82
+        },
+        {
+          "id": "PL (Libertador)",
+          "name": "PL (Libertador)",
+          "lineage": "PL (Libertador)",
+          "chamberEquivalent": 8.1,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1.27
+        },
+        {
+          "id": "PODE",
+          "name": "PTN",
+          "lineage": "PTN/Podemos line",
+          "chamberEquivalent": 9.2,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1.45
+        },
+        {
+          "id": "PR (1945)",
+          "name": "PR (1945)",
+          "lineage": "PR (1945)",
+          "chamberEquivalent": 27.6,
+          "governorEquivalent": 0,
+          "senateEquivalent": 4.36
+        },
+        {
+          "id": "PRP",
+          "name": "PRP",
+          "lineage": "PRP",
+          "chamberEquivalent": 8.1,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1.27
+        },
+        {
+          "id": "PSB",
+          "name": "PSB",
+          "lineage": "PSB",
+          "chamberEquivalent": 12.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 2
+        },
+        {
+          "id": "PSD (1945)",
+          "name": "PSD (1945)",
+          "lineage": "PSD (1945)",
+          "chamberEquivalent": 176,
+          "governorEquivalent": 7.36,
+          "senateEquivalent": 27.79
+        },
+        {
+          "id": "PSP",
+          "name": "PSP",
+          "lineage": "PSP",
+          "chamberEquivalent": 40.3,
+          "governorEquivalent": 0,
+          "senateEquivalent": 6.36
+        },
+        {
+          "id": "PTB (1945)",
+          "name": "PTB (1945)",
+          "lineage": "PTB (1945)",
+          "chamberEquivalent": 100.1,
+          "governorEquivalent": 6.14,
+          "senateEquivalent": 15.8
+        },
+        {
+          "id": "UDN",
+          "name": "UDN",
+          "lineage": "UDN",
+          "chamberEquivalent": 116.2,
+          "governorEquivalent": 11.05,
+          "senateEquivalent": 18.34
+        }
+      ]
+    },
+    "1963": {
+      "offices": [
+        "PTB (1945)",
+        "PSD (1945)",
+        "PSD (1945)"
+      ],
+      "quality": "G",
+      "rows": [
+        {
+          "id": "MTR",
+          "name": "MTR",
+          "lineage": "MTR",
+          "chamberEquivalent": 4.9,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.77
+        },
+        {
+          "id": "PDC",
+          "name": "PDC",
+          "lineage": "PDC",
+          "chamberEquivalent": 23.5,
+          "governorEquivalent": 0,
+          "senateEquivalent": 3.7
+        },
+        {
+          "id": "PODE",
+          "name": "PTN",
+          "lineage": "PTN/Podemos line",
+          "chamberEquivalent": 11.7,
+          "governorEquivalent": 1.17,
+          "senateEquivalent": 1.85
+        },
+        {
+          "id": "PR (1945)",
+          "name": "PR (1945)",
+          "lineage": "PR (1945)",
+          "chamberEquivalent": 8.8,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1.39
+        },
+        {
+          "id": "PSD (1945)",
+          "name": "PSD (1945)",
+          "lineage": "PSD (1945)",
+          "chamberEquivalent": 143.6,
+          "governorEquivalent": 8.22,
+          "senateEquivalent": 22.68
+        },
+        {
+          "id": "PSP",
+          "name": "PSP",
+          "lineage": "PSP",
+          "chamberEquivalent": 32.2,
+          "governorEquivalent": 2.35,
+          "senateEquivalent": 5.09
+        },
+        {
+          "id": "PST",
+          "name": "PST",
+          "lineage": "PST",
+          "chamberEquivalent": 10.7,
+          "governorEquivalent": 1.17,
+          "senateEquivalent": 1.7
+        },
+        {
+          "id": "PTB (1945)",
+          "name": "PTB (1945)",
+          "lineage": "PTB (1945)",
+          "chamberEquivalent": 157.3,
+          "governorEquivalent": 4.7,
+          "senateEquivalent": 24.84
+        },
+        {
+          "id": "UDN",
+          "name": "UDN",
+          "lineage": "UDN",
+          "chamberEquivalent": 117.3,
+          "governorEquivalent": 9.39,
+          "senateEquivalent": 18.51
+        }
+      ]
+    },
+    "1964": {
+      "offices": [
+        null,
+        "PSD (1945)",
+        "PSD (1945)"
+      ],
+      "quality": "G",
+      "rows": [
+        {
+          "id": "MTR",
+          "name": "MTR",
+          "lineage": "MTR",
+          "chamberEquivalent": 4.9,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.77
+        },
+        {
+          "id": "PDC",
+          "name": "PDC",
+          "lineage": "PDC",
+          "chamberEquivalent": 23.5,
+          "governorEquivalent": 0,
+          "senateEquivalent": 3.7
+        },
+        {
+          "id": "PODE",
+          "name": "PTN",
+          "lineage": "PTN/Podemos line",
+          "chamberEquivalent": 11.7,
+          "governorEquivalent": 1.17,
+          "senateEquivalent": 1.85
+        },
+        {
+          "id": "PR (1945)",
+          "name": "PR (1945)",
+          "lineage": "PR (1945)",
+          "chamberEquivalent": 8.8,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1.39
+        },
+        {
+          "id": "PSD (1945)",
+          "name": "PSD (1945)",
+          "lineage": "PSD (1945)",
+          "chamberEquivalent": 143.6,
+          "governorEquivalent": 8.22,
+          "senateEquivalent": 22.68
+        },
+        {
+          "id": "PSP",
+          "name": "PSP",
+          "lineage": "PSP",
+          "chamberEquivalent": 32.2,
+          "governorEquivalent": 2.35,
+          "senateEquivalent": 5.09
+        },
+        {
+          "id": "PST",
+          "name": "PST",
+          "lineage": "PST",
+          "chamberEquivalent": 10.7,
+          "governorEquivalent": 1.17,
+          "senateEquivalent": 1.7
+        },
+        {
+          "id": "PTB (1945)",
+          "name": "PTB (1945)",
+          "lineage": "PTB (1945)",
+          "chamberEquivalent": 157.3,
+          "governorEquivalent": 4.7,
+          "senateEquivalent": 24.84
+        },
+        {
+          "id": "UDN",
+          "name": "UDN",
+          "lineage": "UDN",
+          "chamberEquivalent": 117.3,
+          "governorEquivalent": 9.39,
+          "senateEquivalent": 18.51
+        }
+      ]
+    },
+    "1965": {
+      "offices": [
+        null,
+        "UDN",
+        "PSD (1945)"
+      ],
+      "quality": "G",
+      "rows": [
+        {
+          "id": "MTR",
+          "name": "MTR",
+          "lineage": "MTR",
+          "chamberEquivalent": 4.9,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.77
+        },
+        {
+          "id": "PDC",
+          "name": "PDC",
+          "lineage": "PDC",
+          "chamberEquivalent": 23.5,
+          "governorEquivalent": 0,
+          "senateEquivalent": 3.7
+        },
+        {
+          "id": "PODE",
+          "name": "PTN",
+          "lineage": "PTN/Podemos line",
+          "chamberEquivalent": 11.7,
+          "governorEquivalent": 1.17,
+          "senateEquivalent": 1.85
+        },
+        {
+          "id": "PR (1945)",
+          "name": "PR (1945)",
+          "lineage": "PR (1945)",
+          "chamberEquivalent": 8.8,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1.39
+        },
+        {
+          "id": "PSD (1945)",
+          "name": "PSD (1945)",
+          "lineage": "PSD (1945)",
+          "chamberEquivalent": 143.6,
+          "governorEquivalent": 8.22,
+          "senateEquivalent": 22.68
+        },
+        {
+          "id": "PSP",
+          "name": "PSP",
+          "lineage": "PSP",
+          "chamberEquivalent": 32.2,
+          "governorEquivalent": 2.35,
+          "senateEquivalent": 5.09
+        },
+        {
+          "id": "PST",
+          "name": "PST",
+          "lineage": "PST",
+          "chamberEquivalent": 10.7,
+          "governorEquivalent": 1.17,
+          "senateEquivalent": 1.7
+        },
+        {
+          "id": "PTB (1945)",
+          "name": "PTB (1945)",
+          "lineage": "PTB (1945)",
+          "chamberEquivalent": 157.3,
+          "governorEquivalent": 4.7,
+          "senateEquivalent": 24.84
+        },
+        {
+          "id": "UDN",
+          "name": "UDN",
+          "lineage": "UDN",
+          "chamberEquivalent": 117.3,
+          "governorEquivalent": 9.39,
+          "senateEquivalent": 18.51
+        }
+      ]
+    },
+    "1966": {
+      "offices": [
+        null,
+        "ARENA",
+        "ARENA"
+      ],
+      "quality": "G",
+      "rows": [
+        {
+          "id": "MDB",
+          "name": "MDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 165,
+          "governorEquivalent": 0,
+          "senateEquivalent": 26.05
+        },
+        {
+          "id": "PP",
+          "name": "ARENA",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 348,
+          "governorEquivalent": 27,
+          "senateEquivalent": 54.95
+        }
+      ]
+    },
+    "1967": {
+      "offices": [
+        "ARENA",
+        "ARENA",
+        "ARENA"
+      ],
+      "quality": "G",
+      "rows": [
+        {
+          "id": "MDB",
+          "name": "MDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 165,
+          "governorEquivalent": 0,
+          "senateEquivalent": 26.05
+        },
+        {
+          "id": "PP",
+          "name": "ARENA",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 348,
+          "governorEquivalent": 27,
+          "senateEquivalent": 54.95
+        }
+      ]
+    },
+    "1968": {
+      "offices": [
+        "ARENA",
+        "ARENA",
+        "ARENA"
+      ],
+      "quality": "G",
+      "rows": [
+        {
+          "id": "MDB",
+          "name": "MDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 165,
+          "governorEquivalent": 0,
+          "senateEquivalent": 26.05
+        },
+        {
+          "id": "PP",
+          "name": "ARENA",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 348,
+          "governorEquivalent": 27,
+          "senateEquivalent": 54.95
+        }
+      ]
+    },
+    "1969": {
+      "offices": [
+        "ARENA",
+        "ARENA",
+        "ARENA"
+      ],
+      "quality": "G",
+      "rows": [
+        {
+          "id": "MDB",
+          "name": "MDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 165,
+          "governorEquivalent": 0,
+          "senateEquivalent": 26.05
+        },
+        {
+          "id": "PP",
+          "name": "ARENA",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 348,
+          "governorEquivalent": 27,
+          "senateEquivalent": 54.95
+        }
+      ]
+    },
+    "1970": {
+      "offices": [
+        "ARENA",
+        "ARENA",
+        "ARENA"
+      ],
+      "quality": "G",
+      "rows": [
+        {
+          "id": "MDB",
+          "name": "MDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 165,
+          "governorEquivalent": 0,
+          "senateEquivalent": 26.05
+        },
+        {
+          "id": "PP",
+          "name": "ARENA",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 348,
+          "governorEquivalent": 27,
+          "senateEquivalent": 54.95
+        }
+      ]
+    },
+    "1971": {
+      "offices": [
+        "ARENA",
+        "ARENA",
+        "ARENA"
+      ],
+      "quality": "G",
+      "rows": [
+        {
+          "id": "MDB",
+          "name": "MDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 144.6,
+          "governorEquivalent": 1.23,
+          "senateEquivalent": 22.83
+        },
+        {
+          "id": "PP",
+          "name": "ARENA",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 368.4,
+          "governorEquivalent": 25.77,
+          "senateEquivalent": 58.17
+        }
+      ]
+    },
+    "1972": {
+      "offices": [
+        "ARENA",
+        "ARENA",
+        "ARENA"
+      ],
+      "quality": "G",
+      "rows": [
+        {
+          "id": "MDB",
+          "name": "MDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 144.6,
+          "governorEquivalent": 1.23,
+          "senateEquivalent": 22.83
+        },
+        {
+          "id": "PP",
+          "name": "ARENA",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 368.4,
+          "governorEquivalent": 25.77,
+          "senateEquivalent": 58.17
+        }
+      ]
+    },
+    "1973": {
+      "offices": [
+        "ARENA",
+        "ARENA",
+        "ARENA"
+      ],
+      "quality": "G",
+      "rows": [
+        {
+          "id": "MDB",
+          "name": "MDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 144.6,
+          "governorEquivalent": 1.23,
+          "senateEquivalent": 22.83
+        },
+        {
+          "id": "PP",
+          "name": "ARENA",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 368.4,
+          "governorEquivalent": 25.77,
+          "senateEquivalent": 58.17
+        }
+      ]
+    },
+    "1974": {
+      "offices": [
+        "ARENA",
+        "ARENA",
+        "ARENA"
+      ],
+      "quality": "G",
+      "rows": [
+        {
+          "id": "MDB",
+          "name": "MDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 144.6,
+          "governorEquivalent": 1.23,
+          "senateEquivalent": 22.83
+        },
+        {
+          "id": "PP",
+          "name": "ARENA",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 368.4,
+          "governorEquivalent": 25.77,
+          "senateEquivalent": 58.17
+        }
+      ]
+    },
+    "1975": {
+      "offices": [
+        "ARENA",
+        "ARENA",
+        "ARENA"
+      ],
+      "quality": "G",
+      "rows": [
+        {
+          "id": "MDB",
+          "name": "MDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 226.4,
+          "governorEquivalent": 0,
+          "senateEquivalent": 35.75
+        },
+        {
+          "id": "PP",
+          "name": "ARENA",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 286.6,
+          "governorEquivalent": 27,
+          "senateEquivalent": 45.25
+        }
+      ]
+    },
+    "1976": {
+      "offices": [
+        "ARENA",
+        "ARENA",
+        "ARENA"
+      ],
+      "quality": "G",
+      "rows": [
+        {
+          "id": "MDB",
+          "name": "MDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 226.4,
+          "governorEquivalent": 0,
+          "senateEquivalent": 35.75
+        },
+        {
+          "id": "PP",
+          "name": "ARENA",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 286.6,
+          "governorEquivalent": 27,
+          "senateEquivalent": 45.25
+        }
+      ]
+    },
+    "1977": {
+      "offices": [
+        "ARENA",
+        "ARENA",
+        "ARENA"
+      ],
+      "quality": "G",
+      "rows": [
+        {
+          "id": "MDB",
+          "name": "MDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 226.4,
+          "governorEquivalent": 0,
+          "senateEquivalent": 35.75
+        },
+        {
+          "id": "PP",
+          "name": "ARENA",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 286.6,
+          "governorEquivalent": 27,
+          "senateEquivalent": 45.25
+        }
+      ]
+    },
+    "1978": {
+      "offices": [
+        "ARENA",
+        "ARENA",
+        "ARENA"
+      ],
+      "quality": "G",
+      "rows": [
+        {
+          "id": "MDB",
+          "name": "MDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 226.4,
+          "governorEquivalent": 0,
+          "senateEquivalent": 35.75
+        },
+        {
+          "id": "PP",
+          "name": "ARENA",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 286.6,
+          "governorEquivalent": 27,
+          "senateEquivalent": 45.25
+        }
+      ]
+    },
+    "1979": {
+      "offices": [
+        "ARENA",
+        "ARENA",
+        "ARENA"
+      ],
+      "quality": "G",
+      "rows": [
+        {
+          "id": "MDB",
+          "name": "MDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 193.2,
+          "governorEquivalent": 0,
+          "senateEquivalent": 30.51
+        },
+        {
+          "id": "PP",
+          "name": "ARENA",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 289.3,
+          "governorEquivalent": 27,
+          "senateEquivalent": 45.67
+        },
+        {
+          "id": "PP (1980)→MDB",
+          "name": "PP (1980)→MDB",
+          "lineage": "PP (1980)→MDB",
+          "chamberEquivalent": 30.5,
+          "governorEquivalent": 0,
+          "senateEquivalent": 4.82
+        }
+      ]
+    },
+    "1980": {
+      "offices": [
+        "PDS",
+        "PDS",
+        "PDS"
+      ],
+      "quality": "G",
+      "rows": [
+        {
+          "id": "MDB",
+          "name": "PMDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 190.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 30.11
+        },
+        {
+          "id": "PDT",
+          "name": "PDT",
+          "lineage": "PDT",
+          "chamberEquivalent": 5.6,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.88
+        },
+        {
+          "id": "PP",
+          "name": "PDS",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 285.5,
+          "governorEquivalent": 27,
+          "senateEquivalent": 45.08
+        },
+        {
+          "id": "PP (1980)→MDB",
+          "name": "PP (1980)→MDB",
+          "lineage": "PP (1980)→MDB",
+          "chamberEquivalent": 30.1,
+          "governorEquivalent": 0,
+          "senateEquivalent": 4.75
+        }
+      ]
+    },
+    "1981": {
+      "offices": [
+        "PDS",
+        "PDS",
+        "PDS"
+      ],
+      "quality": "G",
+      "rows": [
+        {
+          "id": "MDB",
+          "name": "PMDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 190.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 30.11
+        },
+        {
+          "id": "PDT",
+          "name": "PDT",
+          "lineage": "PDT",
+          "chamberEquivalent": 5.6,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.88
+        },
+        {
+          "id": "PP",
+          "name": "PDS",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 285.5,
+          "governorEquivalent": 27,
+          "senateEquivalent": 45.08
+        },
+        {
+          "id": "PP (1980)→MDB",
+          "name": "PP (1980)→MDB",
+          "lineage": "PP (1980)→MDB",
+          "chamberEquivalent": 30.1,
+          "governorEquivalent": 0,
+          "senateEquivalent": 4.75
+        }
+      ]
+    },
+    "1982": {
+      "offices": [
+        "PDS",
+        "PDS",
+        "PDS"
+      ],
+      "quality": "G",
+      "rows": [
+        {
+          "id": "MDB",
+          "name": "PMDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 190.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 30.11
+        },
+        {
+          "id": "PDT",
+          "name": "PDT",
+          "lineage": "PDT",
+          "chamberEquivalent": 5.6,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.88
+        },
+        {
+          "id": "PP",
+          "name": "PDS",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 285.5,
+          "governorEquivalent": 27,
+          "senateEquivalent": 45.08
+        },
+        {
+          "id": "PP (1980)→MDB",
+          "name": "PP (1980)→MDB",
+          "lineage": "PP (1980)→MDB",
+          "chamberEquivalent": 30.1,
+          "governorEquivalent": 0,
+          "senateEquivalent": 4.75
+        }
+      ]
+    },
+    "1983": {
+      "offices": [
+        "PDS",
+        "PDS",
+        "PDS"
+      ],
+      "quality": "G",
+      "rows": [
+        {
+          "id": "MDB",
+          "name": "PMDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 226.3,
+          "governorEquivalent": 11.05,
+          "senateEquivalent": 35.73
+        },
+        {
+          "id": "PDT",
+          "name": "PDT",
+          "lineage": "PDT",
+          "chamberEquivalent": 23.8,
+          "governorEquivalent": 1.23,
+          "senateEquivalent": 3.76
+        },
+        {
+          "id": "PP",
+          "name": "PDS",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 239.1,
+          "governorEquivalent": 14.73,
+          "senateEquivalent": 37.75
+        },
+        {
+          "id": "PT",
+          "name": "PT",
+          "lineage": "PT",
+          "chamberEquivalent": 8.2,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1.3
+        },
+        {
+          "id": "PTB",
+          "name": "PTB",
+          "lineage": "PTB",
+          "chamberEquivalent": 15.6,
+          "governorEquivalent": 0,
+          "senateEquivalent": 2.46
+        }
+      ]
+    },
+    "1984": {
+      "offices": [
+        "PDS",
+        "PDS",
+        "PDS"
+      ],
+      "quality": "G",
+      "rows": [
+        {
+          "id": "MDB",
+          "name": "PMDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 226.3,
+          "governorEquivalent": 11.05,
+          "senateEquivalent": 35.73
+        },
+        {
+          "id": "PDT",
+          "name": "PDT",
+          "lineage": "PDT",
+          "chamberEquivalent": 23.8,
+          "governorEquivalent": 1.23,
+          "senateEquivalent": 3.76
+        },
+        {
+          "id": "PP",
+          "name": "PDS",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 239.1,
+          "governorEquivalent": 14.73,
+          "senateEquivalent": 37.75
+        },
+        {
+          "id": "PT",
+          "name": "PT",
+          "lineage": "PT",
+          "chamberEquivalent": 8.2,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1.3
+        },
+        {
+          "id": "PTB",
+          "name": "PTB",
+          "lineage": "PTB",
+          "chamberEquivalent": 15.6,
+          "governorEquivalent": 0,
+          "senateEquivalent": 2.46
+        }
+      ]
+    },
+    "1985": {
+      "offices": [
+        "PMDB",
+        "PMDB",
+        "PMDB"
+      ],
+      "quality": "G",
+      "rows": [
+        {
+          "id": "MDB",
+          "name": "PMDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 226.3,
+          "governorEquivalent": 11.05,
+          "senateEquivalent": 35.73
+        },
+        {
+          "id": "PDT",
+          "name": "PDT",
+          "lineage": "PDT",
+          "chamberEquivalent": 23.8,
+          "governorEquivalent": 1.23,
+          "senateEquivalent": 3.76
+        },
+        {
+          "id": "PP",
+          "name": "PDS",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 239.1,
+          "governorEquivalent": 14.73,
+          "senateEquivalent": 37.75
+        },
+        {
+          "id": "PT",
+          "name": "PT",
+          "lineage": "PT",
+          "chamberEquivalent": 8.2,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1.3
+        },
+        {
+          "id": "PTB",
+          "name": "PTB",
+          "lineage": "PTB",
+          "chamberEquivalent": 15.6,
+          "governorEquivalent": 0,
+          "senateEquivalent": 2.46
+        }
+      ]
+    },
+    "1986": {
+      "offices": [
+        "PMDB",
+        "PMDB",
+        "PMDB"
+      ],
+      "quality": "G",
+      "rows": [
+        {
+          "id": "MDB",
+          "name": "PMDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 226.3,
+          "governorEquivalent": 11.05,
+          "senateEquivalent": 35.73
+        },
+        {
+          "id": "PDT",
+          "name": "PDT",
+          "lineage": "PDT",
+          "chamberEquivalent": 23.8,
+          "governorEquivalent": 1.23,
+          "senateEquivalent": 3.76
+        },
+        {
+          "id": "PP",
+          "name": "PDS",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 239.1,
+          "governorEquivalent": 14.73,
+          "senateEquivalent": 37.75
+        },
+        {
+          "id": "PT",
+          "name": "PT",
+          "lineage": "PT",
+          "chamberEquivalent": 8.2,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1.3
+        },
+        {
+          "id": "PTB",
+          "name": "PTB",
+          "lineage": "PTB",
+          "chamberEquivalent": 15.6,
+          "governorEquivalent": 0,
+          "senateEquivalent": 2.46
+        }
+      ]
+    },
+    "1987": {
+      "offices": [
+        "PMDB",
+        "PMDB",
+        "PMDB"
+      ],
+      "quality": "G",
+      "rows": [
+        {
+          "id": "DEM",
+          "name": "PFL",
+          "lineage": "PFL/DEM line",
+          "chamberEquivalent": 114.3,
+          "governorEquivalent": 1.17,
+          "senateEquivalent": 18.05
+        },
+        {
+          "id": "MDB",
+          "name": "PMDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 272.7,
+          "governorEquivalent": 25.83,
+          "senateEquivalent": 43.06
+        },
+        {
+          "id": "PCDOB",
+          "name": "PCdoB",
+          "lineage": "PCdoB",
+          "chamberEquivalent": 3.6,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.57
+        },
+        {
+          "id": "PDC",
+          "name": "PDC",
+          "lineage": "PDC",
+          "chamberEquivalent": 7.2,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1.14
+        },
+        {
+          "id": "PDT",
+          "name": "PDT",
+          "lineage": "PDT",
+          "chamberEquivalent": 27,
+          "governorEquivalent": 0,
+          "senateEquivalent": 4.26
+        },
+        {
+          "id": "PL",
+          "name": "PL",
+          "lineage": "PL line",
+          "chamberEquivalent": 8.1,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1.28
+        },
+        {
+          "id": "PP",
+          "name": "PDS",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 38.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 6.11
+        },
+        {
+          "id": "PSB",
+          "name": "PSB",
+          "lineage": "PSB",
+          "chamberEquivalent": 2.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.43
+        },
+        {
+          "id": "PSC",
+          "name": "PSC",
+          "lineage": "PSC",
+          "chamberEquivalent": 2.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.43
+        },
+        {
+          "id": "PT",
+          "name": "PT",
+          "lineage": "PT",
+          "chamberEquivalent": 18.9,
+          "governorEquivalent": 0,
+          "senateEquivalent": 2.98
+        },
+        {
+          "id": "PTB",
+          "name": "PTB",
+          "lineage": "PTB",
+          "chamberEquivalent": 15.3,
+          "governorEquivalent": 0,
+          "senateEquivalent": 2.42
+        }
+      ]
+    },
+    "1988": {
+      "offices": [
+        "PMDB",
+        "PMDB",
+        "PMDB"
+      ],
+      "quality": "G",
+      "rows": [
+        {
+          "id": "DEM",
+          "name": "PFL",
+          "lineage": "PFL/DEM line",
+          "chamberEquivalent": 113.7,
+          "governorEquivalent": 1.17,
+          "senateEquivalent": 17.95
+        },
+        {
+          "id": "MDB",
+          "name": "PMDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 271.3,
+          "governorEquivalent": 25.83,
+          "senateEquivalent": 42.83
+        },
+        {
+          "id": "PCDOB",
+          "name": "PCdoB",
+          "lineage": "PCdoB",
+          "chamberEquivalent": 3.6,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.57
+        },
+        {
+          "id": "PDC",
+          "name": "PDC",
+          "lineage": "PDC",
+          "chamberEquivalent": 7.2,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1.13
+        },
+        {
+          "id": "PDT",
+          "name": "PDT",
+          "lineage": "PDT",
+          "chamberEquivalent": 26.9,
+          "governorEquivalent": 0,
+          "senateEquivalent": 4.24
+        },
+        {
+          "id": "PL",
+          "name": "PL",
+          "lineage": "PL line",
+          "chamberEquivalent": 8.1,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1.27
+        },
+        {
+          "id": "PP",
+          "name": "PDS",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 38.5,
+          "governorEquivalent": 0,
+          "senateEquivalent": 6.08
+        },
+        {
+          "id": "PSB",
+          "name": "PSB",
+          "lineage": "PSB",
+          "chamberEquivalent": 2.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.42
+        },
+        {
+          "id": "PSC",
+          "name": "PSC",
+          "lineage": "PSC",
+          "chamberEquivalent": 2.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.42
+        },
+        {
+          "id": "PSDB",
+          "name": "PSDB",
+          "lineage": "PSDB",
+          "chamberEquivalent": 2.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.42
+        },
+        {
+          "id": "PT",
+          "name": "PT",
+          "lineage": "PT",
+          "chamberEquivalent": 18.8,
+          "governorEquivalent": 0,
+          "senateEquivalent": 2.97
+        },
+        {
+          "id": "PTB",
+          "name": "PTB",
+          "lineage": "PTB",
+          "chamberEquivalent": 15.2,
+          "governorEquivalent": 0,
+          "senateEquivalent": 2.4
+        }
+      ]
+    },
+    "1989": {
+      "offices": [
+        "PMDB",
+        "PMDB",
+        "PMDB"
+      ],
+      "quality": "G",
+      "rows": [
+        {
+          "id": "DEM",
+          "name": "PFL",
+          "lineage": "PFL/DEM line",
+          "chamberEquivalent": 113.5,
+          "governorEquivalent": 1.17,
+          "senateEquivalent": 17.92
+        },
+        {
+          "id": "MDB",
+          "name": "PMDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 270.8,
+          "governorEquivalent": 25.83,
+          "senateEquivalent": 42.76
+        },
+        {
+          "id": "PCDOB",
+          "name": "PCdoB",
+          "lineage": "PCdoB",
+          "chamberEquivalent": 3.6,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.56
+        },
+        {
+          "id": "PDC",
+          "name": "PDC",
+          "lineage": "PDC",
+          "chamberEquivalent": 7.1,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1.13
+        },
+        {
+          "id": "PDT",
+          "name": "PDT",
+          "lineage": "PDT",
+          "chamberEquivalent": 26.8,
+          "governorEquivalent": 0,
+          "senateEquivalent": 4.23
+        },
+        {
+          "id": "PL",
+          "name": "PL",
+          "lineage": "PL line",
+          "chamberEquivalent": 8,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1.27
+        },
+        {
+          "id": "PP",
+          "name": "PDS",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 38.4,
+          "governorEquivalent": 0,
+          "senateEquivalent": 6.07
+        },
+        {
+          "id": "PSB",
+          "name": "PSB",
+          "lineage": "PSB",
+          "chamberEquivalent": 2.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.42
+        },
+        {
+          "id": "PSC",
+          "name": "PSC",
+          "lineage": "PSC",
+          "chamberEquivalent": 2.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.42
+        },
+        {
+          "id": "PSDB",
+          "name": "PSDB",
+          "lineage": "PSDB",
+          "chamberEquivalent": 2.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.42
+        },
+        {
+          "id": "PT",
+          "name": "PT",
+          "lineage": "PT",
+          "chamberEquivalent": 18.8,
+          "governorEquivalent": 0,
+          "senateEquivalent": 2.96
+        },
+        {
+          "id": "PTB",
+          "name": "PTB",
+          "lineage": "PTB",
+          "chamberEquivalent": 15.2,
+          "governorEquivalent": 0,
+          "senateEquivalent": 2.4
+        }
+      ]
+    },
+    "1990": {
+      "offices": [
+        "PRN",
+        "PMDB",
+        "PMDB"
+      ],
+      "quality": "G",
+      "rows": [
+        {
+          "id": "DEM",
+          "name": "PFL",
+          "lineage": "PFL/DEM line",
+          "chamberEquivalent": 113.5,
+          "governorEquivalent": 1.17,
+          "senateEquivalent": 17.92
+        },
+        {
+          "id": "MDB",
+          "name": "PMDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 270.8,
+          "governorEquivalent": 25.83,
+          "senateEquivalent": 42.76
+        },
+        {
+          "id": "PCDOB",
+          "name": "PCdoB",
+          "lineage": "PCdoB",
+          "chamberEquivalent": 3.6,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.56
+        },
+        {
+          "id": "PDC",
+          "name": "PDC",
+          "lineage": "PDC",
+          "chamberEquivalent": 7.1,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1.13
+        },
+        {
+          "id": "PDT",
+          "name": "PDT",
+          "lineage": "PDT",
+          "chamberEquivalent": 26.8,
+          "governorEquivalent": 0,
+          "senateEquivalent": 4.23
+        },
+        {
+          "id": "PL",
+          "name": "PL",
+          "lineage": "PL line",
+          "chamberEquivalent": 8,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1.27
+        },
+        {
+          "id": "PP",
+          "name": "PDS",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 38.4,
+          "governorEquivalent": 0,
+          "senateEquivalent": 6.07
+        },
+        {
+          "id": "PRN",
+          "name": "PRN",
+          "lineage": "PRN",
+          "chamberEquivalent": 0.9,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.14
+        },
+        {
+          "id": "PSB",
+          "name": "PSB",
+          "lineage": "PSB",
+          "chamberEquivalent": 2.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.42
+        },
+        {
+          "id": "PSC",
+          "name": "PSC",
+          "lineage": "PSC",
+          "chamberEquivalent": 2.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.42
+        },
+        {
+          "id": "PSDB",
+          "name": "PSDB",
+          "lineage": "PSDB",
+          "chamberEquivalent": 2.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.42
+        },
+        {
+          "id": "PT",
+          "name": "PT",
+          "lineage": "PT",
+          "chamberEquivalent": 18.8,
+          "governorEquivalent": 0,
+          "senateEquivalent": 2.96
+        },
+        {
+          "id": "PTB",
+          "name": "PTB",
+          "lineage": "PTB",
+          "chamberEquivalent": 15.2,
+          "governorEquivalent": 0,
+          "senateEquivalent": 2.4
+        }
+      ]
+    },
+    "1991": {
+      "offices": [
+        "PRN",
+        "PMDB",
+        "PMDB"
+      ],
+      "quality": "G",
+      "rows": [
+        {
+          "id": "DEM",
+          "name": "PFL",
+          "lineage": "PFL/DEM line",
+          "chamberEquivalent": 83.1,
+          "governorEquivalent": 9,
+          "senateEquivalent": 13.12
+        },
+        {
+          "id": "MDB",
+          "name": "PMDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 120.1,
+          "governorEquivalent": 6,
+          "senateEquivalent": 18.96
+        },
+        {
+          "id": "PCDOB",
+          "name": "PCdoB",
+          "lineage": "PCdoB",
+          "chamberEquivalent": 5.9,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.93
+        },
+        {
+          "id": "PDC",
+          "name": "PDC",
+          "lineage": "PDC",
+          "chamberEquivalent": 18.5,
+          "governorEquivalent": 0,
+          "senateEquivalent": 2.92
+        },
+        {
+          "id": "PDT",
+          "name": "PDT",
+          "lineage": "PDT",
+          "chamberEquivalent": 45.3,
+          "governorEquivalent": 3,
+          "senateEquivalent": 7.16
+        },
+        {
+          "id": "PL",
+          "name": "PL",
+          "lineage": "PL line",
+          "chamberEquivalent": 18.5,
+          "governorEquivalent": 1,
+          "senateEquivalent": 2.92
+        },
+        {
+          "id": "PP",
+          "name": "PDS",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 42,
+          "governorEquivalent": 1,
+          "senateEquivalent": 6.63
+        },
+        {
+          "id": "PRN",
+          "name": "PRN",
+          "lineage": "PRN",
+          "chamberEquivalent": 39.5,
+          "governorEquivalent": 1,
+          "senateEquivalent": 6.23
+        },
+        {
+          "id": "PRS",
+          "name": "PRS",
+          "lineage": "PRS",
+          "chamberEquivalent": 4.2,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.66
+        },
+        {
+          "id": "PSB",
+          "name": "PSB",
+          "lineage": "PSB",
+          "chamberEquivalent": 10.9,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1.72
+        },
+        {
+          "id": "PSC",
+          "name": "PSC",
+          "lineage": "PSC",
+          "chamberEquivalent": 4.2,
+          "governorEquivalent": 1,
+          "senateEquivalent": 0.66
+        },
+        {
+          "id": "PSDB",
+          "name": "PSDB",
+          "lineage": "PSDB",
+          "chamberEquivalent": 42.8,
+          "governorEquivalent": 1,
+          "senateEquivalent": 6.76
+        },
+        {
+          "id": "PST",
+          "name": "PST",
+          "lineage": "PST",
+          "chamberEquivalent": 2.5,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.4
+        },
+        {
+          "id": "PT",
+          "name": "PT",
+          "lineage": "PT",
+          "chamberEquivalent": 31.1,
+          "governorEquivalent": 0,
+          "senateEquivalent": 4.91
+        },
+        {
+          "id": "PTB",
+          "name": "PTB",
+          "lineage": "PTB",
+          "chamberEquivalent": 37.8,
+          "governorEquivalent": 2,
+          "senateEquivalent": 5.97
+        },
+        {
+          "id": "PTR",
+          "name": "PTR",
+          "lineage": "PTR",
+          "chamberEquivalent": 4.2,
+          "governorEquivalent": 2,
+          "senateEquivalent": 0.66
+        }
+      ]
+    },
+    "1992": {
+      "offices": [
+        "PRN",
+        "PMDB",
+        "PMDB"
+      ],
+      "quality": "G",
+      "rows": [
+        {
+          "id": "DEM",
+          "name": "PFL",
+          "lineage": "PFL/DEM line",
+          "chamberEquivalent": 83.1,
+          "governorEquivalent": 9,
+          "senateEquivalent": 13.12
+        },
+        {
+          "id": "MDB",
+          "name": "PMDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 120.1,
+          "governorEquivalent": 6,
+          "senateEquivalent": 18.96
+        },
+        {
+          "id": "PCDOB",
+          "name": "PCdoB",
+          "lineage": "PCdoB",
+          "chamberEquivalent": 5.9,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.93
+        },
+        {
+          "id": "PDC",
+          "name": "PDC",
+          "lineage": "PDC",
+          "chamberEquivalent": 18.5,
+          "governorEquivalent": 0,
+          "senateEquivalent": 2.92
+        },
+        {
+          "id": "PDT",
+          "name": "PDT",
+          "lineage": "PDT",
+          "chamberEquivalent": 45.3,
+          "governorEquivalent": 3,
+          "senateEquivalent": 7.16
+        },
+        {
+          "id": "PL",
+          "name": "PL",
+          "lineage": "PL line",
+          "chamberEquivalent": 18.5,
+          "governorEquivalent": 1,
+          "senateEquivalent": 2.92
+        },
+        {
+          "id": "PP",
+          "name": "PDS",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 42,
+          "governorEquivalent": 1,
+          "senateEquivalent": 6.63
+        },
+        {
+          "id": "PRN",
+          "name": "PRN",
+          "lineage": "PRN",
+          "chamberEquivalent": 39.5,
+          "governorEquivalent": 1,
+          "senateEquivalent": 6.23
+        },
+        {
+          "id": "PRS",
+          "name": "PRS",
+          "lineage": "PRS",
+          "chamberEquivalent": 4.2,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.66
+        },
+        {
+          "id": "PSB",
+          "name": "PSB",
+          "lineage": "PSB",
+          "chamberEquivalent": 10.9,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1.72
+        },
+        {
+          "id": "PSC",
+          "name": "PSC",
+          "lineage": "PSC",
+          "chamberEquivalent": 4.2,
+          "governorEquivalent": 1,
+          "senateEquivalent": 0.66
+        },
+        {
+          "id": "PSDB",
+          "name": "PSDB",
+          "lineage": "PSDB",
+          "chamberEquivalent": 42.8,
+          "governorEquivalent": 1,
+          "senateEquivalent": 6.76
+        },
+        {
+          "id": "PST",
+          "name": "PST",
+          "lineage": "PST",
+          "chamberEquivalent": 2.5,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.4
+        },
+        {
+          "id": "PT",
+          "name": "PT",
+          "lineage": "PT",
+          "chamberEquivalent": 31.1,
+          "governorEquivalent": 0,
+          "senateEquivalent": 4.91
+        },
+        {
+          "id": "PTB",
+          "name": "PTB",
+          "lineage": "PTB",
+          "chamberEquivalent": 37.8,
+          "governorEquivalent": 2,
+          "senateEquivalent": 5.97
+        },
+        {
+          "id": "PTR",
+          "name": "PTR",
+          "lineage": "PTR",
+          "chamberEquivalent": 4.2,
+          "governorEquivalent": 2,
+          "senateEquivalent": 0.66
+        }
+      ]
+    },
+    "1993": {
+      "offices": [
+        null,
+        "PFL",
+        "PMDB"
+      ],
+      "quality": "G",
+      "rows": [
+        {
+          "id": "DEM",
+          "name": "PFL",
+          "lineage": "PFL/DEM line",
+          "chamberEquivalent": 83.1,
+          "governorEquivalent": 9,
+          "senateEquivalent": 13.12
+        },
+        {
+          "id": "MDB",
+          "name": "PMDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 120.1,
+          "governorEquivalent": 6,
+          "senateEquivalent": 18.96
+        },
+        {
+          "id": "PCDOB",
+          "name": "PCdoB",
+          "lineage": "PCdoB",
+          "chamberEquivalent": 5.9,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.93
+        },
+        {
+          "id": "PDC",
+          "name": "PDC",
+          "lineage": "PDC",
+          "chamberEquivalent": 18.5,
+          "governorEquivalent": 0,
+          "senateEquivalent": 2.92
+        },
+        {
+          "id": "PDT",
+          "name": "PDT",
+          "lineage": "PDT",
+          "chamberEquivalent": 45.3,
+          "governorEquivalent": 3,
+          "senateEquivalent": 7.16
+        },
+        {
+          "id": "PL",
+          "name": "PL",
+          "lineage": "PL line",
+          "chamberEquivalent": 18.5,
+          "governorEquivalent": 1,
+          "senateEquivalent": 2.92
+        },
+        {
+          "id": "PP",
+          "name": "PPR",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 42,
+          "governorEquivalent": 1,
+          "senateEquivalent": 6.63
+        },
+        {
+          "id": "PRN",
+          "name": "PRN",
+          "lineage": "PRN",
+          "chamberEquivalent": 39.5,
+          "governorEquivalent": 1,
+          "senateEquivalent": 6.23
+        },
+        {
+          "id": "PRS",
+          "name": "PRS",
+          "lineage": "PRS",
+          "chamberEquivalent": 4.2,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.66
+        },
+        {
+          "id": "PSB",
+          "name": "PSB",
+          "lineage": "PSB",
+          "chamberEquivalent": 10.9,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1.72
+        },
+        {
+          "id": "PSC",
+          "name": "PSC",
+          "lineage": "PSC",
+          "chamberEquivalent": 4.2,
+          "governorEquivalent": 1,
+          "senateEquivalent": 0.66
+        },
+        {
+          "id": "PSDB",
+          "name": "PSDB",
+          "lineage": "PSDB",
+          "chamberEquivalent": 42.8,
+          "governorEquivalent": 1,
+          "senateEquivalent": 6.76
+        },
+        {
+          "id": "PT",
+          "name": "PT",
+          "lineage": "PT",
+          "chamberEquivalent": 31.1,
+          "governorEquivalent": 0,
+          "senateEquivalent": 4.91
+        },
+        {
+          "id": "PTB",
+          "name": "PTB",
+          "lineage": "PTB",
+          "chamberEquivalent": 37.8,
+          "governorEquivalent": 2,
+          "senateEquivalent": 5.97
+        },
+        {
+          "id": "PTR",
+          "name": "PTR",
+          "lineage": "PTR",
+          "chamberEquivalent": 4.2,
+          "governorEquivalent": 2,
+          "senateEquivalent": 0.66
+        }
+      ]
+    },
+    "1994": {
+      "offices": [
+        null,
+        "PFL",
+        "PMDB"
+      ],
+      "quality": "G",
+      "rows": [
+        {
+          "id": "DEM",
+          "name": "PFL",
+          "lineage": "PFL/DEM line",
+          "chamberEquivalent": 83.1,
+          "governorEquivalent": 9,
+          "senateEquivalent": 13.12
+        },
+        {
+          "id": "MDB",
+          "name": "PMDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 120.1,
+          "governorEquivalent": 6,
+          "senateEquivalent": 18.96
+        },
+        {
+          "id": "PCDOB",
+          "name": "PCdoB",
+          "lineage": "PCdoB",
+          "chamberEquivalent": 5.9,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.93
+        },
+        {
+          "id": "PDC",
+          "name": "PDC",
+          "lineage": "PDC",
+          "chamberEquivalent": 18.5,
+          "governorEquivalent": 0,
+          "senateEquivalent": 2.92
+        },
+        {
+          "id": "PDT",
+          "name": "PDT",
+          "lineage": "PDT",
+          "chamberEquivalent": 45.3,
+          "governorEquivalent": 3,
+          "senateEquivalent": 7.16
+        },
+        {
+          "id": "PL",
+          "name": "PL",
+          "lineage": "PL line",
+          "chamberEquivalent": 18.5,
+          "governorEquivalent": 1,
+          "senateEquivalent": 2.92
+        },
+        {
+          "id": "PP",
+          "name": "PPR",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 42,
+          "governorEquivalent": 1,
+          "senateEquivalent": 6.63
+        },
+        {
+          "id": "PRN",
+          "name": "PRN",
+          "lineage": "PRN",
+          "chamberEquivalent": 39.5,
+          "governorEquivalent": 1,
+          "senateEquivalent": 6.23
+        },
+        {
+          "id": "PRS",
+          "name": "PRS",
+          "lineage": "PRS",
+          "chamberEquivalent": 4.2,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0.66
+        },
+        {
+          "id": "PSB",
+          "name": "PSB",
+          "lineage": "PSB",
+          "chamberEquivalent": 10.9,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1.72
+        },
+        {
+          "id": "PSC",
+          "name": "PSC",
+          "lineage": "PSC",
+          "chamberEquivalent": 4.2,
+          "governorEquivalent": 1,
+          "senateEquivalent": 0.66
+        },
+        {
+          "id": "PSDB",
+          "name": "PSDB",
+          "lineage": "PSDB",
+          "chamberEquivalent": 42.8,
+          "governorEquivalent": 1,
+          "senateEquivalent": 6.76
+        },
+        {
+          "id": "PT",
+          "name": "PT",
+          "lineage": "PT",
+          "chamberEquivalent": 31.1,
+          "governorEquivalent": 0,
+          "senateEquivalent": 4.91
+        },
+        {
+          "id": "PTB",
+          "name": "PTB",
+          "lineage": "PTB",
+          "chamberEquivalent": 37.8,
+          "governorEquivalent": 2,
+          "senateEquivalent": 5.97
+        },
+        {
+          "id": "PTR",
+          "name": "PTR",
+          "lineage": "PTR",
+          "chamberEquivalent": 4.2,
+          "governorEquivalent": 2,
+          "senateEquivalent": 0.66
+        }
+      ]
+    },
+    "1995": {
+      "offices": [
+        "PSDB",
+        "PFL",
+        "PMDB"
+      ],
+      "quality": "T",
+      "rows": [
+        {
+          "id": "DEM",
+          "name": "PFL",
+          "lineage": "PFL/DEM line",
+          "chamberEquivalent": 87,
+          "governorEquivalent": 2,
+          "senateEquivalent": 16.5
+        },
+        {
+          "id": "MDB",
+          "name": "PMDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 123,
+          "governorEquivalent": 9,
+          "senateEquivalent": 21
+        },
+        {
+          "id": "PCDOB",
+          "name": "PCdoB",
+          "lineage": "PCdoB",
+          "chamberEquivalent": 9.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0
+        },
+        {
+          "id": "PDT",
+          "name": "PDT",
+          "lineage": "PDT",
+          "chamberEquivalent": 36,
+          "governorEquivalent": 2,
+          "senateEquivalent": 6
+        },
+        {
+          "id": "PL",
+          "name": "PL",
+          "lineage": "PL line",
+          "chamberEquivalent": 13.2,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1.5
+        },
+        {
+          "id": "PP",
+          "name": "PPB",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 59.7,
+          "governorEquivalent": 3,
+          "senateEquivalent": 9
+        },
+        {
+          "id": "PSB",
+          "name": "PSB",
+          "lineage": "PSB",
+          "chamberEquivalent": 15.8,
+          "governorEquivalent": 2,
+          "senateEquivalent": 1.5
+        },
+        {
+          "id": "PSDB",
+          "name": "PSDB",
+          "lineage": "PSDB",
+          "chamberEquivalent": 73.8,
+          "governorEquivalent": 6,
+          "senateEquivalent": 13.5
+        },
+        {
+          "id": "PT",
+          "name": "PT",
+          "lineage": "PT",
+          "chamberEquivalent": 50.9,
+          "governorEquivalent": 2,
+          "senateEquivalent": 6
+        },
+        {
+          "id": "PTB",
+          "name": "PTB",
+          "lineage": "PTB",
+          "chamberEquivalent": 32.5,
+          "governorEquivalent": 1,
+          "senateEquivalent": 4.5
+        }
+      ]
+    },
+    "1996": {
+      "offices": [
+        "PSDB",
+        "PFL",
+        "PMDB"
+      ],
+      "quality": "T",
+      "rows": [
+        {
+          "id": "DEM",
+          "name": "PFL",
+          "lineage": "PFL/DEM line",
+          "chamberEquivalent": 87,
+          "governorEquivalent": 2,
+          "senateEquivalent": 16.5
+        },
+        {
+          "id": "MDB",
+          "name": "PMDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 123,
+          "governorEquivalent": 9,
+          "senateEquivalent": 21
+        },
+        {
+          "id": "PCDOB",
+          "name": "PCdoB",
+          "lineage": "PCdoB",
+          "chamberEquivalent": 9.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0
+        },
+        {
+          "id": "PDT",
+          "name": "PDT",
+          "lineage": "PDT",
+          "chamberEquivalent": 36,
+          "governorEquivalent": 2,
+          "senateEquivalent": 6
+        },
+        {
+          "id": "PL",
+          "name": "PL",
+          "lineage": "PL line",
+          "chamberEquivalent": 13.2,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1.5
+        },
+        {
+          "id": "PP",
+          "name": "PPB",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 59.7,
+          "governorEquivalent": 3,
+          "senateEquivalent": 9
+        },
+        {
+          "id": "PSB",
+          "name": "PSB",
+          "lineage": "PSB",
+          "chamberEquivalent": 15.8,
+          "governorEquivalent": 2,
+          "senateEquivalent": 1.5
+        },
+        {
+          "id": "PSDB",
+          "name": "PSDB",
+          "lineage": "PSDB",
+          "chamberEquivalent": 73.8,
+          "governorEquivalent": 6,
+          "senateEquivalent": 13.5
+        },
+        {
+          "id": "PT",
+          "name": "PT",
+          "lineage": "PT",
+          "chamberEquivalent": 50.9,
+          "governorEquivalent": 2,
+          "senateEquivalent": 6
+        },
+        {
+          "id": "PTB",
+          "name": "PTB",
+          "lineage": "PTB",
+          "chamberEquivalent": 32.5,
+          "governorEquivalent": 1,
+          "senateEquivalent": 4.5
+        }
+      ]
+    },
+    "1997": {
+      "offices": [
+        "PSDB",
+        "PMDB",
+        "PFL"
+      ],
+      "quality": "T",
+      "rows": [
+        {
+          "id": "DEM",
+          "name": "PFL",
+          "lineage": "PFL/DEM line",
+          "chamberEquivalent": 87,
+          "governorEquivalent": 2,
+          "senateEquivalent": 16.5
+        },
+        {
+          "id": "MDB",
+          "name": "PMDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 123,
+          "governorEquivalent": 9,
+          "senateEquivalent": 21
+        },
+        {
+          "id": "PCDOB",
+          "name": "PCdoB",
+          "lineage": "PCdoB",
+          "chamberEquivalent": 9.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0
+        },
+        {
+          "id": "PDT",
+          "name": "PDT",
+          "lineage": "PDT",
+          "chamberEquivalent": 36,
+          "governorEquivalent": 2,
+          "senateEquivalent": 6
+        },
+        {
+          "id": "PL",
+          "name": "PL",
+          "lineage": "PL line",
+          "chamberEquivalent": 13.2,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1.5
+        },
+        {
+          "id": "PP",
+          "name": "PPB",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 59.7,
+          "governorEquivalent": 3,
+          "senateEquivalent": 9
+        },
+        {
+          "id": "PSB",
+          "name": "PSB",
+          "lineage": "PSB",
+          "chamberEquivalent": 15.8,
+          "governorEquivalent": 2,
+          "senateEquivalent": 1.5
+        },
+        {
+          "id": "PSDB",
+          "name": "PSDB",
+          "lineage": "PSDB",
+          "chamberEquivalent": 73.8,
+          "governorEquivalent": 6,
+          "senateEquivalent": 13.5
+        },
+        {
+          "id": "PT",
+          "name": "PT",
+          "lineage": "PT",
+          "chamberEquivalent": 50.9,
+          "governorEquivalent": 2,
+          "senateEquivalent": 6
+        },
+        {
+          "id": "PTB",
+          "name": "PTB",
+          "lineage": "PTB",
+          "chamberEquivalent": 32.5,
+          "governorEquivalent": 1,
+          "senateEquivalent": 4.5
+        }
+      ]
+    },
+    "1998": {
+      "offices": [
+        "PSDB",
+        "PMDB",
+        "PFL"
+      ],
+      "quality": "T",
+      "rows": [
+        {
+          "id": "DEM",
+          "name": "PFL",
+          "lineage": "PFL/DEM line",
+          "chamberEquivalent": 87,
+          "governorEquivalent": 2,
+          "senateEquivalent": 16.5
+        },
+        {
+          "id": "MDB",
+          "name": "PMDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 123,
+          "governorEquivalent": 9,
+          "senateEquivalent": 21
+        },
+        {
+          "id": "PCDOB",
+          "name": "PCdoB",
+          "lineage": "PCdoB",
+          "chamberEquivalent": 9.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0
+        },
+        {
+          "id": "PDT",
+          "name": "PDT",
+          "lineage": "PDT",
+          "chamberEquivalent": 36,
+          "governorEquivalent": 2,
+          "senateEquivalent": 6
+        },
+        {
+          "id": "PL",
+          "name": "PL",
+          "lineage": "PL line",
+          "chamberEquivalent": 13.2,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1.5
+        },
+        {
+          "id": "PP",
+          "name": "PPB",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 59.7,
+          "governorEquivalent": 3,
+          "senateEquivalent": 9
+        },
+        {
+          "id": "PSB",
+          "name": "PSB",
+          "lineage": "PSB",
+          "chamberEquivalent": 15.8,
+          "governorEquivalent": 2,
+          "senateEquivalent": 1.5
+        },
+        {
+          "id": "PSDB",
+          "name": "PSDB",
+          "lineage": "PSDB",
+          "chamberEquivalent": 73.8,
+          "governorEquivalent": 6,
+          "senateEquivalent": 13.5
+        },
+        {
+          "id": "PT",
+          "name": "PT",
+          "lineage": "PT",
+          "chamberEquivalent": 50.9,
+          "governorEquivalent": 2,
+          "senateEquivalent": 6
+        },
+        {
+          "id": "PTB",
+          "name": "PTB",
+          "lineage": "PTB",
+          "chamberEquivalent": 32.5,
+          "governorEquivalent": 1,
+          "senateEquivalent": 4.5
+        }
+      ]
+    },
+    "1999": {
+      "offices": [
+        "PSDB",
+        "PMDB",
+        "PFL"
+      ],
+      "quality": "T",
+      "rows": [
+        {
+          "id": "DEM",
+          "name": "PFL",
+          "lineage": "PFL/DEM line",
+          "chamberEquivalent": 106.8,
+          "governorEquivalent": 7,
+          "senateEquivalent": 16
+        },
+        {
+          "id": "MDB",
+          "name": "PMDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 85.9,
+          "governorEquivalent": 5,
+          "senateEquivalent": 26
+        },
+        {
+          "id": "PCDOB",
+          "name": "PCdoB",
+          "lineage": "PCdoB",
+          "chamberEquivalent": 8.8,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0
+        },
+        {
+          "id": "PDT",
+          "name": "PDT",
+          "lineage": "PDT",
+          "chamberEquivalent": 25.7,
+          "governorEquivalent": 1,
+          "senateEquivalent": 4
+        },
+        {
+          "id": "PL",
+          "name": "PL",
+          "lineage": "PL line",
+          "chamberEquivalent": 12.8,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "PP",
+          "name": "PPB",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 57,
+          "governorEquivalent": 2,
+          "senateEquivalent": 8
+        },
+        {
+          "id": "PSB",
+          "name": "PSB",
+          "lineage": "PSB",
+          "chamberEquivalent": 16.1,
+          "governorEquivalent": 2,
+          "senateEquivalent": 2
+        },
+        {
+          "id": "PSDB",
+          "name": "PSDB",
+          "lineage": "PSDB",
+          "chamberEquivalent": 96.3,
+          "governorEquivalent": 7,
+          "senateEquivalent": 13
+        },
+        {
+          "id": "PT",
+          "name": "PT",
+          "lineage": "PT",
+          "chamberEquivalent": 63.4,
+          "governorEquivalent": 3,
+          "senateEquivalent": 7
+        },
+        {
+          "id": "PTB",
+          "name": "PTB",
+          "lineage": "PTB",
+          "chamberEquivalent": 28.1,
+          "governorEquivalent": 0,
+          "senateEquivalent": 3
+        }
+      ]
+    },
+    "2000": {
+      "offices": [
+        "PSDB",
+        "PMDB",
+        "PFL"
+      ],
+      "quality": "T",
+      "rows": [
+        {
+          "id": "DEM",
+          "name": "PFL",
+          "lineage": "PFL/DEM line",
+          "chamberEquivalent": 106.8,
+          "governorEquivalent": 7,
+          "senateEquivalent": 16
+        },
+        {
+          "id": "MDB",
+          "name": "PMDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 85.9,
+          "governorEquivalent": 5,
+          "senateEquivalent": 26
+        },
+        {
+          "id": "PCDOB",
+          "name": "PCdoB",
+          "lineage": "PCdoB",
+          "chamberEquivalent": 8.8,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0
+        },
+        {
+          "id": "PDT",
+          "name": "PDT",
+          "lineage": "PDT",
+          "chamberEquivalent": 25.7,
+          "governorEquivalent": 1,
+          "senateEquivalent": 4
+        },
+        {
+          "id": "PL",
+          "name": "PL",
+          "lineage": "PL line",
+          "chamberEquivalent": 12.8,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "PP",
+          "name": "PPB",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 57,
+          "governorEquivalent": 2,
+          "senateEquivalent": 8
+        },
+        {
+          "id": "PSB",
+          "name": "PSB",
+          "lineage": "PSB",
+          "chamberEquivalent": 16.1,
+          "governorEquivalent": 2,
+          "senateEquivalent": 2
+        },
+        {
+          "id": "PSDB",
+          "name": "PSDB",
+          "lineage": "PSDB",
+          "chamberEquivalent": 96.3,
+          "governorEquivalent": 7,
+          "senateEquivalent": 13
+        },
+        {
+          "id": "PT",
+          "name": "PT",
+          "lineage": "PT",
+          "chamberEquivalent": 63.4,
+          "governorEquivalent": 3,
+          "senateEquivalent": 7
+        },
+        {
+          "id": "PTB",
+          "name": "PTB",
+          "lineage": "PTB",
+          "chamberEquivalent": 28.1,
+          "governorEquivalent": 0,
+          "senateEquivalent": 3
+        }
+      ]
+    },
+    "2001": {
+      "offices": [
+        "PSDB",
+        "PSDB",
+        "PMDB"
+      ],
+      "quality": "T",
+      "rows": [
+        {
+          "id": "DEM",
+          "name": "PFL",
+          "lineage": "PFL/DEM line",
+          "chamberEquivalent": 106.8,
+          "governorEquivalent": 7,
+          "senateEquivalent": 16
+        },
+        {
+          "id": "MDB",
+          "name": "PMDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 85.9,
+          "governorEquivalent": 5,
+          "senateEquivalent": 26
+        },
+        {
+          "id": "PCDOB",
+          "name": "PCdoB",
+          "lineage": "PCdoB",
+          "chamberEquivalent": 8.8,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0
+        },
+        {
+          "id": "PDT",
+          "name": "PDT",
+          "lineage": "PDT",
+          "chamberEquivalent": 25.7,
+          "governorEquivalent": 1,
+          "senateEquivalent": 4
+        },
+        {
+          "id": "PL",
+          "name": "PL",
+          "lineage": "PL line",
+          "chamberEquivalent": 12.8,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "PP",
+          "name": "PPB",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 57,
+          "governorEquivalent": 2,
+          "senateEquivalent": 8
+        },
+        {
+          "id": "PSB",
+          "name": "PSB",
+          "lineage": "PSB",
+          "chamberEquivalent": 16.1,
+          "governorEquivalent": 2,
+          "senateEquivalent": 2
+        },
+        {
+          "id": "PSDB",
+          "name": "PSDB",
+          "lineage": "PSDB",
+          "chamberEquivalent": 96.3,
+          "governorEquivalent": 7,
+          "senateEquivalent": 13
+        },
+        {
+          "id": "PT",
+          "name": "PT",
+          "lineage": "PT",
+          "chamberEquivalent": 63.4,
+          "governorEquivalent": 3,
+          "senateEquivalent": 7
+        },
+        {
+          "id": "PTB",
+          "name": "PTB",
+          "lineage": "PTB",
+          "chamberEquivalent": 28.1,
+          "governorEquivalent": 0,
+          "senateEquivalent": 3
+        }
+      ]
+    },
+    "2002": {
+      "offices": [
+        "PSDB",
+        "PSDB",
+        "PMDB"
+      ],
+      "quality": "T",
+      "rows": [
+        {
+          "id": "DEM",
+          "name": "PFL",
+          "lineage": "PFL/DEM line",
+          "chamberEquivalent": 106.8,
+          "governorEquivalent": 7,
+          "senateEquivalent": 16
+        },
+        {
+          "id": "MDB",
+          "name": "PMDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 85.9,
+          "governorEquivalent": 5,
+          "senateEquivalent": 26
+        },
+        {
+          "id": "PCDOB",
+          "name": "PCdoB",
+          "lineage": "PCdoB",
+          "chamberEquivalent": 8.8,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0
+        },
+        {
+          "id": "PDT",
+          "name": "PDT",
+          "lineage": "PDT",
+          "chamberEquivalent": 25.7,
+          "governorEquivalent": 1,
+          "senateEquivalent": 4
+        },
+        {
+          "id": "PL",
+          "name": "PL",
+          "lineage": "PL line",
+          "chamberEquivalent": 12.8,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "PP",
+          "name": "PPB",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 57,
+          "governorEquivalent": 2,
+          "senateEquivalent": 8
+        },
+        {
+          "id": "PSB",
+          "name": "PSB",
+          "lineage": "PSB",
+          "chamberEquivalent": 16.1,
+          "governorEquivalent": 2,
+          "senateEquivalent": 2
+        },
+        {
+          "id": "PSDB",
+          "name": "PSDB",
+          "lineage": "PSDB",
+          "chamberEquivalent": 96.3,
+          "governorEquivalent": 7,
+          "senateEquivalent": 13
+        },
+        {
+          "id": "PT",
+          "name": "PT",
+          "lineage": "PT",
+          "chamberEquivalent": 63.4,
+          "governorEquivalent": 3,
+          "senateEquivalent": 7
+        },
+        {
+          "id": "PTB",
+          "name": "PTB",
+          "lineage": "PTB",
+          "chamberEquivalent": 28.1,
+          "governorEquivalent": 0,
+          "senateEquivalent": 3
+        }
+      ]
+    },
+    "2003": {
+      "offices": [
+        "PT",
+        "PT",
+        "PMDB"
+      ],
+      "quality": "S",
+      "rows": [
+        {
+          "id": "CIDADANIA",
+          "name": "PPS",
+          "lineage": "PPS/Cidadania line",
+          "chamberEquivalent": 19,
+          "governorEquivalent": 2,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "DEM",
+          "name": "PFL",
+          "lineage": "PFL/DEM line",
+          "chamberEquivalent": 61.9,
+          "governorEquivalent": 4,
+          "senateEquivalent": 19
+        },
+        {
+          "id": "MDB",
+          "name": "PMDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 75.5,
+          "governorEquivalent": 5,
+          "senateEquivalent": 21
+        },
+        {
+          "id": "PCDOB",
+          "name": "PCdoB",
+          "lineage": "PCdoB",
+          "chamberEquivalent": 11.9,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0
+        },
+        {
+          "id": "PDT",
+          "name": "PDT",
+          "lineage": "PDT",
+          "chamberEquivalent": 13.1,
+          "governorEquivalent": 1,
+          "senateEquivalent": 4
+        },
+        {
+          "id": "PL",
+          "name": "PL",
+          "lineage": "PL line",
+          "chamberEquivalent": 38.1,
+          "governorEquivalent": 0,
+          "senateEquivalent": 2
+        },
+        {
+          "id": "PP",
+          "name": "PP",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 45.3,
+          "governorEquivalent": 0,
+          "senateEquivalent": 2
+        },
+        {
+          "id": "PSB",
+          "name": "PSB",
+          "lineage": "PSB",
+          "chamberEquivalent": 19.3,
+          "governorEquivalent": 4,
+          "senateEquivalent": 4
+        },
+        {
+          "id": "PSDB",
+          "name": "PSDB",
+          "lineage": "PSDB",
+          "chamberEquivalent": 51.4,
+          "governorEquivalent": 7,
+          "senateEquivalent": 12
+        },
+        {
+          "id": "PT",
+          "name": "PT",
+          "lineage": "PT",
+          "chamberEquivalent": 105,
+          "governorEquivalent": 3,
+          "senateEquivalent": 13
+        },
+        {
+          "id": "PTB",
+          "name": "PTB",
+          "lineage": "PTB",
+          "chamberEquivalent": 53.3,
+          "governorEquivalent": 0,
+          "senateEquivalent": 2
+        }
+      ]
+    },
+    "2004": {
+      "offices": [
+        "PT",
+        "PT",
+        "PMDB"
+      ],
+      "quality": "S",
+      "rows": [
+        {
+          "id": "CIDADANIA",
+          "name": "PPS",
+          "lineage": "PPS/Cidadania line",
+          "chamberEquivalent": 22.3,
+          "governorEquivalent": 2,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "DEM",
+          "name": "PFL",
+          "lineage": "PFL/DEM line",
+          "chamberEquivalent": 56.9,
+          "governorEquivalent": 4,
+          "senateEquivalent": 19
+        },
+        {
+          "id": "MDB",
+          "name": "PMDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 76.4,
+          "governorEquivalent": 5,
+          "senateEquivalent": 21
+        },
+        {
+          "id": "PCDOB",
+          "name": "PCdoB",
+          "lineage": "PCdoB",
+          "chamberEquivalent": 10.2,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0
+        },
+        {
+          "id": "PDT",
+          "name": "PDT",
+          "lineage": "PDT",
+          "chamberEquivalent": 10.8,
+          "governorEquivalent": 1,
+          "senateEquivalent": 4
+        },
+        {
+          "id": "PL",
+          "name": "PL",
+          "lineage": "PL line",
+          "chamberEquivalent": 44.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 2
+        },
+        {
+          "id": "PP",
+          "name": "PP",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 50.6,
+          "governorEquivalent": 0,
+          "senateEquivalent": 2
+        },
+        {
+          "id": "PSB",
+          "name": "PSB",
+          "lineage": "PSB",
+          "chamberEquivalent": 19.2,
+          "governorEquivalent": 4,
+          "senateEquivalent": 4
+        },
+        {
+          "id": "PSDB",
+          "name": "PSDB",
+          "lineage": "PSDB",
+          "chamberEquivalent": 44.3,
+          "governorEquivalent": 7,
+          "senateEquivalent": 12
+        },
+        {
+          "id": "PT",
+          "name": "PT",
+          "lineage": "PT",
+          "chamberEquivalent": 102.9,
+          "governorEquivalent": 3,
+          "senateEquivalent": 13
+        },
+        {
+          "id": "PTB",
+          "name": "PTB",
+          "lineage": "PTB",
+          "chamberEquivalent": 53.5,
+          "governorEquivalent": 0,
+          "senateEquivalent": 2
+        }
+      ]
+    },
+    "2005": {
+      "offices": [
+        "PT",
+        "PP",
+        "PMDB"
+      ],
+      "quality": "S",
+      "rows": [
+        {
+          "id": "CIDADANIA",
+          "name": "PPS",
+          "lineage": "PPS/Cidadania line",
+          "chamberEquivalent": 16.7,
+          "governorEquivalent": 2,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "DEM",
+          "name": "PFL",
+          "lineage": "PFL/DEM line",
+          "chamberEquivalent": 53.7,
+          "governorEquivalent": 4,
+          "senateEquivalent": 19
+        },
+        {
+          "id": "MDB",
+          "name": "PMDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 81,
+          "governorEquivalent": 5,
+          "senateEquivalent": 21
+        },
+        {
+          "id": "PCDOB",
+          "name": "PCdoB",
+          "lineage": "PCdoB",
+          "chamberEquivalent": 11.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0
+        },
+        {
+          "id": "PDT",
+          "name": "PDT",
+          "lineage": "PDT",
+          "chamberEquivalent": 15.2,
+          "governorEquivalent": 1,
+          "senateEquivalent": 4
+        },
+        {
+          "id": "PL",
+          "name": "PL",
+          "lineage": "PL line",
+          "chamberEquivalent": 44,
+          "governorEquivalent": 0,
+          "senateEquivalent": 2
+        },
+        {
+          "id": "PP",
+          "name": "PP",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 54.5,
+          "governorEquivalent": 0,
+          "senateEquivalent": 2
+        },
+        {
+          "id": "PSB",
+          "name": "PSB",
+          "lineage": "PSB",
+          "chamberEquivalent": 20.6,
+          "governorEquivalent": 4,
+          "senateEquivalent": 4
+        },
+        {
+          "id": "PSDB",
+          "name": "PSDB",
+          "lineage": "PSDB",
+          "chamberEquivalent": 48.1,
+          "governorEquivalent": 7,
+          "senateEquivalent": 12
+        },
+        {
+          "id": "PT",
+          "name": "PT",
+          "lineage": "PT",
+          "chamberEquivalent": 103.9,
+          "governorEquivalent": 3,
+          "senateEquivalent": 13
+        },
+        {
+          "id": "PTB",
+          "name": "PTB",
+          "lineage": "PTB",
+          "chamberEquivalent": 43.5,
+          "governorEquivalent": 0,
+          "senateEquivalent": 2
+        }
+      ]
+    },
+    "2006": {
+      "offices": [
+        "PT",
+        "PCdoB",
+        "PMDB"
+      ],
+      "quality": "S",
+      "rows": [
+        {
+          "id": "CIDADANIA",
+          "name": "PPS",
+          "lineage": "PPS/Cidadania line",
+          "chamberEquivalent": 15.5,
+          "governorEquivalent": 2,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "DEM",
+          "name": "PFL",
+          "lineage": "PFL/DEM line",
+          "chamberEquivalent": 60.4,
+          "governorEquivalent": 4,
+          "senateEquivalent": 19
+        },
+        {
+          "id": "MDB",
+          "name": "PMDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 80.7,
+          "governorEquivalent": 5,
+          "senateEquivalent": 21
+        },
+        {
+          "id": "PCDOB",
+          "name": "PCdoB",
+          "lineage": "PCdoB",
+          "chamberEquivalent": 11.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0
+        },
+        {
+          "id": "PDT",
+          "name": "PDT",
+          "lineage": "PDT",
+          "chamberEquivalent": 20.9,
+          "governorEquivalent": 1,
+          "senateEquivalent": 4
+        },
+        {
+          "id": "PL",
+          "name": "PL",
+          "lineage": "PL line",
+          "chamberEquivalent": 35.1,
+          "governorEquivalent": 0,
+          "senateEquivalent": 2
+        },
+        {
+          "id": "PP",
+          "name": "PP",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 47.5,
+          "governorEquivalent": 0,
+          "senateEquivalent": 2
+        },
+        {
+          "id": "PSB",
+          "name": "PSB",
+          "lineage": "PSB",
+          "chamberEquivalent": 29.7,
+          "governorEquivalent": 4,
+          "senateEquivalent": 4
+        },
+        {
+          "id": "PSDB",
+          "name": "PSDB",
+          "lineage": "PSDB",
+          "chamberEquivalent": 54.1,
+          "governorEquivalent": 7,
+          "senateEquivalent": 12
+        },
+        {
+          "id": "PSOL",
+          "name": "PSOL",
+          "lineage": "PSOL",
+          "chamberEquivalent": 8,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0
+        },
+        {
+          "id": "PT",
+          "name": "PT",
+          "lineage": "PT",
+          "chamberEquivalent": 90.1,
+          "governorEquivalent": 3,
+          "senateEquivalent": 13
+        },
+        {
+          "id": "PTB",
+          "name": "PTB",
+          "lineage": "PTB",
+          "chamberEquivalent": 41.5,
+          "governorEquivalent": 0,
+          "senateEquivalent": 2
+        }
+      ]
+    },
+    "2007": {
+      "offices": [
+        "PT",
+        "PT",
+        "PMDB"
+      ],
+      "quality": "S",
+      "rows": [
+        {
+          "id": "CIDADANIA",
+          "name": "PPS",
+          "lineage": "PPS/Cidadania line",
+          "chamberEquivalent": 14.4,
+          "governorEquivalent": 2,
+          "senateEquivalent": 2
+        },
+        {
+          "id": "DEM",
+          "name": "DEM",
+          "lineage": "PFL/DEM line",
+          "chamberEquivalent": 49.2,
+          "governorEquivalent": 1,
+          "senateEquivalent": 20
+        },
+        {
+          "id": "MDB",
+          "name": "PMDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 93,
+          "governorEquivalent": 7,
+          "senateEquivalent": 13
+        },
+        {
+          "id": "PCDOB",
+          "name": "PCdoB",
+          "lineage": "PCdoB",
+          "chamberEquivalent": 15.2,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "PDT",
+          "name": "PDT",
+          "lineage": "PDT",
+          "chamberEquivalent": 25.7,
+          "governorEquivalent": 2,
+          "senateEquivalent": 5
+        },
+        {
+          "id": "PL",
+          "name": "PL",
+          "lineage": "PL line",
+          "chamberEquivalent": 37,
+          "governorEquivalent": 0,
+          "senateEquivalent": 3
+        },
+        {
+          "id": "PP",
+          "name": "PP",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 41.1,
+          "governorEquivalent": 1,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "PSB",
+          "name": "PSB",
+          "lineage": "PSB",
+          "chamberEquivalent": 29.8,
+          "governorEquivalent": 3,
+          "senateEquivalent": 4
+        },
+        {
+          "id": "PSC",
+          "name": "PSC",
+          "lineage": "PSC",
+          "chamberEquivalent": 8.8,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0
+        },
+        {
+          "id": "PSDB",
+          "name": "PSDB",
+          "lineage": "PSDB",
+          "chamberEquivalent": 53.6,
+          "governorEquivalent": 6,
+          "senateEquivalent": 13
+        },
+        {
+          "id": "PT",
+          "name": "PT",
+          "lineage": "PT",
+          "chamberEquivalent": 88.8,
+          "governorEquivalent": 5,
+          "senateEquivalent": 12
+        },
+        {
+          "id": "PTB",
+          "name": "PTB",
+          "lineage": "PTB",
+          "chamberEquivalent": 22.4,
+          "governorEquivalent": 0,
+          "senateEquivalent": 5
+        },
+        {
+          "id": "PV",
+          "name": "PV",
+          "lineage": "PV",
+          "chamberEquivalent": 14.3,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0
+        }
+      ]
+    },
+    "2008": {
+      "offices": [
+        "PT",
+        "PT",
+        "PMDB"
+      ],
+      "quality": "S",
+      "rows": [
+        {
+          "id": "CIDADANIA",
+          "name": "PPS",
+          "lineage": "PPS/Cidadania line",
+          "chamberEquivalent": 12.8,
+          "governorEquivalent": 2,
+          "senateEquivalent": 2
+        },
+        {
+          "id": "DEM",
+          "name": "DEM",
+          "lineage": "PFL/DEM line",
+          "chamberEquivalent": 44.3,
+          "governorEquivalent": 1,
+          "senateEquivalent": 20
+        },
+        {
+          "id": "MDB",
+          "name": "PMDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 98.6,
+          "governorEquivalent": 7,
+          "senateEquivalent": 13
+        },
+        {
+          "id": "PCDOB",
+          "name": "PCdoB",
+          "lineage": "PCdoB",
+          "chamberEquivalent": 15.5,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "PDT",
+          "name": "PDT",
+          "lineage": "PDT",
+          "chamberEquivalent": 27,
+          "governorEquivalent": 2,
+          "senateEquivalent": 5
+        },
+        {
+          "id": "PL",
+          "name": "PL",
+          "lineage": "PL line",
+          "chamberEquivalent": 39.4,
+          "governorEquivalent": 0,
+          "senateEquivalent": 3
+        },
+        {
+          "id": "PP",
+          "name": "PP",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 42.7,
+          "governorEquivalent": 1,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "PSB",
+          "name": "PSB",
+          "lineage": "PSB",
+          "chamberEquivalent": 29.7,
+          "governorEquivalent": 3,
+          "senateEquivalent": 4
+        },
+        {
+          "id": "PSC",
+          "name": "PSC",
+          "lineage": "PSC",
+          "chamberEquivalent": 12.1,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0
+        },
+        {
+          "id": "PSDB",
+          "name": "PSDB",
+          "lineage": "PSDB",
+          "chamberEquivalent": 48,
+          "governorEquivalent": 6,
+          "senateEquivalent": 13
+        },
+        {
+          "id": "PT",
+          "name": "PT",
+          "lineage": "PT",
+          "chamberEquivalent": 89.8,
+          "governorEquivalent": 5,
+          "senateEquivalent": 12
+        },
+        {
+          "id": "PTB",
+          "name": "PTB",
+          "lineage": "PTB",
+          "chamberEquivalent": 19.9,
+          "governorEquivalent": 0,
+          "senateEquivalent": 5
+        },
+        {
+          "id": "PV",
+          "name": "PV",
+          "lineage": "PV",
+          "chamberEquivalent": 14.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0
+        }
+      ]
+    },
+    "2009": {
+      "offices": [
+        "PT",
+        "PMDB",
+        "PMDB"
+      ],
+      "quality": "S",
+      "rows": [
+        {
+          "id": "CIDADANIA",
+          "name": "PPS",
+          "lineage": "PPS/Cidadania line",
+          "chamberEquivalent": 13.1,
+          "governorEquivalent": 2,
+          "senateEquivalent": 2
+        },
+        {
+          "id": "DEM",
+          "name": "DEM",
+          "lineage": "PFL/DEM line",
+          "chamberEquivalent": 48.8,
+          "governorEquivalent": 1,
+          "senateEquivalent": 20
+        },
+        {
+          "id": "MDB",
+          "name": "PMDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 96.7,
+          "governorEquivalent": 7,
+          "senateEquivalent": 13
+        },
+        {
+          "id": "PCDOB",
+          "name": "PCdoB",
+          "lineage": "PCdoB",
+          "chamberEquivalent": 13.6,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "PDT",
+          "name": "PDT",
+          "lineage": "PDT",
+          "chamberEquivalent": 25.6,
+          "governorEquivalent": 2,
+          "senateEquivalent": 5
+        },
+        {
+          "id": "PL",
+          "name": "PL",
+          "lineage": "PL line",
+          "chamberEquivalent": 39.8,
+          "governorEquivalent": 0,
+          "senateEquivalent": 3
+        },
+        {
+          "id": "PP",
+          "name": "PP",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 39.7,
+          "governorEquivalent": 1,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "PSB",
+          "name": "PSB",
+          "lineage": "PSB",
+          "chamberEquivalent": 29,
+          "governorEquivalent": 3,
+          "senateEquivalent": 4
+        },
+        {
+          "id": "PSC",
+          "name": "PSC",
+          "lineage": "PSC",
+          "chamberEquivalent": 13.5,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0
+        },
+        {
+          "id": "PSDB",
+          "name": "PSDB",
+          "lineage": "PSDB",
+          "chamberEquivalent": 52.9,
+          "governorEquivalent": 6,
+          "senateEquivalent": 13
+        },
+        {
+          "id": "PT",
+          "name": "PT",
+          "lineage": "PT",
+          "chamberEquivalent": 86,
+          "governorEquivalent": 5,
+          "senateEquivalent": 12
+        },
+        {
+          "id": "PTB",
+          "name": "PTB",
+          "lineage": "PTB",
+          "chamberEquivalent": 22.8,
+          "governorEquivalent": 0,
+          "senateEquivalent": 5
+        },
+        {
+          "id": "PV",
+          "name": "PV",
+          "lineage": "PV",
+          "chamberEquivalent": 14,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0
+        }
+      ]
+    },
+    "2010": {
+      "offices": [
+        "PT",
+        "PMDB",
+        "PMDB"
+      ],
+      "quality": "S",
+      "rows": [
+        {
+          "id": "CIDADANIA",
+          "name": "PPS",
+          "lineage": "PPS/Cidadania line",
+          "chamberEquivalent": 14.2,
+          "governorEquivalent": 2,
+          "senateEquivalent": 2
+        },
+        {
+          "id": "DEM",
+          "name": "DEM",
+          "lineage": "PFL/DEM line",
+          "chamberEquivalent": 50.8,
+          "governorEquivalent": 1,
+          "senateEquivalent": 20
+        },
+        {
+          "id": "MDB",
+          "name": "PMDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 87.6,
+          "governorEquivalent": 7,
+          "senateEquivalent": 13
+        },
+        {
+          "id": "PCDOB",
+          "name": "PCdoB",
+          "lineage": "PCdoB",
+          "chamberEquivalent": 13.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "PDT",
+          "name": "PDT",
+          "lineage": "PDT",
+          "chamberEquivalent": 25,
+          "governorEquivalent": 2,
+          "senateEquivalent": 5
+        },
+        {
+          "id": "PL",
+          "name": "PL",
+          "lineage": "PL line",
+          "chamberEquivalent": 37.9,
+          "governorEquivalent": 0,
+          "senateEquivalent": 3
+        },
+        {
+          "id": "PP",
+          "name": "PP",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 40.3,
+          "governorEquivalent": 1,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "PSB",
+          "name": "PSB",
+          "lineage": "PSB",
+          "chamberEquivalent": 28,
+          "governorEquivalent": 3,
+          "senateEquivalent": 4
+        },
+        {
+          "id": "PSC",
+          "name": "PSC",
+          "lineage": "PSC",
+          "chamberEquivalent": 16.8,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0
+        },
+        {
+          "id": "PSDB",
+          "name": "PSDB",
+          "lineage": "PSDB",
+          "chamberEquivalent": 55.6,
+          "governorEquivalent": 6,
+          "senateEquivalent": 13
+        },
+        {
+          "id": "PT",
+          "name": "PT",
+          "lineage": "PT",
+          "chamberEquivalent": 84.9,
+          "governorEquivalent": 5,
+          "senateEquivalent": 12
+        },
+        {
+          "id": "PTB",
+          "name": "PTB",
+          "lineage": "PTB",
+          "chamberEquivalent": 21.9,
+          "governorEquivalent": 0,
+          "senateEquivalent": 5
+        },
+        {
+          "id": "PV",
+          "name": "PV",
+          "lineage": "PV",
+          "chamberEquivalent": 14.2,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0
+        }
+      ]
+    },
+    "2011": {
+      "offices": [
+        "PT",
+        "PT",
+        "PMDB"
+      ],
+      "quality": "S",
+      "rows": [
+        {
+          "id": "CIDADANIA",
+          "name": "PPS",
+          "lineage": "PPS/Cidadania line",
+          "chamberEquivalent": 10.5,
+          "governorEquivalent": 0,
+          "senateEquivalent": 2
+        },
+        {
+          "id": "DEM",
+          "name": "DEM",
+          "lineage": "PFL/DEM line",
+          "chamberEquivalent": 32.2,
+          "governorEquivalent": 2,
+          "senateEquivalent": 8
+        },
+        {
+          "id": "MDB",
+          "name": "PMDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 80.2,
+          "governorEquivalent": 5,
+          "senateEquivalent": 18
+        },
+        {
+          "id": "PCDOB",
+          "name": "PCdoB",
+          "lineage": "PCdoB",
+          "chamberEquivalent": 15,
+          "governorEquivalent": 0,
+          "senateEquivalent": 2
+        },
+        {
+          "id": "PDT",
+          "name": "PDT",
+          "lineage": "PDT",
+          "chamberEquivalent": 28.6,
+          "governorEquivalent": 0,
+          "senateEquivalent": 3
+        },
+        {
+          "id": "PL",
+          "name": "PL",
+          "lineage": "PL line",
+          "chamberEquivalent": 37.8,
+          "governorEquivalent": 0,
+          "senateEquivalent": 5
+        },
+        {
+          "id": "PMN",
+          "name": "PMN",
+          "lineage": "PMN",
+          "chamberEquivalent": 3.5,
+          "governorEquivalent": 1,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "PP",
+          "name": "PP",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 38.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 5
+        },
+        {
+          "id": "PSB",
+          "name": "PSB",
+          "lineage": "PSB",
+          "chamberEquivalent": 32.6,
+          "governorEquivalent": 6,
+          "senateEquivalent": 5
+        },
+        {
+          "id": "PSC",
+          "name": "PSC",
+          "lineage": "PSC",
+          "chamberEquivalent": 17.3,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "PSD",
+          "name": "PSD",
+          "lineage": "PSD",
+          "chamberEquivalent": 17.8,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0
+        },
+        {
+          "id": "PSDB",
+          "name": "PSDB",
+          "lineage": "PSDB",
+          "chamberEquivalent": 43.9,
+          "governorEquivalent": 8,
+          "senateEquivalent": 11
+        },
+        {
+          "id": "PT",
+          "name": "PT",
+          "lineage": "PT",
+          "chamberEquivalent": 95,
+          "governorEquivalent": 5,
+          "senateEquivalent": 13
+        },
+        {
+          "id": "PTB",
+          "name": "PTB",
+          "lineage": "PTB",
+          "chamberEquivalent": 21.4,
+          "governorEquivalent": 0,
+          "senateEquivalent": 4
+        },
+        {
+          "id": "PV",
+          "name": "PV",
+          "lineage": "PV",
+          "chamberEquivalent": 13,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0
+        },
+        {
+          "id": "REPUBLICANOS",
+          "name": "PRB",
+          "lineage": "PRB/Republicanos line",
+          "chamberEquivalent": 11.9,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1
+        }
+      ]
+    },
+    "2012": {
+      "offices": [
+        "PT",
+        "PT",
+        "PMDB"
+      ],
+      "quality": "S",
+      "rows": [
+        {
+          "id": "CIDADANIA",
+          "name": "PPS",
+          "lineage": "PPS/Cidadania line",
+          "chamberEquivalent": 10.3,
+          "governorEquivalent": 0,
+          "senateEquivalent": 2
+        },
+        {
+          "id": "DEM",
+          "name": "DEM",
+          "lineage": "PFL/DEM line",
+          "chamberEquivalent": 27.9,
+          "governorEquivalent": 2,
+          "senateEquivalent": 8
+        },
+        {
+          "id": "MDB",
+          "name": "PMDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 75.7,
+          "governorEquivalent": 5,
+          "senateEquivalent": 18
+        },
+        {
+          "id": "PCDOB",
+          "name": "PCdoB",
+          "lineage": "PCdoB",
+          "chamberEquivalent": 13.1,
+          "governorEquivalent": 0,
+          "senateEquivalent": 2
+        },
+        {
+          "id": "PDT",
+          "name": "PDT",
+          "lineage": "PDT",
+          "chamberEquivalent": 28.5,
+          "governorEquivalent": 0,
+          "senateEquivalent": 3
+        },
+        {
+          "id": "PL",
+          "name": "PL",
+          "lineage": "PL line",
+          "chamberEquivalent": 32.6,
+          "governorEquivalent": 0,
+          "senateEquivalent": 5
+        },
+        {
+          "id": "PMN",
+          "name": "PMN",
+          "lineage": "PMN",
+          "chamberEquivalent": 1.6,
+          "governorEquivalent": 1,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "PP",
+          "name": "PP",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 37.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 5
+        },
+        {
+          "id": "PSB",
+          "name": "PSB",
+          "lineage": "PSB",
+          "chamberEquivalent": 30,
+          "governorEquivalent": 6,
+          "senateEquivalent": 5
+        },
+        {
+          "id": "PSC",
+          "name": "PSC",
+          "lineage": "PSC",
+          "chamberEquivalent": 15.9,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "PSD",
+          "name": "PSD",
+          "lineage": "PSD",
+          "chamberEquivalent": 48.9,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0
+        },
+        {
+          "id": "PSDB",
+          "name": "PSDB",
+          "lineage": "PSDB",
+          "chamberEquivalent": 48.4,
+          "governorEquivalent": 8,
+          "senateEquivalent": 11
+        },
+        {
+          "id": "PT",
+          "name": "PT",
+          "lineage": "PT",
+          "chamberEquivalent": 92.2,
+          "governorEquivalent": 5,
+          "senateEquivalent": 13
+        },
+        {
+          "id": "PTB",
+          "name": "PTB",
+          "lineage": "PTB",
+          "chamberEquivalent": 18.8,
+          "governorEquivalent": 0,
+          "senateEquivalent": 4
+        },
+        {
+          "id": "PV",
+          "name": "PV",
+          "lineage": "PV",
+          "chamberEquivalent": 10.1,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0
+        },
+        {
+          "id": "REPUBLICANOS",
+          "name": "PRB",
+          "lineage": "PRB/Republicanos line",
+          "chamberEquivalent": 11,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1
+        }
+      ]
+    },
+    "2013": {
+      "offices": [
+        "PT",
+        "PMDB",
+        "PMDB"
+      ],
+      "quality": "S",
+      "rows": [
+        {
+          "id": "CIDADANIA",
+          "name": "PPS",
+          "lineage": "PPS/Cidadania line",
+          "chamberEquivalent": 10.3,
+          "governorEquivalent": 0,
+          "senateEquivalent": 2
+        },
+        {
+          "id": "DEM",
+          "name": "DEM",
+          "lineage": "PFL/DEM line",
+          "chamberEquivalent": 24.8,
+          "governorEquivalent": 2,
+          "senateEquivalent": 8
+        },
+        {
+          "id": "MDB",
+          "name": "PMDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 77.8,
+          "governorEquivalent": 5,
+          "senateEquivalent": 18
+        },
+        {
+          "id": "PCDOB",
+          "name": "PCdoB",
+          "lineage": "PCdoB",
+          "chamberEquivalent": 14.5,
+          "governorEquivalent": 0,
+          "senateEquivalent": 2
+        },
+        {
+          "id": "PDT",
+          "name": "PDT",
+          "lineage": "PDT",
+          "chamberEquivalent": 27.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 3
+        },
+        {
+          "id": "PL",
+          "name": "PL",
+          "lineage": "PL line",
+          "chamberEquivalent": 32.3,
+          "governorEquivalent": 0,
+          "senateEquivalent": 5
+        },
+        {
+          "id": "PMN",
+          "name": "PMN",
+          "lineage": "PMN",
+          "chamberEquivalent": 3,
+          "governorEquivalent": 1,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "PP",
+          "name": "PP",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 36.2,
+          "governorEquivalent": 0,
+          "senateEquivalent": 5
+        },
+        {
+          "id": "PSB",
+          "name": "PSB",
+          "lineage": "PSB",
+          "chamberEquivalent": 27.8,
+          "governorEquivalent": 6,
+          "senateEquivalent": 5
+        },
+        {
+          "id": "PSC",
+          "name": "PSC",
+          "lineage": "PSC",
+          "chamberEquivalent": 16.3,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "PSD",
+          "name": "PSD",
+          "lineage": "PSD",
+          "chamberEquivalent": 43.6,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0
+        },
+        {
+          "id": "PSDB",
+          "name": "PSDB",
+          "lineage": "PSDB",
+          "chamberEquivalent": 45.1,
+          "governorEquivalent": 8,
+          "senateEquivalent": 11
+        },
+        {
+          "id": "PT",
+          "name": "PT",
+          "lineage": "PT",
+          "chamberEquivalent": 95.8,
+          "governorEquivalent": 5,
+          "senateEquivalent": 13
+        },
+        {
+          "id": "PTB",
+          "name": "PTB",
+          "lineage": "PTB",
+          "chamberEquivalent": 16.8,
+          "governorEquivalent": 0,
+          "senateEquivalent": 4
+        },
+        {
+          "id": "PV",
+          "name": "PV",
+          "lineage": "PV",
+          "chamberEquivalent": 9.8,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0
+        },
+        {
+          "id": "REPUBLICANOS",
+          "name": "PRB",
+          "lineage": "PRB/Republicanos line",
+          "chamberEquivalent": 9.1,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1
+        }
+      ]
+    },
+    "2014": {
+      "offices": [
+        "PT",
+        "PMDB",
+        "PMDB"
+      ],
+      "quality": "S",
+      "rows": [
+        {
+          "id": "CIDADANIA",
+          "name": "PPS",
+          "lineage": "PPS/Cidadania line",
+          "chamberEquivalent": 7.4,
+          "governorEquivalent": 0,
+          "senateEquivalent": 2
+        },
+        {
+          "id": "DEM",
+          "name": "DEM",
+          "lineage": "PFL/DEM line",
+          "chamberEquivalent": 29.7,
+          "governorEquivalent": 2,
+          "senateEquivalent": 8
+        },
+        {
+          "id": "MDB",
+          "name": "PMDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 72.2,
+          "governorEquivalent": 5,
+          "senateEquivalent": 18
+        },
+        {
+          "id": "PCDOB",
+          "name": "PCdoB",
+          "lineage": "PCdoB",
+          "chamberEquivalent": 16.6,
+          "governorEquivalent": 0,
+          "senateEquivalent": 2
+        },
+        {
+          "id": "PDT",
+          "name": "PDT",
+          "lineage": "PDT",
+          "chamberEquivalent": 20,
+          "governorEquivalent": 0,
+          "senateEquivalent": 3
+        },
+        {
+          "id": "PL",
+          "name": "PL",
+          "lineage": "PL line",
+          "chamberEquivalent": 30.1,
+          "governorEquivalent": 0,
+          "senateEquivalent": 5
+        },
+        {
+          "id": "PMN",
+          "name": "PMN",
+          "lineage": "PMN",
+          "chamberEquivalent": 2.9,
+          "governorEquivalent": 1,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "PP",
+          "name": "PP",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 34.5,
+          "governorEquivalent": 0,
+          "senateEquivalent": 5
+        },
+        {
+          "id": "PROS",
+          "name": "PROS",
+          "lineage": "PROS",
+          "chamberEquivalent": 20.2,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0
+        },
+        {
+          "id": "PSB",
+          "name": "PSB",
+          "lineage": "PSB",
+          "chamberEquivalent": 25.9,
+          "governorEquivalent": 6,
+          "senateEquivalent": 5
+        },
+        {
+          "id": "PSC",
+          "name": "PSC",
+          "lineage": "PSC",
+          "chamberEquivalent": 12.5,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "PSD",
+          "name": "PSD",
+          "lineage": "PSD",
+          "chamberEquivalent": 42,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0
+        },
+        {
+          "id": "PSDB",
+          "name": "PSDB",
+          "lineage": "PSDB",
+          "chamberEquivalent": 45.8,
+          "governorEquivalent": 8,
+          "senateEquivalent": 11
+        },
+        {
+          "id": "PT",
+          "name": "PT",
+          "lineage": "PT",
+          "chamberEquivalent": 90.4,
+          "governorEquivalent": 5,
+          "senateEquivalent": 13
+        },
+        {
+          "id": "PTB",
+          "name": "PTB",
+          "lineage": "PTB",
+          "chamberEquivalent": 16.2,
+          "governorEquivalent": 0,
+          "senateEquivalent": 4
+        },
+        {
+          "id": "REPUBLICANOS",
+          "name": "PRB",
+          "lineage": "PRB/Republicanos line",
+          "chamberEquivalent": 7.5,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "SOLIDARIEDADE",
+          "name": "SOLIDARIEDADE",
+          "lineage": "SOLIDARIEDADE",
+          "chamberEquivalent": 13.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0
+        }
+      ]
+    },
+    "2015": {
+      "offices": [
+        "PT",
+        "PMDB",
+        "PMDB"
+      ],
+      "quality": "S",
+      "rows": [
+        {
+          "id": "CIDADANIA",
+          "name": "PPS",
+          "lineage": "PPS/Cidadania line",
+          "chamberEquivalent": 11.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "DEM",
+          "name": "DEM",
+          "lineage": "PFL/DEM line",
+          "chamberEquivalent": 20.9,
+          "governorEquivalent": 0,
+          "senateEquivalent": 5
+        },
+        {
+          "id": "MDB",
+          "name": "PMDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 65.7,
+          "governorEquivalent": 6,
+          "senateEquivalent": 19
+        },
+        {
+          "id": "PCDOB",
+          "name": "PCdoB",
+          "lineage": "PCdoB",
+          "chamberEquivalent": 13.9,
+          "governorEquivalent": 1,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "PDT",
+          "name": "PDT",
+          "lineage": "PDT",
+          "chamberEquivalent": 19.6,
+          "governorEquivalent": 3,
+          "senateEquivalent": 6
+        },
+        {
+          "id": "PL",
+          "name": "PL",
+          "lineage": "PL line",
+          "chamberEquivalent": 31.9,
+          "governorEquivalent": 0,
+          "senateEquivalent": 5
+        },
+        {
+          "id": "PODE",
+          "name": "PTN",
+          "lineage": "PTN/Podemos line",
+          "chamberEquivalent": 9.6,
+          "governorEquivalent": 1,
+          "senateEquivalent": 0
+        },
+        {
+          "id": "PP",
+          "name": "PP",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 38.5,
+          "governorEquivalent": 1,
+          "senateEquivalent": 5
+        },
+        {
+          "id": "PROS",
+          "name": "PROS",
+          "lineage": "PROS",
+          "chamberEquivalent": 12.1,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0
+        },
+        {
+          "id": "PSB",
+          "name": "PSB",
+          "lineage": "PSB",
+          "chamberEquivalent": 33.5,
+          "governorEquivalent": 3,
+          "senateEquivalent": 7
+        },
+        {
+          "id": "PSC",
+          "name": "PSC",
+          "lineage": "PSC",
+          "chamberEquivalent": 11.5,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "PSD",
+          "name": "PSD",
+          "lineage": "PSD",
+          "chamberEquivalent": 33.2,
+          "governorEquivalent": 2,
+          "senateEquivalent": 2
+        },
+        {
+          "id": "PSDB",
+          "name": "PSDB",
+          "lineage": "PSDB",
+          "chamberEquivalent": 54.4,
+          "governorEquivalent": 5,
+          "senateEquivalent": 10
+        },
+        {
+          "id": "PT",
+          "name": "PT",
+          "lineage": "PT",
+          "chamberEquivalent": 66.4,
+          "governorEquivalent": 5,
+          "senateEquivalent": 13
+        },
+        {
+          "id": "PTB",
+          "name": "PTB",
+          "lineage": "PTB",
+          "chamberEquivalent": 24.1,
+          "governorEquivalent": 0,
+          "senateEquivalent": 3
+        },
+        {
+          "id": "REPUBLICANOS",
+          "name": "PRB",
+          "lineage": "PRB/Republicanos line",
+          "chamberEquivalent": 19.8,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "SOLIDARIEDADE",
+          "name": "SOLIDARIEDADE",
+          "lineage": "SOLIDARIEDADE",
+          "chamberEquivalent": 15.3,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0
+        }
+      ]
+    },
+    "2016": {
+      "offices": [
+        "PMDB",
+        "PMDB",
+        "PMDB"
+      ],
+      "quality": "S",
+      "rows": [
+        {
+          "id": "CIDADANIA",
+          "name": "PPS",
+          "lineage": "PPS/Cidadania line",
+          "chamberEquivalent": 8.5,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "DEM",
+          "name": "DEM",
+          "lineage": "PFL/DEM line",
+          "chamberEquivalent": 24.1,
+          "governorEquivalent": 0,
+          "senateEquivalent": 5
+        },
+        {
+          "id": "MDB",
+          "name": "PMDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 65.7,
+          "governorEquivalent": 6,
+          "senateEquivalent": 19
+        },
+        {
+          "id": "PCDOB",
+          "name": "PCdoB",
+          "lineage": "PCdoB",
+          "chamberEquivalent": 11.8,
+          "governorEquivalent": 1,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "PDT",
+          "name": "PDT",
+          "lineage": "PDT",
+          "chamberEquivalent": 19,
+          "governorEquivalent": 3,
+          "senateEquivalent": 6
+        },
+        {
+          "id": "PL",
+          "name": "PL",
+          "lineage": "PL line",
+          "chamberEquivalent": 40.1,
+          "governorEquivalent": 0,
+          "senateEquivalent": 5
+        },
+        {
+          "id": "PODE",
+          "name": "PTN",
+          "lineage": "PTN/Podemos line",
+          "chamberEquivalent": 19.6,
+          "governorEquivalent": 1,
+          "senateEquivalent": 0
+        },
+        {
+          "id": "PP",
+          "name": "PP",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 44.6,
+          "governorEquivalent": 1,
+          "senateEquivalent": 5
+        },
+        {
+          "id": "PSB",
+          "name": "PSB",
+          "lineage": "PSB",
+          "chamberEquivalent": 34.5,
+          "governorEquivalent": 3,
+          "senateEquivalent": 7
+        },
+        {
+          "id": "PSC",
+          "name": "PSC",
+          "lineage": "PSC",
+          "chamberEquivalent": 8.8,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "PSD",
+          "name": "PSD",
+          "lineage": "PSD",
+          "chamberEquivalent": 33.2,
+          "governorEquivalent": 2,
+          "senateEquivalent": 2
+        },
+        {
+          "id": "PSDB",
+          "name": "PSDB",
+          "lineage": "PSDB",
+          "chamberEquivalent": 51.4,
+          "governorEquivalent": 5,
+          "senateEquivalent": 10
+        },
+        {
+          "id": "PSOL",
+          "name": "PSOL",
+          "lineage": "PSOL",
+          "chamberEquivalent": 7.4,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "PT",
+          "name": "PT",
+          "lineage": "PT",
+          "chamberEquivalent": 63.3,
+          "governorEquivalent": 5,
+          "senateEquivalent": 13
+        },
+        {
+          "id": "PTB",
+          "name": "PTB",
+          "lineage": "PTB",
+          "chamberEquivalent": 17.3,
+          "governorEquivalent": 0,
+          "senateEquivalent": 3
+        },
+        {
+          "id": "REPUBLICANOS",
+          "name": "PRB",
+          "lineage": "PRB/Republicanos line",
+          "chamberEquivalent": 20.4,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "SOLIDARIEDADE",
+          "name": "SOLIDARIEDADE",
+          "lineage": "SOLIDARIEDADE",
+          "chamberEquivalent": 13.8,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0
+        }
+      ]
+    },
+    "2017": {
+      "offices": [
+        "PMDB",
+        "DEM",
+        "PMDB"
+      ],
+      "quality": "S",
+      "rows": [
+        {
+          "id": "CIDADANIA",
+          "name": "PPS",
+          "lineage": "PPS/Cidadania line",
+          "chamberEquivalent": 9.6,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "DEM",
+          "name": "DEM",
+          "lineage": "PFL/DEM line",
+          "chamberEquivalent": 27.1,
+          "governorEquivalent": 0,
+          "senateEquivalent": 5
+        },
+        {
+          "id": "MDB",
+          "name": "PMDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 61.2,
+          "governorEquivalent": 6,
+          "senateEquivalent": 19
+        },
+        {
+          "id": "PCDOB",
+          "name": "PCdoB",
+          "lineage": "PCdoB",
+          "chamberEquivalent": 12.2,
+          "governorEquivalent": 1,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "PDT",
+          "name": "PDT",
+          "lineage": "PDT",
+          "chamberEquivalent": 20,
+          "governorEquivalent": 3,
+          "senateEquivalent": 6
+        },
+        {
+          "id": "PL",
+          "name": "PL",
+          "lineage": "PL line",
+          "chamberEquivalent": 38.6,
+          "governorEquivalent": 0,
+          "senateEquivalent": 5
+        },
+        {
+          "id": "PODE",
+          "name": "PODE",
+          "lineage": "PTN/Podemos line",
+          "chamberEquivalent": 21.3,
+          "governorEquivalent": 1,
+          "senateEquivalent": 0
+        },
+        {
+          "id": "PP",
+          "name": "PP",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 45.6,
+          "governorEquivalent": 1,
+          "senateEquivalent": 5
+        },
+        {
+          "id": "PSB",
+          "name": "PSB",
+          "lineage": "PSB",
+          "chamberEquivalent": 34.9,
+          "governorEquivalent": 3,
+          "senateEquivalent": 7
+        },
+        {
+          "id": "PSC",
+          "name": "PSC",
+          "lineage": "PSC",
+          "chamberEquivalent": 10.9,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "PSD",
+          "name": "PSD",
+          "lineage": "PSD",
+          "chamberEquivalent": 37.3,
+          "governorEquivalent": 2,
+          "senateEquivalent": 2
+        },
+        {
+          "id": "PSDB",
+          "name": "PSDB",
+          "lineage": "PSDB",
+          "chamberEquivalent": 47.5,
+          "governorEquivalent": 5,
+          "senateEquivalent": 10
+        },
+        {
+          "id": "PSOL",
+          "name": "PSOL",
+          "lineage": "PSOL",
+          "chamberEquivalent": 7.6,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "PT",
+          "name": "PT",
+          "lineage": "PT",
+          "chamberEquivalent": 60.4,
+          "governorEquivalent": 5,
+          "senateEquivalent": 13
+        },
+        {
+          "id": "PTB",
+          "name": "PTB",
+          "lineage": "PTB",
+          "chamberEquivalent": 16.4,
+          "governorEquivalent": 0,
+          "senateEquivalent": 3
+        },
+        {
+          "id": "REPUBLICANOS",
+          "name": "PRB",
+          "lineage": "PRB/Republicanos line",
+          "chamberEquivalent": 21.3,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "SOLIDARIEDADE",
+          "name": "SOLIDARIEDADE",
+          "lineage": "SOLIDARIEDADE",
+          "chamberEquivalent": 13.9,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0
+        }
+      ]
+    },
+    "2018": {
+      "offices": [
+        "MDB",
+        "DEM",
+        "MDB"
+      ],
+      "quality": "S",
+      "rows": [
+        {
+          "id": "CIDADANIA",
+          "name": "PPS",
+          "lineage": "PPS/Cidadania line",
+          "chamberEquivalent": 9.3,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "DEM",
+          "name": "DEM",
+          "lineage": "PFL/DEM line",
+          "chamberEquivalent": 39.9,
+          "governorEquivalent": 0,
+          "senateEquivalent": 5
+        },
+        {
+          "id": "MDB",
+          "name": "MDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 54,
+          "governorEquivalent": 6,
+          "senateEquivalent": 19
+        },
+        {
+          "id": "PCDOB",
+          "name": "PCdoB",
+          "lineage": "PCdoB",
+          "chamberEquivalent": 10.4,
+          "governorEquivalent": 1,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "PDT",
+          "name": "PDT",
+          "lineage": "PDT",
+          "chamberEquivalent": 18.6,
+          "governorEquivalent": 3,
+          "senateEquivalent": 6
+        },
+        {
+          "id": "PL",
+          "name": "PL",
+          "lineage": "PL line",
+          "chamberEquivalent": 39.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 5
+        },
+        {
+          "id": "PODE",
+          "name": "PODE",
+          "lineage": "PTN/Podemos line",
+          "chamberEquivalent": 21.3,
+          "governorEquivalent": 1,
+          "senateEquivalent": 0
+        },
+        {
+          "id": "PP",
+          "name": "PP",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 48.1,
+          "governorEquivalent": 1,
+          "senateEquivalent": 5
+        },
+        {
+          "id": "PROS",
+          "name": "PROS",
+          "lineage": "PROS",
+          "chamberEquivalent": 11.8,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0
+        },
+        {
+          "id": "PSB",
+          "name": "PSB",
+          "lineage": "PSB",
+          "chamberEquivalent": 24.9,
+          "governorEquivalent": 3,
+          "senateEquivalent": 7
+        },
+        {
+          "id": "PSC",
+          "name": "PSC",
+          "lineage": "PSC",
+          "chamberEquivalent": 9.2,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "PSD",
+          "name": "PSD",
+          "lineage": "PSD",
+          "chamberEquivalent": 38.3,
+          "governorEquivalent": 2,
+          "senateEquivalent": 2
+        },
+        {
+          "id": "PSDB",
+          "name": "PSDB",
+          "lineage": "PSDB",
+          "chamberEquivalent": 50.3,
+          "governorEquivalent": 5,
+          "senateEquivalent": 10
+        },
+        {
+          "id": "PSL",
+          "name": "PSL",
+          "lineage": "PSL",
+          "chamberEquivalent": 8.2,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0
+        },
+        {
+          "id": "PSOL",
+          "name": "PSOL",
+          "lineage": "PSOL",
+          "chamberEquivalent": 7.8,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "PT",
+          "name": "PT",
+          "lineage": "PT",
+          "chamberEquivalent": 58.8,
+          "governorEquivalent": 5,
+          "senateEquivalent": 13
+        },
+        {
+          "id": "PTB",
+          "name": "PTB",
+          "lineage": "PTB",
+          "chamberEquivalent": 14.8,
+          "governorEquivalent": 0,
+          "senateEquivalent": 3
+        },
+        {
+          "id": "REPUBLICANOS",
+          "name": "PRB",
+          "lineage": "PRB/Republicanos line",
+          "chamberEquivalent": 20.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "SOLIDARIEDADE",
+          "name": "SOLIDARIEDADE",
+          "lineage": "SOLIDARIEDADE",
+          "chamberEquivalent": 10.8,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0
+        }
+      ]
+    },
+    "2019": {
+      "offices": [
+        "PSL",
+        "DEM",
+        "DEM"
+      ],
+      "quality": "S",
+      "rows": [
+        {
+          "id": "CIDADANIA",
+          "name": "CIDADANIA",
+          "lineage": "PPS/Cidadania line",
+          "chamberEquivalent": 9.1,
+          "governorEquivalent": 0,
+          "senateEquivalent": 2
+        },
+        {
+          "id": "DEM",
+          "name": "DEM",
+          "lineage": "PFL/DEM line",
+          "chamberEquivalent": 25.5,
+          "governorEquivalent": 2,
+          "senateEquivalent": 7
+        },
+        {
+          "id": "MDB",
+          "name": "MDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 32.9,
+          "governorEquivalent": 3,
+          "senateEquivalent": 12
+        },
+        {
+          "id": "NOVO",
+          "name": "NOVO",
+          "lineage": "NOVO",
+          "chamberEquivalent": 10.1,
+          "governorEquivalent": 1,
+          "senateEquivalent": 0
+        },
+        {
+          "id": "PCDOB",
+          "name": "PCdoB",
+          "lineage": "PCdoB",
+          "chamberEquivalent": 8.2,
+          "governorEquivalent": 1,
+          "senateEquivalent": 0
+        },
+        {
+          "id": "PDT",
+          "name": "PDT",
+          "lineage": "PDT",
+          "chamberEquivalent": 27.1,
+          "governorEquivalent": 1,
+          "senateEquivalent": 6
+        },
+        {
+          "id": "PL",
+          "name": "PL",
+          "lineage": "PL line",
+          "chamberEquivalent": 38,
+          "governorEquivalent": 0,
+          "senateEquivalent": 2
+        },
+        {
+          "id": "PODE",
+          "name": "PODE",
+          "lineage": "PTN/Podemos line",
+          "chamberEquivalent": 10.7,
+          "governorEquivalent": 1,
+          "senateEquivalent": 3
+        },
+        {
+          "id": "PP",
+          "name": "PP",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 35.9,
+          "governorEquivalent": 1,
+          "senateEquivalent": 6
+        },
+        {
+          "id": "PROS",
+          "name": "PROS",
+          "lineage": "PROS",
+          "chamberEquivalent": 10,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "PSB",
+          "name": "PSB",
+          "lineage": "PSB",
+          "chamberEquivalent": 33.6,
+          "governorEquivalent": 3,
+          "senateEquivalent": 5
+        },
+        {
+          "id": "PSC",
+          "name": "PSC",
+          "lineage": "PSC",
+          "chamberEquivalent": 8.4,
+          "governorEquivalent": 2,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "PSD",
+          "name": "PSD",
+          "lineage": "PSD",
+          "chamberEquivalent": 36.7,
+          "governorEquivalent": 2,
+          "senateEquivalent": 7
+        },
+        {
+          "id": "PSDB",
+          "name": "PSDB",
+          "lineage": "PSDB",
+          "chamberEquivalent": 30.9,
+          "governorEquivalent": 3,
+          "senateEquivalent": 8
+        },
+        {
+          "id": "PSL",
+          "name": "PSL",
+          "lineage": "PSL",
+          "chamberEquivalent": 58.2,
+          "governorEquivalent": 3,
+          "senateEquivalent": 3
+        },
+        {
+          "id": "PSOL",
+          "name": "PSOL",
+          "lineage": "PSOL",
+          "chamberEquivalent": 10.2,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0
+        },
+        {
+          "id": "PT",
+          "name": "PT",
+          "lineage": "PT",
+          "chamberEquivalent": 49.7,
+          "governorEquivalent": 4,
+          "senateEquivalent": 6
+        },
+        {
+          "id": "PTB",
+          "name": "PTB",
+          "lineage": "PTB",
+          "chamberEquivalent": 12.4,
+          "governorEquivalent": 0,
+          "senateEquivalent": 4
+        },
+        {
+          "id": "REDE",
+          "name": "REDE",
+          "lineage": "REDE",
+          "chamberEquivalent": 1,
+          "governorEquivalent": 0,
+          "senateEquivalent": 5
+        },
+        {
+          "id": "REPUBLICANOS",
+          "name": "REPUBLICANOS",
+          "lineage": "PRB/Republicanos line",
+          "chamberEquivalent": 31.5,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "SOLIDARIEDADE",
+          "name": "SOLIDARIEDADE",
+          "lineage": "SOLIDARIEDADE",
+          "chamberEquivalent": 13.5,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1
+        }
+      ]
+    },
+    "2020": {
+      "offices": [
+        null,
+        "DEM",
+        "DEM"
+      ],
+      "quality": "S",
+      "rows": [
+        {
+          "id": "CIDADANIA",
+          "name": "CIDADANIA",
+          "lineage": "PPS/Cidadania line",
+          "chamberEquivalent": 8.8,
+          "governorEquivalent": 0,
+          "senateEquivalent": 2
+        },
+        {
+          "id": "DEM",
+          "name": "DEM",
+          "lineage": "PFL/DEM line",
+          "chamberEquivalent": 26.7,
+          "governorEquivalent": 2,
+          "senateEquivalent": 7
+        },
+        {
+          "id": "MDB",
+          "name": "MDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 33,
+          "governorEquivalent": 3,
+          "senateEquivalent": 12
+        },
+        {
+          "id": "NOVO",
+          "name": "NOVO",
+          "lineage": "NOVO",
+          "chamberEquivalent": 9.8,
+          "governorEquivalent": 1,
+          "senateEquivalent": 0
+        },
+        {
+          "id": "PCDOB",
+          "name": "PCdoB",
+          "lineage": "PCdoB",
+          "chamberEquivalent": 8.6,
+          "governorEquivalent": 1,
+          "senateEquivalent": 0
+        },
+        {
+          "id": "PDT",
+          "name": "PDT",
+          "lineage": "PDT",
+          "chamberEquivalent": 28.9,
+          "governorEquivalent": 1,
+          "senateEquivalent": 6
+        },
+        {
+          "id": "PL",
+          "name": "PL",
+          "lineage": "PL line",
+          "chamberEquivalent": 38.3,
+          "governorEquivalent": 0,
+          "senateEquivalent": 2
+        },
+        {
+          "id": "PODE",
+          "name": "PODE",
+          "lineage": "PTN/Podemos line",
+          "chamberEquivalent": 10.4,
+          "governorEquivalent": 1,
+          "senateEquivalent": 3
+        },
+        {
+          "id": "PP",
+          "name": "PP",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 37.4,
+          "governorEquivalent": 1,
+          "senateEquivalent": 6
+        },
+        {
+          "id": "PROS",
+          "name": "PROS",
+          "lineage": "PROS",
+          "chamberEquivalent": 10.4,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "PSB",
+          "name": "PSB",
+          "lineage": "PSB",
+          "chamberEquivalent": 31.3,
+          "governorEquivalent": 3,
+          "senateEquivalent": 5
+        },
+        {
+          "id": "PSC",
+          "name": "PSC",
+          "lineage": "PSC",
+          "chamberEquivalent": 8.8,
+          "governorEquivalent": 2,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "PSD",
+          "name": "PSD",
+          "lineage": "PSD",
+          "chamberEquivalent": 34.1,
+          "governorEquivalent": 2,
+          "senateEquivalent": 7
+        },
+        {
+          "id": "PSDB",
+          "name": "PSDB",
+          "lineage": "PSDB",
+          "chamberEquivalent": 32.2,
+          "governorEquivalent": 3,
+          "senateEquivalent": 8
+        },
+        {
+          "id": "PSL",
+          "name": "PSL",
+          "lineage": "PSL",
+          "chamberEquivalent": 57.3,
+          "governorEquivalent": 3,
+          "senateEquivalent": 3
+        },
+        {
+          "id": "PSOL",
+          "name": "PSOL",
+          "lineage": "PSOL",
+          "chamberEquivalent": 9.2,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0
+        },
+        {
+          "id": "PT",
+          "name": "PT",
+          "lineage": "PT",
+          "chamberEquivalent": 52.8,
+          "governorEquivalent": 4,
+          "senateEquivalent": 6
+        },
+        {
+          "id": "PTB",
+          "name": "PTB",
+          "lineage": "PTB",
+          "chamberEquivalent": 11,
+          "governorEquivalent": 0,
+          "senateEquivalent": 4
+        },
+        {
+          "id": "REDE",
+          "name": "REDE",
+          "lineage": "REDE",
+          "chamberEquivalent": 1.1,
+          "governorEquivalent": 0,
+          "senateEquivalent": 5
+        },
+        {
+          "id": "REPUBLICANOS",
+          "name": "REPUBLICANOS",
+          "lineage": "PRB/Republicanos line",
+          "chamberEquivalent": 32.1,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "SOLIDARIEDADE",
+          "name": "SOLIDARIEDADE",
+          "lineage": "SOLIDARIEDADE",
+          "chamberEquivalent": 13.8,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1
+        }
+      ]
+    },
+    "2021": {
+      "offices": [
+        null,
+        "PP",
+        "DEM"
+      ],
+      "quality": "S",
+      "rows": [
+        {
+          "id": "AVANTE",
+          "name": "AVANTE",
+          "lineage": "AVANTE",
+          "chamberEquivalent": 8.1,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0
+        },
+        {
+          "id": "CIDADANIA",
+          "name": "CIDADANIA",
+          "lineage": "PPS/Cidadania line",
+          "chamberEquivalent": 7.8,
+          "governorEquivalent": 0,
+          "senateEquivalent": 2
+        },
+        {
+          "id": "DEM",
+          "name": "DEM",
+          "lineage": "PFL/DEM line",
+          "chamberEquivalent": 26.2,
+          "governorEquivalent": 2,
+          "senateEquivalent": 7
+        },
+        {
+          "id": "MDB",
+          "name": "MDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 31.1,
+          "governorEquivalent": 3,
+          "senateEquivalent": 12
+        },
+        {
+          "id": "NOVO",
+          "name": "NOVO",
+          "lineage": "NOVO",
+          "chamberEquivalent": 9.6,
+          "governorEquivalent": 1,
+          "senateEquivalent": 0
+        },
+        {
+          "id": "PCDOB",
+          "name": "PCdoB",
+          "lineage": "PCdoB",
+          "chamberEquivalent": 8.2,
+          "governorEquivalent": 1,
+          "senateEquivalent": 0
+        },
+        {
+          "id": "PDT",
+          "name": "PDT",
+          "lineage": "PDT",
+          "chamberEquivalent": 26.5,
+          "governorEquivalent": 1,
+          "senateEquivalent": 6
+        },
+        {
+          "id": "PL",
+          "name": "PL",
+          "lineage": "PL line",
+          "chamberEquivalent": 40,
+          "governorEquivalent": 0,
+          "senateEquivalent": 2
+        },
+        {
+          "id": "PODE",
+          "name": "PODE",
+          "lineage": "PTN/Podemos line",
+          "chamberEquivalent": 10.1,
+          "governorEquivalent": 1,
+          "senateEquivalent": 3
+        },
+        {
+          "id": "PP",
+          "name": "PP",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 37.7,
+          "governorEquivalent": 1,
+          "senateEquivalent": 6
+        },
+        {
+          "id": "PROS",
+          "name": "PROS",
+          "lineage": "PROS",
+          "chamberEquivalent": 10.9,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "PSB",
+          "name": "PSB",
+          "lineage": "PSB",
+          "chamberEquivalent": 31.2,
+          "governorEquivalent": 3,
+          "senateEquivalent": 5
+        },
+        {
+          "id": "PSC",
+          "name": "PSC",
+          "lineage": "PSC",
+          "chamberEquivalent": 10.5,
+          "governorEquivalent": 2,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "PSD",
+          "name": "PSD",
+          "lineage": "PSD",
+          "chamberEquivalent": 34.1,
+          "governorEquivalent": 2,
+          "senateEquivalent": 7
+        },
+        {
+          "id": "PSDB",
+          "name": "PSDB",
+          "lineage": "PSDB",
+          "chamberEquivalent": 32.2,
+          "governorEquivalent": 3,
+          "senateEquivalent": 8
+        },
+        {
+          "id": "PSL",
+          "name": "PSL",
+          "lineage": "PSL",
+          "chamberEquivalent": 56.9,
+          "governorEquivalent": 3,
+          "senateEquivalent": 3
+        },
+        {
+          "id": "PSOL",
+          "name": "PSOL",
+          "lineage": "PSOL",
+          "chamberEquivalent": 9.1,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0
+        },
+        {
+          "id": "PT",
+          "name": "PT",
+          "lineage": "PT",
+          "chamberEquivalent": 56.6,
+          "governorEquivalent": 4,
+          "senateEquivalent": 6
+        },
+        {
+          "id": "PTB",
+          "name": "PTB",
+          "lineage": "PTB",
+          "chamberEquivalent": 9.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 4
+        },
+        {
+          "id": "REDE",
+          "name": "REDE",
+          "lineage": "REDE",
+          "chamberEquivalent": 1.2,
+          "governorEquivalent": 0,
+          "senateEquivalent": 5
+        },
+        {
+          "id": "REPUBLICANOS",
+          "name": "REPUBLICANOS",
+          "lineage": "PRB/Republicanos line",
+          "chamberEquivalent": 32.6,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "SOLIDARIEDADE",
+          "name": "SOLIDARIEDADE",
+          "lineage": "SOLIDARIEDADE",
+          "chamberEquivalent": 12.6,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1
+        }
+      ]
+    },
+    "2022": {
+      "offices": [
+        "PL",
+        "PP",
+        "PSD"
+      ],
+      "quality": "S",
+      "rows": [
+        {
+          "id": "CIDADANIA",
+          "name": "CIDADANIA",
+          "lineage": "PPS/Cidadania line",
+          "chamberEquivalent": 6.5,
+          "governorEquivalent": 0,
+          "senateEquivalent": 2
+        },
+        {
+          "id": "DEM",
+          "name": "DEM",
+          "lineage": "PFL/DEM line",
+          "chamberEquivalent": 0,
+          "governorEquivalent": 2,
+          "senateEquivalent": 7
+        },
+        {
+          "id": "MDB",
+          "name": "MDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 32.7,
+          "governorEquivalent": 3,
+          "senateEquivalent": 12
+        },
+        {
+          "id": "NOVO",
+          "name": "NOVO",
+          "lineage": "NOVO",
+          "chamberEquivalent": 10.2,
+          "governorEquivalent": 1,
+          "senateEquivalent": 0
+        },
+        {
+          "id": "PCDOB",
+          "name": "PCdoB",
+          "lineage": "PCdoB",
+          "chamberEquivalent": 8.9,
+          "governorEquivalent": 1,
+          "senateEquivalent": 0
+        },
+        {
+          "id": "PDT",
+          "name": "PDT",
+          "lineage": "PDT",
+          "chamberEquivalent": 22.3,
+          "governorEquivalent": 1,
+          "senateEquivalent": 6
+        },
+        {
+          "id": "PL",
+          "name": "PL",
+          "lineage": "PL line",
+          "chamberEquivalent": 71,
+          "governorEquivalent": 0,
+          "senateEquivalent": 2
+        },
+        {
+          "id": "PODE",
+          "name": "PODE",
+          "lineage": "PTN/Podemos line",
+          "chamberEquivalent": 9,
+          "governorEquivalent": 1,
+          "senateEquivalent": 3
+        },
+        {
+          "id": "PP",
+          "name": "PP",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 48.6,
+          "governorEquivalent": 1,
+          "senateEquivalent": 6
+        },
+        {
+          "id": "PSB",
+          "name": "PSB",
+          "lineage": "PSB",
+          "chamberEquivalent": 26.5,
+          "governorEquivalent": 3,
+          "senateEquivalent": 5
+        },
+        {
+          "id": "PSC",
+          "name": "PSC",
+          "lineage": "PSC",
+          "chamberEquivalent": 9.3,
+          "governorEquivalent": 2,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "PSD",
+          "name": "PSD",
+          "lineage": "PSD",
+          "chamberEquivalent": 42.2,
+          "governorEquivalent": 2,
+          "senateEquivalent": 7
+        },
+        {
+          "id": "PSDB",
+          "name": "PSDB",
+          "lineage": "PSDB",
+          "chamberEquivalent": 23.6,
+          "governorEquivalent": 3,
+          "senateEquivalent": 8
+        },
+        {
+          "id": "PSL",
+          "name": "PSL",
+          "lineage": "PSL",
+          "chamberEquivalent": 0,
+          "governorEquivalent": 3,
+          "senateEquivalent": 3
+        },
+        {
+          "id": "PSOL",
+          "name": "PSOL",
+          "lineage": "PSOL",
+          "chamberEquivalent": 8.8,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0
+        },
+        {
+          "id": "PT",
+          "name": "PT",
+          "lineage": "PT",
+          "chamberEquivalent": 60.5,
+          "governorEquivalent": 4,
+          "senateEquivalent": 6
+        },
+        {
+          "id": "PTB",
+          "name": "PTB",
+          "lineage": "PTB",
+          "chamberEquivalent": 4.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 4
+        },
+        {
+          "id": "REDE",
+          "name": "REDE",
+          "lineage": "REDE",
+          "chamberEquivalent": 1.9,
+          "governorEquivalent": 0,
+          "senateEquivalent": 5
+        },
+        {
+          "id": "REPUBLICANOS",
+          "name": "REPUBLICANOS",
+          "lineage": "PRB/Republicanos line",
+          "chamberEquivalent": 41.6,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "SOLIDARIEDADE",
+          "name": "SOLIDARIEDADE",
+          "lineage": "SOLIDARIEDADE",
+          "chamberEquivalent": 7.5,
+          "governorEquivalent": 0,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "UNIÃO",
+          "name": "União Brasil",
+          "lineage": "União Brasil",
+          "chamberEquivalent": 56.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0
+        }
+      ]
+    },
+    "2023": {
+      "offices": [
+        "PT",
+        "PP",
+        "PSD"
+      ],
+      "quality": "S",
+      "rows": [
+        {
+          "id": "MDB",
+          "name": "MDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 40.6,
+          "governorEquivalent": 3,
+          "senateEquivalent": 8
+        },
+        {
+          "id": "NOVO",
+          "name": "NOVO",
+          "lineage": "NOVO",
+          "chamberEquivalent": 3.7,
+          "governorEquivalent": 1,
+          "senateEquivalent": 0
+        },
+        {
+          "id": "PDT",
+          "name": "PDT",
+          "lineage": "PDT",
+          "chamberEquivalent": 18.9,
+          "governorEquivalent": 0,
+          "senateEquivalent": 2
+        },
+        {
+          "id": "PL",
+          "name": "PL",
+          "lineage": "PL line",
+          "chamberEquivalent": 97.2,
+          "governorEquivalent": 2,
+          "senateEquivalent": 9
+        },
+        {
+          "id": "PODE",
+          "name": "PODE",
+          "lineage": "PTN/Podemos line",
+          "chamberEquivalent": 14.5,
+          "governorEquivalent": 0,
+          "senateEquivalent": 3
+        },
+        {
+          "id": "PP",
+          "name": "PP",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 48.1,
+          "governorEquivalent": 2,
+          "senateEquivalent": 8
+        },
+        {
+          "id": "PSB",
+          "name": "PSB",
+          "lineage": "PSB",
+          "chamberEquivalent": 15.8,
+          "governorEquivalent": 3,
+          "senateEquivalent": 3
+        },
+        {
+          "id": "PSD",
+          "name": "PSD",
+          "lineage": "PSD",
+          "chamberEquivalent": 41.1,
+          "governorEquivalent": 2,
+          "senateEquivalent": 7
+        },
+        {
+          "id": "PSDB",
+          "name": "PSDB",
+          "lineage": "PSDB",
+          "chamberEquivalent": 13.9,
+          "governorEquivalent": 3,
+          "senateEquivalent": 4
+        },
+        {
+          "id": "PSOL",
+          "name": "PSOL",
+          "lineage": "PSOL",
+          "chamberEquivalent": 13.4,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0
+        },
+        {
+          "id": "PT",
+          "name": "PT",
+          "lineage": "PT",
+          "chamberEquivalent": 71.5,
+          "governorEquivalent": 4,
+          "senateEquivalent": 8
+        },
+        {
+          "id": "REDE",
+          "name": "REDE",
+          "lineage": "REDE",
+          "chamberEquivalent": 1.1,
+          "governorEquivalent": 0,
+          "senateEquivalent": 5
+        },
+        {
+          "id": "REPUBLICANOS",
+          "name": "REPUBLICANOS",
+          "lineage": "PRB/Republicanos line",
+          "chamberEquivalent": 42.5,
+          "governorEquivalent": 2,
+          "senateEquivalent": 3
+        },
+        {
+          "id": "SOLIDARIEDADE",
+          "name": "SOLIDARIEDADE",
+          "lineage": "SOLIDARIEDADE",
+          "chamberEquivalent": 4.5,
+          "governorEquivalent": 1,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "UNIÃO",
+          "name": "União Brasil",
+          "lineage": "União Brasil",
+          "chamberEquivalent": 57.3,
+          "governorEquivalent": 4,
+          "senateEquivalent": 12
+        }
+      ]
+    },
+    "2024": {
+      "offices": [
+        "PT",
+        "PP",
+        "PSD"
+      ],
+      "quality": "S",
+      "rows": [
+        {
+          "id": "MDB",
+          "name": "MDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 40.1,
+          "governorEquivalent": 3,
+          "senateEquivalent": 8
+        },
+        {
+          "id": "NOVO",
+          "name": "NOVO",
+          "lineage": "NOVO",
+          "chamberEquivalent": 4,
+          "governorEquivalent": 1,
+          "senateEquivalent": 0
+        },
+        {
+          "id": "PDT",
+          "name": "PDT",
+          "lineage": "PDT",
+          "chamberEquivalent": 19.3,
+          "governorEquivalent": 0,
+          "senateEquivalent": 2
+        },
+        {
+          "id": "PL",
+          "name": "PL",
+          "lineage": "PL line",
+          "chamberEquivalent": 95.3,
+          "governorEquivalent": 2,
+          "senateEquivalent": 9
+        },
+        {
+          "id": "PODE",
+          "name": "PODE",
+          "lineage": "PTN/Podemos line",
+          "chamberEquivalent": 15,
+          "governorEquivalent": 0,
+          "senateEquivalent": 3
+        },
+        {
+          "id": "PP",
+          "name": "PP",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 49.3,
+          "governorEquivalent": 2,
+          "senateEquivalent": 8
+        },
+        {
+          "id": "PSB",
+          "name": "PSB",
+          "lineage": "PSB",
+          "chamberEquivalent": 14.8,
+          "governorEquivalent": 3,
+          "senateEquivalent": 3
+        },
+        {
+          "id": "PSD",
+          "name": "PSD",
+          "lineage": "PSD",
+          "chamberEquivalent": 42.1,
+          "governorEquivalent": 2,
+          "senateEquivalent": 7
+        },
+        {
+          "id": "PSDB",
+          "name": "PSDB",
+          "lineage": "PSDB",
+          "chamberEquivalent": 12.2,
+          "governorEquivalent": 3,
+          "senateEquivalent": 4
+        },
+        {
+          "id": "PSOL",
+          "name": "PSOL",
+          "lineage": "PSOL",
+          "chamberEquivalent": 13,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0
+        },
+        {
+          "id": "PT",
+          "name": "PT",
+          "lineage": "PT",
+          "chamberEquivalent": 72.1,
+          "governorEquivalent": 4,
+          "senateEquivalent": 8
+        },
+        {
+          "id": "REDE",
+          "name": "REDE",
+          "lineage": "REDE",
+          "chamberEquivalent": 1,
+          "governorEquivalent": 0,
+          "senateEquivalent": 5
+        },
+        {
+          "id": "REPUBLICANOS",
+          "name": "REPUBLICANOS",
+          "lineage": "PRB/Republicanos line",
+          "chamberEquivalent": 44.9,
+          "governorEquivalent": 2,
+          "senateEquivalent": 3
+        },
+        {
+          "id": "SOLIDARIEDADE",
+          "name": "SOLIDARIEDADE",
+          "lineage": "SOLIDARIEDADE",
+          "chamberEquivalent": 4.5,
+          "governorEquivalent": 1,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "UNIÃO",
+          "name": "União Brasil",
+          "lineage": "União Brasil",
+          "chamberEquivalent": 57.6,
+          "governorEquivalent": 4,
+          "senateEquivalent": 12
+        }
+      ]
+    },
+    "2025": {
+      "offices": [
+        "PT",
+        "REPUBLICANOS",
+        "União Brasil"
+      ],
+      "quality": "S",
+      "rows": [
+        {
+          "id": "MDB",
+          "name": "MDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 38.3,
+          "governorEquivalent": 3,
+          "senateEquivalent": 8
+        },
+        {
+          "id": "NOVO",
+          "name": "NOVO",
+          "lineage": "NOVO",
+          "chamberEquivalent": 5.5,
+          "governorEquivalent": 1,
+          "senateEquivalent": 0
+        },
+        {
+          "id": "PCDOB",
+          "name": "PCdoB",
+          "lineage": "PCdoB",
+          "chamberEquivalent": 9.9,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0
+        },
+        {
+          "id": "PDT",
+          "name": "PDT",
+          "lineage": "PDT",
+          "chamberEquivalent": 17.8,
+          "governorEquivalent": 0,
+          "senateEquivalent": 2
+        },
+        {
+          "id": "PL",
+          "name": "PL",
+          "lineage": "PL line",
+          "chamberEquivalent": 89.3,
+          "governorEquivalent": 2,
+          "senateEquivalent": 9
+        },
+        {
+          "id": "PODE",
+          "name": "PODE",
+          "lineage": "PTN/Podemos line",
+          "chamberEquivalent": 16.4,
+          "governorEquivalent": 0,
+          "senateEquivalent": 3
+        },
+        {
+          "id": "PP",
+          "name": "PP",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 47.4,
+          "governorEquivalent": 2,
+          "senateEquivalent": 8
+        },
+        {
+          "id": "PSB",
+          "name": "PSB",
+          "lineage": "PSB",
+          "chamberEquivalent": 15.9,
+          "governorEquivalent": 3,
+          "senateEquivalent": 3
+        },
+        {
+          "id": "PSD",
+          "name": "PSD",
+          "lineage": "PSD",
+          "chamberEquivalent": 43.1,
+          "governorEquivalent": 2,
+          "senateEquivalent": 7
+        },
+        {
+          "id": "PSDB",
+          "name": "PSDB",
+          "lineage": "PSDB",
+          "chamberEquivalent": 13.4,
+          "governorEquivalent": 3,
+          "senateEquivalent": 4
+        },
+        {
+          "id": "PSOL",
+          "name": "PSOL",
+          "lineage": "PSOL",
+          "chamberEquivalent": 14.1,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0
+        },
+        {
+          "id": "PT",
+          "name": "PT",
+          "lineage": "PT",
+          "chamberEquivalent": 72.3,
+          "governorEquivalent": 4,
+          "senateEquivalent": 8
+        },
+        {
+          "id": "REDE",
+          "name": "REDE",
+          "lineage": "REDE",
+          "chamberEquivalent": 1.5,
+          "governorEquivalent": 0,
+          "senateEquivalent": 5
+        },
+        {
+          "id": "REPUBLICANOS",
+          "name": "REPUBLICANOS",
+          "lineage": "PRB/Republicanos line",
+          "chamberEquivalent": 45.3,
+          "governorEquivalent": 2,
+          "senateEquivalent": 3
+        },
+        {
+          "id": "SOLIDARIEDADE",
+          "name": "SOLIDARIEDADE",
+          "lineage": "SOLIDARIEDADE",
+          "chamberEquivalent": 4.5,
+          "governorEquivalent": 1,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "UNIÃO",
+          "name": "União Brasil",
+          "lineage": "União Brasil",
+          "chamberEquivalent": 58.6,
+          "governorEquivalent": 4,
+          "senateEquivalent": 12
+        }
+      ]
+    },
+    "2026": {
+      "offices": [
+        "PT",
+        "REPUBLICANOS",
+        "União Brasil"
+      ],
+      "quality": "S",
+      "rows": [
+        {
+          "id": "MDB",
+          "name": "MDB",
+          "lineage": "MDB/PMDB line",
+          "chamberEquivalent": 35.3,
+          "governorEquivalent": 3,
+          "senateEquivalent": 8
+        },
+        {
+          "id": "NOVO",
+          "name": "NOVO",
+          "lineage": "NOVO",
+          "chamberEquivalent": 5.6,
+          "governorEquivalent": 1,
+          "senateEquivalent": 0
+        },
+        {
+          "id": "PCDOB",
+          "name": "PCdoB",
+          "lineage": "PCdoB",
+          "chamberEquivalent": 11.4,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0
+        },
+        {
+          "id": "PDT",
+          "name": "PDT",
+          "lineage": "PDT",
+          "chamberEquivalent": 14.3,
+          "governorEquivalent": 0,
+          "senateEquivalent": 2
+        },
+        {
+          "id": "PL",
+          "name": "PL",
+          "lineage": "PL line",
+          "chamberEquivalent": 94.4,
+          "governorEquivalent": 2,
+          "senateEquivalent": 9
+        },
+        {
+          "id": "PODE",
+          "name": "PODE",
+          "lineage": "PTN/Podemos line",
+          "chamberEquivalent": 20.6,
+          "governorEquivalent": 0,
+          "senateEquivalent": 3
+        },
+        {
+          "id": "PP",
+          "name": "PP",
+          "lineage": "ARENA/PDS/PP line",
+          "chamberEquivalent": 44.5,
+          "governorEquivalent": 2,
+          "senateEquivalent": 8
+        },
+        {
+          "id": "PSB",
+          "name": "PSB",
+          "lineage": "PSB",
+          "chamberEquivalent": 17,
+          "governorEquivalent": 3,
+          "senateEquivalent": 3
+        },
+        {
+          "id": "PSD",
+          "name": "PSD",
+          "lineage": "PSD",
+          "chamberEquivalent": 45,
+          "governorEquivalent": 2,
+          "senateEquivalent": 7
+        },
+        {
+          "id": "PSDB",
+          "name": "PSDB",
+          "lineage": "PSDB",
+          "chamberEquivalent": 16.8,
+          "governorEquivalent": 3,
+          "senateEquivalent": 4
+        },
+        {
+          "id": "PSOL",
+          "name": "PSOL",
+          "lineage": "PSOL",
+          "chamberEquivalent": 12.7,
+          "governorEquivalent": 0,
+          "senateEquivalent": 0
+        },
+        {
+          "id": "PT",
+          "name": "PT",
+          "lineage": "PT",
+          "chamberEquivalent": 71.3,
+          "governorEquivalent": 4,
+          "senateEquivalent": 8
+        },
+        {
+          "id": "REDE",
+          "name": "REDE",
+          "lineage": "REDE",
+          "chamberEquivalent": 4.2,
+          "governorEquivalent": 0,
+          "senateEquivalent": 5
+        },
+        {
+          "id": "REPUBLICANOS",
+          "name": "REPUBLICANOS",
+          "lineage": "PRB/Republicanos line",
+          "chamberEquivalent": 43.6,
+          "governorEquivalent": 2,
+          "senateEquivalent": 3
+        },
+        {
+          "id": "SOLIDARIEDADE",
+          "name": "SOLIDARIEDADE",
+          "lineage": "SOLIDARIEDADE",
+          "chamberEquivalent": 4.9,
+          "governorEquivalent": 1,
+          "senateEquivalent": 1
+        },
+        {
+          "id": "UNIÃO",
+          "name": "União Brasil",
+          "lineage": "União Brasil",
+          "chamberEquivalent": 51.5,
+          "governorEquivalent": 4,
+          "senateEquivalent": 12
+        }
+      ]
+    }
+  }
+}
