@@ -18,6 +18,10 @@ for(const y of [1992,1993,1994])ok(!d.snapshots[y].rows.some(r=>r.id==='PRS'),'P
 for(const y of d.years.filter(y=>y<1995||y>=2019))ok(d.snapshots[y].rows.every(r=>r.senateShare===null),'unreliable Senate component withheld '+y);
 ok(summarize(d.snapshots[1969]).rows.every(r=>r.parts.filter(p=>['speaker','senatePresident','chamberShare','senateShare'].includes(p.key)).every(p=>p.points===null)),'closed Congress not awarded points');
 ok(d.parties.some(p=>p.id==='PTN (1945)')&&d.parties.some(p=>p.id==='PODE'),'separate PTNs');
+ok(d.snapshots[2016].rows.find(r=>r.id==='PL').name==='PR','PR historical label');
+ok(d.snapshots[2019].rows.find(r=>r.id==='REPUBLICANOS').name==='PRB','PRB in July 2019');
+ok(d.snapshots[2019].rows.find(r=>r.id==='CIDADANIA').name==='PPS','PPS in July 2019');
+ok(d.snapshots[2020].rows.find(r=>r.id==='REPUBLICANOS').name==='Republicanos','Republicanos by July 2020');
 for(const p of d.parties)ok(p.fullName.length>2&&p.first<=p.last,'named party '+p.id);
 function bilingual(x){if(!x||typeof x!=='object')return;if('pt'in x||'en'in x)ok(x.pt&&x.en,'both languages present');for(const v of Object.values(x))if(typeof v==='object')bilingual(v);}
 bilingual(d);bilingual(c);bilingual(imgs);

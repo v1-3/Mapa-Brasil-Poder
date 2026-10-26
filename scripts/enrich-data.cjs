@@ -26,5 +26,25 @@ for(const r of d.snapshots[1969].rows)r.chamberShare=r.senateShare=null;
 const closed=bi('O Congresso estava fechado em 1º de julho de 1969. Os nomes das Mesas permanecem como registro histórico, mas seus cargos e as bancadas não recebem pontos neste recorte. A reabertura ocorreu em 22 de outubro.','Congress was closed on 1 July 1969. The presiding officers remain named as a historical record, but their offices and parliamentary groups receive no points in this profile. Congress reopened on 22 October.');
 d.snapshots[1969].notes.pt.push(closed.pt);d.snapshots[1969].notes.en.push(closed.en);d.snapshots[1969].sources.push('congress-1969');
 d.corrections.push({years:[1969],description:closed,sourceIds:['congress-1969']});
+d.sources.push(
+{id:'tse-pr-pl',title:'TSE — PR volta a se chamar PL, 7/5/2019',url:'https://www.tse.jus.br/comunicacao/noticias/2019/Maio/aprovada-alteracao-do-nome-do-partido-da-republica-pr-para-partido-liberal-pl'},
+{id:'tse-cidadania',title:'TSE — PPS passa a se chamar Cidadania, 19/9/2019',url:'https://www.tse.jus.br/comunicacao/noticias/2019/Setembro/plenario-aprova-mudanca-do-nome-do-pps-para-cidadania'},
+{id:'tse-republicanos',title:'TSE — mudança de PRB para Republicanos, 15/8/2019',url:'https://www.tse.jus.br/partidos/partidos-registrados-no-tse/arquivos/decisao-monocratica-tutela-provisoria-de-urgencia-de-15-de-agosto-de-2019-rpp-no-0025929-56-2005-6-00-0000/@@download/file/tse-mudanca-%20nome-PRB-Republicanos-decisao-de-15-08-2019.pdf'},
+{id:'tse-progressistas',title:'TSE — Progressistas, estatutos e denominações históricas',url:'https://www.tse.jus.br/partidos/partidos-registrados-no-tse/partido-progressista'});
+const datedNames=bi('Os rótulos seguem a denominação registrada na referência de julho: PR em 2007–2018; PRB e PPS ainda em julho de 2019. Republicanos e Cidadania foram aprovados, respectivamente, em agosto e setembro de 2019.','Labels follow the registered name at the July reference: PR in 2007–2018; still PRB and PPS in July 2019. Republicanos and Cidadania were approved in August and September 2019, respectively.');
+d.corrections.push({years:[2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019],description:datedNames,sourceIds:['tse-history','tse-pr-pl','tse-republicanos','tse-cidadania']});
+for(const y of d.years){const s=d.snapshots[y];for(const r of s.rows){
+ if(r.id==='PL')r.name=y>=2007&&y<=2018?'PR':'PL';
+ if(r.id==='REPUBLICANOS')r.name=y<=2019?'PRB':'Republicanos';
+ if(r.id==='CIDADANIA')r.name=y<=2019?'PPS':'Cidadania';
+ if(r.id==='PODE'&&y>=2017)r.name='Podemos';
+ if(r.id==='SOLIDARIEDADE')r.name='Solidariedade';
+ const names={ARENA:'Aliança Renovadora Nacional',PDS:'Partido Democrático Social',PPR:'Partido Progressista Reformador',PPB:'Partido Progressista Brasileiro','PPB (1946)':'Partido Proletário do Brasil',PMDB:'Partido do Movimento Democrático Brasileiro',MDB:'Movimento Democrático Brasileiro',PFL:'Partido da Frente Liberal',DEM:'Democratas',PR:'Partido da República',PL:'Partido Liberal',PPS:'Partido Popular Socialista',Cidadania:'Cidadania',PRB:'Partido Republicano Brasileiro',Republicanos:'Republicanos',Podemos:'Podemos',PTN:'Partido Trabalhista Nacional',PST:'Partido Social Trabalhista'};
+ r.fullName=names[r.name]||fullNames[r.id]||r.name;
+ if(r.id==='PP'&&r.name==='PP')r.fullName=y<=2018?'Partido Progressista':'Progressistas';
+ }
+ if(y>=2007&&y<=2019){s.notes.pt.push(datedNames.pt);s.notes.en.push(datedNames.en);s.sources.push('tse-pr-pl','tse-republicanos','tse-cidadania');}
+}
+for(const p of d.parties){p.label=d.snapshots[p.last].rows.find(r=>r.id===p.id).name;if(/\(19\d\d\)/.test(p.id))p.label=p.id;}
 for(const y of d.years){d.snapshots[y].quality=d.snapshots[y].rows.some(r=>['chamberShare','governorShare','senateShare'].some(k=>r[k]===null))?'mixed':'estimated';}
 fs.writeFileSync(file,JSON.stringify(d,null,2)+'\n');console.log('Enriched 240 officeholder names and '+d.parties.length+' party names.');
