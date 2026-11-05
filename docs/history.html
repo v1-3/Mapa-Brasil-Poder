@@ -64,6 +64,11 @@ main{max-width:1600px;gap:30px;padding:0 clamp(18px,3vw,48px) 48px}.masthead{pad
 main{grid-template-columns:minmax(0,1fr)}.workspace{min-width:0}.workspace>*{min-width:0}
 .strand-controls{display:flex;align-items:end;gap:12px;margin:12px 0}.strand-controls label{flex:1;min-width:0;font-size:11px;color:var(--mut)}.strand-controls label span{display:block;margin-bottom:5px}.strand-controls select{width:100%;min-width:0;padding:9px 10px;border:1px solid var(--rule);border-radius:4px;background:var(--panel);color:var(--ink);font-size:12px}.strand-controls button{padding:9px 12px;background:var(--panel);color:var(--ink);border:1px solid var(--rule);border-radius:4px;font-size:11px}.strand-controls button:disabled{opacity:.45;cursor:default}#strand-detail{background:var(--panel);border:1px solid var(--rule);border-radius:5px;padding:16px;margin-bottom:14px;font-size:12px}#strand-detail[hidden]{display:none}.strand-heading{display:flex;gap:10px;align-items:center}.strand-heading i{width:12px;height:12px;border-radius:3px}.strand-heading strong{font:700 19px Fraunces,serif}.strand-heading>span{margin-left:auto;color:var(--mut)}.strand-numbers{display:flex;gap:30px;margin:12px 0}.strand-numbers p{margin:0}.strand-numbers b{display:block;font:700 24px Fraunces,serif}.strand-numbers span{font-size:11px;color:var(--mut)}#strand-detail p{line-height:1.6}#strand-detail small{color:var(--mut)}#c path[data-series]{cursor:pointer}#c .lab{pointer-events:none}#c #cur{pointer-events:none}
 @media print{.workspace{display:block}.workspace>#explore{position:static}.rail-card{break-inside:avoid}.language-switch{display:none}}
+/* Keep the chart stable while year cards and strand details change. */
+.workspace>#explore{position:static;display:flex;flex-direction:column}
+.workspace{overflow-anchor:none}
+.workspace .graph-toolbar .meta b{min-height:2.2em}
+.workspace #strand-detail{order:1;margin-top:14px;margin-bottom:0}
 </style></head><body><a class="skip" href="#explore">Skip to explorer</a>
 
 <main>
